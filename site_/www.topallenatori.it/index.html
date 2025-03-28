@@ -13,22 +13,29 @@
             display: flex;
         }
         header {
-            background-color: #ffcc00;
+            background-color: #32CD32; /* Green soccer field color */
             padding: 20px;
             text-align: center;
-            border-bottom: 5px solid #ff6600;
+            border-bottom: 5px solid #228B22; /* Darker green for border */
             width: 100%;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            position: fixed;
+            top: 0;
+            left: 0;
+            z-index: 1000;
         }
         header img {
-            width: 150px;
+            200px; /* Emphasize the logo */
         }
         nav {
-            background-color: #ff6600;
+            background-color: #228B22; /* Darker green */
             padding: 10px;
             width: 200px;
             height: 100vh;
             position: fixed;
-            top: 0;
+            top: 100px; /* Adjust to avoid overlap with header */
             left: 0;
             overflow-y: auto;
         }
@@ -46,23 +53,24 @@
             font-weight: bold;
             padding: 10px 20px;
             border-radius: 5px;
-            background-color: #ffcc00;
+            background-color: #32CD32; /* Green soccer field color */
             display: block;
             transition: background-color 0.3s;
         }
         nav ul li a:hover {
-            background-color: #ff9900;
+            background-color: #3CB371; /* Lighter green on hover */
         }
         .content {
             margin-left: 220px;
             padding: 20px;
             width: calc(100% - 220px);
+            margin-top: 120px; /* Adjust to avoid overlap with header */
         }
         footer {
-            background-color: #ffcc00;
+            background-color: #32CD32; /* Green soccer field color */
             padding: 10px;
             text-align: center;
-            border-top: 5px solid #ff6600;
+            border-top: 5px solid #228B22; /* Darker green for border */
             position: fixed;
             bottom: 0;
             width: calc(100% - 220px);
@@ -71,6 +79,10 @@
     </style>
 </head>
 <body>
+    <header>
+        <img src="wp-content/uploads/2019/11/11.png" alt="Topallenatori Logo">
+        <h1>Welcome to Topallenatori</h1>
+    </header>
     <nav>
         <ul>
             <li><a href="index.html">Home</a></li>
@@ -94,10 +106,6 @@
             <li><a href="contact-us/index.html">Contatti</a></li>
         </ul>
     </nav>
-    <header>
-        <img src="wp-content/uploads/2019/11/11.png" alt="Topallenatori Logo">
-        <h1>Welcome to Topallenatori</h1>
-    </header>
     <div class="content">
         <h2>Welcome to the Cartoon Style Topallenatori Website!</h2>
         <p>Explore our content and enjoy the fun, vibrant design!</p>
