@@ -1,52 +1,94 @@
 body {
     font-family: 'Comic Sans MS', cursive, sans-serif;
     background-color: #f0f8ff;
-    color: #333;
     margin: 0;
     padding: 0;
+    display: flex;
 }
-
 header {
-    background-color: #ffcc00;
-    text-align: center;
+    background-color: #32CD32; /* Green soccer field color */
     padding: 20px;
-    border-bottom: 5px solid #333;
+    text-align: center;
+    border-bottom: 5px solid #228B22; /* Darker green for border */
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 1000;
 }
-
-header h1 {
-    font-size: 3em;
+header img {
+    width: 200px; /* Emphasize the logo */
+}
+nav {
+    background-color: #228B22; /* Darker green */
+    padding: 10px;
+    width: 200px;
+    height: 100vh;
+    position: fixed;
+    top: 100px; /* Adjust to avoid overlap with header */
+    left: 0;
+    overflow-y: auto;
+}
+nav ul {
+    list-style-type: none;
+    padding: 0;
     margin: 0;
 }
-
-header p {
-    font-size: 1.2em;
+nav ul li {
+    margin-bottom: 10px;
 }
-
-main {
+nav ul li a {
+    text-decoration: none;
+    color: white;
+    font-weight: normal; /* Softer font weight */
+    padding: 10px 20px;
+    border-radius: 5px;
+    background-color: #32CD32; /* Green soccer field color */
+    display: block;
+    transition: background-color 0.3s;
+    font-family: 'Arial', sans-serif; /* Softer font style */
+}
+nav ul li a:hover {
+    background-color: #3CB371; /* Lighter green on hover */
+}
+.content {
+    margin-left: 220px;
     padding: 20px;
+    width: calc(100% - 220px);
+    margin-top: 120px; /* Adjust to avoid overlap with header */
 }
-
-section {
-    margin-bottom: 20px;
+.carousel {
+    width: 100%;
+    overflow: hidden;
+    position: relative;
 }
-
-h2 {
-    font-size: 2em;
-    color: #ff6600;
+.carousel img {
+    width: 100%;
+    display: block;
 }
-
-footer {
-    background-color: #ffcc00;
-    text-align: center;
-    padding: 20px;
-    border-top: 5px solid #333;
+.carousel-inner {
+    display: flex;
+    transition: transform 0.5s ease-in-out; /* Smooth transition */
 }
-
-footer h2 {
-    font-size: 2em;
-    margin: 0;
+.carousel-inner img {
+    min-width: 100%;
 }
-
-footer p {
-    font-size: 1.2em;
+.carousel-buttons {
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    transform: translateY(-50%);
+}
+.carousel-buttons button {
+    background-color: #32CD32;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+    font-size: 18px;
+    color: white;
 }
