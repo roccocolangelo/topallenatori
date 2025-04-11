@@ -1,0 +1,6342 @@
+html {
+    font-family: 'Open Sans';
+    font-weight: 400;
+    font-size: 14px;
+}
+
+body {
+    background-color: #F7F7F7;
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden;
+}
+
+.container,
+.pricesPage {
+    padding-top: 84px;
+}
+
+.contentSize {
+    margin: 0px auto;
+    max-width: 1200px;
+    width: 90%;
+}
+
+.contentSize_s {
+    margin: 0px auto;
+    max-width: 920px;
+    width: 90%;
+}
+
+.contentSize_xs {
+    margin: 0px auto;
+    max-width: 580px;
+    width: 90%;
+}
+
+.contentSize_l {
+    margin: 0px auto;
+    max-width: 1450px;
+    width: 90%;
+}
+
+.clra {
+    clear: both;
+}
+
+.clra:after {
+    clear: both;
+    content: ".";
+    display: block;
+    height: 0;
+    visibility: hidden;
+}
+
+h1,
+h2,
+h2,
+h4,
+h5,
+h6 {
+    font-size: inherit;
+    padding: 0;
+    margin: 0;
+    font-weight: inherit;
+}
+
+a {
+    outline: none;
+}
+
+link {
+    text-decoration: none;
+    font-weight: 700;
+}
+
+button,
+input,
+textarea {
+    -moz-appearance: none;
+    -webkit-appearance: none;
+    appearance: none;
+    outline: none;
+}
+
+button:focus,
+input:focus,
+textarea:focus {
+    outline: none;
+}
+
+.table {
+    display: table;
+    width: 100%;
+}
+
+.table .tableCell {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.left {
+    float: left;
+}
+
+.right {
+    float: right;
+}
+
+.center-align {
+    text-align: center;
+}
+
+.left-align {
+    text-align: left;
+}
+
+.right-align {
+    text-align: right;
+}
+
+.justify-align {
+    text-align: justify;
+}
+
+.ui-widget.ui-widget-content {
+    border: none !important;
+}
+
+.ui-slider .ui-slider-handle {
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    background: #FFFFFF;
+    border: none;
+    box-shadow: 0 0 4px rgba(119, 119, 119, 0.65);
+}
+
+.ui-slider .ui-slider-handle.ui-state-active {
+    border: none;
+    background: #2276A5;
+}
+
+.ui-slider .ui-widget-header {
+    background: #2276A5;
+}
+
+.ui-slider-horizontal {
+    height: 3px !important;
+    margin: 40px 10px 15px;
+}
+
+.ui-slider-horizontal .ui-slider-handle {
+    top: -0.5em !important;
+    border: none !important;
+}
+
+.ui-slider-horizontal .ui-slider-handle:focus {
+    outline: none !important;
+}
+
+.ui-slider-horizontal .ui-slider-handle .label {
+    position: absolute;
+    top: -20px;
+    left: 50%;
+    width: 20px;
+    text-align: center;
+    margin-left: -10px;
+    color: #666666;
+    font-size: 13px;
+}
+
+.ui-widget-content {
+    background: #D0D0D0 !important;
+}
+
+[type="checkbox"]:not(:checked),
+[type="checkbox"]:checked {
+    position: absolute;
+    left: -9999px;
+}
+
+[type="checkbox"]:not(:checked)+label,
+[type="checkbox"]:checked+label {
+    position: relative;
+    cursor: pointer;
+    display: block;
+    margin-bottom: 5px;
+    font-size: 15px;
+    color: #666666;
+}
+
+[type="checkbox"]:not(:checked)+label:before,
+[type="checkbox"]:checked+label:before {
+    content: '';
+    position: absolute;
+    right: 0;
+    top: 2px;
+    width: 15px;
+    height: 15px;
+    background: #fff;
+    box-shadow: inset 0 0 4px rgba(136, 136, 136, 0.4);
+}
+
+[type="checkbox"]:not(:checked)+label:after,
+[type="checkbox"]:checked+label:after {
+    content: '';
+    position: absolute;
+    right: 0;
+    top: 2px;
+    width: 15px;
+    height: 15px;
+    transition: all .2s;
+    background-image: url('https://www.pro-soccerdrills.com/images/small_icons/checkbox.svg');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: 90%;
+}
+
+[type="checkbox"]:not(:checked)+label:after {
+    opacity: 0;
+    transform: scale(0);
+}
+
+[type="checkbox"]:checked+label:after {
+    opacity: 1;
+    transform: scale(1);
+}
+
+[type="radio"]:not(:checked),
+[type="radio"]:checked {
+    position: absolute;
+    left: -9999px;
+}
+
+[type="radio"]:not(:checked)+label,
+[type="radio"]:checked+label {
+    position: relative;
+    cursor: pointer;
+    display: block;
+    margin-bottom: 5px;
+    font-size: 15px;
+    color: #666666;
+}
+
+[type="radio"]:not(:checked)+label:before,
+[type="radio"]:checked+label:before {
+    content: '';
+    position: absolute;
+    right: 0;
+    top: 2px;
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    background: #fff;
+    box-shadow: inset 0 0 4px rgba(136, 136, 136, 0.4);
+}
+
+[type="radio"]:not(:checked)+label:after,
+[type="radio"]:checked+label:after {
+    content: '';
+    position: absolute;
+    right: 3px;
+    top: 5px;
+    width: 9px;
+    height: 9px;
+    border-radius: 50%;
+    background-color: #2276A5;
+    transition: all .2s;
+}
+
+[type="radio"]:not(:checked)+label:after {
+    opacity: 0;
+    transform: scale(0);
+}
+
+[type="radio"]:checked+label:after {
+    opacity: 1;
+    transform: scale(1);
+}
+
+.blue-font {
+    color: #2276A5;
+}
+
+.blue-d-font {
+    color: #175B83;
+}
+
+.blue-l-font {
+    color: #2376A6;
+}
+
+.blue-vl-font {
+    color: #63c8f1 !important;
+}
+
+.black-font {
+    color: #191814;
+}
+
+.yellow-font {
+    color: #FFCA03;
+}
+
+.white-font {
+    color: white;
+}
+
+.gray-font {
+    color: #929292;
+}
+
+.gray-l-font {
+    color: #EEEEEE;
+}
+
+.gray-d-font {
+    color: #323232;
+}
+
+.gray-ld-font {
+    color: #CCC;
+}
+
+.blue-bg {
+    background-color: #2276A5;
+}
+
+.blue-d-bg {
+    background-color: #175B83;
+}
+
+.blue-l-bg {
+    background-color: #2376A6;
+}
+
+.blue-vl-bg {
+    background-color: #63c8f1 !important;
+}
+
+.black-bg {
+    background-color: #191814;
+}
+
+.yellow-bg {
+    background-color: #FFCA03;
+}
+
+.white-bg {
+    background-color: white;
+}
+
+.gray-bg {
+    background-color: #929292;
+}
+
+.gray-l-bg {
+    background-color: #EEEEEE;
+}
+
+.gray-d-bg {
+    background-color: #323232;
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+}
+
+header {
+    position: fixed;
+    width: 100%;
+    top: 0px;
+    background-color: white;
+    box-shadow: 0px -2px 12px rgba(0, 0, 0, 0.7);
+    z-index: 10;
+}
+
+header .logo {
+    display: inline-block;
+    float: left;
+    margin-top: 17.5px;
+    margin-right: 20px;
+    width: 300px;
+}
+
+header #searchForm {
+    position: absolute;
+    right: 0;
+    width: 100%;
+}
+
+header #searchForm input[type="submit"] {
+    border: none;
+    background: none;
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    right: 50px;
+    margin-top: 20px;
+    border-radius: 50%;
+    display: none;
+    z-index: 10;
+    cursor: pointer;
+}
+
+header #cartcount {
+    width: 40px;
+    height: 40px;
+    display: inline-flex;
+    vertical-align: middle;
+    background-image: url('https://www.pro-soccerdrills.com/images/cart.svg') !important;
+    background-repeat: no-repeat;
+    background-size: contain;
+    cursor: pointer;
+    justify-content: center;
+    align-items: center;
+    padding-top: 5px;
+    color: #2276A5;
+    text-decoration: none !important;
+}
+
+header #mobilcart {
+    width: 40px;
+    height: 40px;
+    display: inline-flex;
+    vertical-align: middle;
+    background-image: url('https://www.pro-soccerdrills.com/images/cart.svg') !important;
+    background-repeat: no-repeat;
+    background-size: contain;
+    cursor: pointer;
+    justify-content: center;
+    align-items: center;
+    padding-top: 5px;
+    color: #2276A5;
+    text-decoration: none !important;
+}
+
+header #search {
+    width: 40px;
+    height: 40px;
+    display: inline-block;
+    float: right;
+    vertical-align: middle;
+    margin-top: 20px;
+    border-radius: 20px;
+    position: absolute;
+    right: 50px;
+    z-index: 10;
+    background-image: url('https://www.pro-soccerdrills.com/images/small_icons/search.svg') !important;
+    background-repeat: no-repeat;
+    background-size: auto 60%;
+    background-position: center right 7px;
+    padding: 0 20px;
+    cursor: pointer;
+}
+
+header #search.clicked {
+    width: 100%;
+}
+
+header #search.clicked+input[type="submit"] {
+    display: block;
+}
+
+header .gomb {
+    display: inline-block;
+    float: right;
+    padding: 0px 10px;
+    font-size: 13px;
+    font-weight: 800;
+    line-height: 84px;
+    height: 84px;
+    color: #191814;
+    text-transform: uppercase;
+    transition: color .5s;
+    -webkit-transition: color .5s;
+}
+
+header .gomb a {
+    text-decoration: none;
+    color: inherit;
+}
+
+header .gomb.active {
+    color: #2276A5;
+}
+
+header .gomb.active>a {
+    border-bottom: 2px solid #2276A5;
+}
+
+header .gomb:hover {
+    color: #2276A5;
+}
+
+header .gomb.first {
+    position: relative;
+}
+
+header .gomb.first.login {
+    position: absolute;
+    right: 0px;
+    float: right;
+    display: inline-block;
+}
+
+header .gomb.first.profile {
+    padding: 0px;
+    display: inline-block;
+    float: right;
+    vertical-align: middle;
+    border-radius: 20px;
+    position: absolute;
+    line-height: 84px;
+    right: 0px;
+    margin-top: 0px;
+    height: 65px;
+    top: 20px;
+    cursor: pointer;
+}
+
+header .gomb.first.profile .profil_icon {
+    width: 40px;
+    height: 40px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+header .gomb.first.profile .profile-alert {
+    width: 13px;
+    height: 13px;
+    background: #D90000;
+    border-radius: 50%;
+    display: block;
+    position: absolute;
+    top: -2px;
+    right: -3px;
+    font-size: 11px;
+    line-height: 100%;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+}
+
+header .gomb.first.profile .hover {
+    width: 150px;
+    margin: -20px 0px 0px -50px;
+    white-space: nowrap;
+}
+
+header .gomb.first.profile .hover:before {
+    left: 84px;
+}
+
+header .gomb.first .hover {
+    display: none;
+    position: absolute;
+    background-color: white;
+    left: -15px;
+    top: 70px;
+    width: calc(150%);
+    padding: 10px 15px;
+    margin-left: -10px;
+    box-sizing: border-box;
+    box-shadow: 0px 0px 7px 0px rgba(0, 0, 0, 0.5);
+    line-height: normal;
+    font-weight: 600;
+    font-size: 13px;
+    text-transform: capitalize;
+    color: black;
+}
+
+header .gomb.first .hover:before {
+    display: block;
+    content: "";
+    position: absolute;
+    top: -4px;
+    margin-left: -5px;
+    left: 50%;
+    width: 10px;
+    height: 10px;
+    background-color: white;
+    z-index: 10;
+    box-shadow: -2px -2px 1px 0px rgba(0, 0, 0, 0.2);
+    -ms-transform: rotate(45deg);
+    -webkit-transform: rotate(45deg);
+    transform: rotate(45deg);
+}
+
+header .gomb.first .hover .algomb {
+    cursor: pointer;
+    padding: 5px;
+    padding-left: 0px;
+    font-weight: 400;
+    -webkit-transition: all 0.4s;
+    transition: all 0.4s;
+}
+
+header .gomb.first .hover .algomb:hover {
+    font-weight: 700;
+    color: #2276A5;
+    padding-left: 5px;
+}
+
+header .gomb.first.first:hover .hover {
+    display: block;
+}
+
+header .desktop_buttons {
+    float: right;
+    position: relative;
+    padding-right: 100px;
+}
+
+header .mobil_menu_search {
+    display: none;
+    float: right;
+    position: relative;
+    max-height: 40px;
+    margin-top: 2px;
+}
+
+header .mobil_menu_search img {
+    max-height: 40px;
+}
+
+header .mobil_menu_cart {
+    display: none;
+    float: right;
+    position: relative;
+    max-height: 40px;
+    margin-top: 2px;
+}
+
+header .mobil_menu_cart img {
+    max-height: 40px;
+}
+
+header .mobil_menu_button {
+    width: 35px;
+    height: 35px;
+    padding: 5px;
+    display: none;
+    float: right;
+    position: relative;
+    cursor: pointer;
+}
+
+header .mobil_menu_button span {
+    display: block;
+    background-color: #929292;
+    position: absolute;
+    width: 35px;
+    height: 4px;
+    top: 50%;
+    margin-top: -2px;
+    border-radius: 1px;
+    border-radius: 1.3px;
+}
+
+header .mobil_menu_button span.aktiv {
+    background-color: white;
+}
+
+header .mobil_menu_button span.aktiv:before {
+    background-color: #ff4a4c;
+    transform: rotatez(45deg);
+    top: 0px;
+}
+
+header .mobil_menu_button span.aktiv:after {
+    background-color: #ff4a4c;
+    transform: rotatez(-45deg);
+    top: 0px;
+}
+
+header .mobil_menu_button span:before {
+    top: -12px;
+    content: "";
+    background-color: #929292;
+    width: 35px;
+    height: 4px;
+    position: absolute;
+    border-radius: 1px;
+    border-radius: 1.3px;
+}
+
+header .mobil_menu_button span:after {
+    top: 12px;
+    content: "";
+    background-color: #929292;
+    width: 35px;
+    height: 4px;
+    position: absolute;
+    border-radius: 1px;
+    border-radius: 1.3px;
+}
+
+header .mobil_buttons_tarto {
+    display: none;
+    position: absolute;
+    top: 48px;
+    max-width: 80%;
+    background-color: white;
+    right: -80%;
+    box-shadow: 0px 0px 12px -2px rgba(0, 0, 0, 0.4);
+}
+
+header .mobil_buttons_tarto .gomb {
+    height: auto;
+    font-size: 14px;
+    line-height: normal;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    padding-left: 17px;
+    text-decoration: none;
+    -webkit-transition: all 0.4s;
+    transition: all 0.4s;
+}
+
+header .mobil_buttons_tarto .gomb:hover {
+    transform: translateX(-5px);
+    font-weight: 900 !important;
+    color: #2276A5 !important;
+}
+
+header .mobil_buttons_tarto .gomb.algomb {
+    padding-right: 20px;
+    font-weight: 600;
+    font-size: 13px;
+}
+
+header .mobil_buttons_tarto .gomb.algomb:after {
+    content: ' -';
+}
+
+header .mobil_buttons_tarto .gomb.algomb:hover {
+    font-weight: 700 !important;
+}
+
+.priceHeader {
+    background-color: #f7f7f7;
+    box-shadow: none;
+}
+
+.priceHeader .h {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.priceHeader .logo {
+    margin: 17.5px 0;
+}
+
+.priceHeader .close {
+    float: right;
+}
+
+.button {
+    display: inline-block;
+    width: 150px;
+    height: 55px;
+    margin: 0px 10px;
+    line-height: initial;
+    font-family: 'Oswald', sans-serif;
+    font-size: 18px;
+    font-weight: 500;
+    text-transform: uppercase;
+    box-shadow: 0px 0px 9px 1px rgba(0, 0, 0, 0.6);
+    cursor: pointer;
+    text-decoration: none;
+    color: #FFFFFF;
+    border: none;
+}
+
+.button.border-button {
+    border-radius: 3px;
+    border: 2px solid #666666;
+    height: 40px;
+    width: 90px;
+    line-height: 34px;
+    box-shadow: none;
+    background-color: transparent;
+    margin: 0;
+    color: #666666;
+}
+
+.button.clear-button {
+    box-shadow: none;
+    color: #666666;
+}
+
+.button.up-button {
+    background-image: url('https://www.pro-soccerdrills.com/images/small_icons/arrow_up_2.svg');
+    background-repeat: no-repeat;
+    background-position: right 20px center;
+}
+
+input[type="text"],
+input[type="password"],
+input[type="email"],
+select {
+    display: block;
+    width: 100%;
+    border: none;
+    height: 50px;
+    padding: 0 10px;
+    box-sizing: border-box;
+    color: #666666;
+    font-size: 15px;
+    font-family: 'Open Sans', sans-serif;
+    margin-top: 10px;
+    border-radius: 3px;
+    -webkit-transition: all .3s;
+    -moz-transition: all .3s;
+    -ms-transition: all .3s;
+    -o-transition: all .3s;
+    transition: all .3s;
+    box-shadow: inset 0px 0px 3px 1px rgba(204, 204, 204, 0.45);
+}
+
+textarea {
+    width: 100%;
+    border: none;
+    height: 200px;
+    padding: 10px;
+    box-sizing: border-box;
+    color: #666666;
+    font-size: 15px;
+    font-family: 'Open Sans', sans-serif;
+    margin-top: 10px;
+    border-radius: 3px;
+    resize: none;
+    -webkit-transition: all .3s;
+    -moz-transition: all .3s;
+    -ms-transition: all .3s;
+    -o-transition: all .3s;
+    transition: all .3s;
+    box-shadow: inset 0px 0px 3px 1px rgba(204, 204, 204, 0.45);
+}
+
+.inputContainer {
+    position: relative;
+    padding-top: 20px;
+    margin-bottom: 20px;
+}
+
+.inputContainer .labelContainer {
+    position: absolute;
+    top: 0;
+    width: 100%;
+    height: 20px;
+}
+
+.inputContainer input[type="text"]+.labelContainer label,
+.inputContainer textarea+.labelContainer label,
+.inputContainer input[type="password"]+.labelContainer label,
+.inputContainer input[type="email"]+.labelContainer label,
+.inputContainer select+.labelContainer label {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    -webkit-transition: all .3s;
+    -moz-transition: all .3s;
+    -ms-transition: all .3s;
+    -o-transition: all .3s;
+    transition: all .3s;
+    font-style: italic;
+    color: #666666;
+    font-size: 15px;
+    font-weight: 600;
+}
+
+.inputContainer input[type="text"]:focus,
+.inputContainer textarea:focus,
+.inputContainer input[type="password"]:focus,
+.inputContainer input[type="email"]:focus,
+.inputContainer select:focus {
+    border: 2px solid #2276A5;
+}
+
+.inputContainer input[type="text"]:focus+.labelContainer label,
+.inputContainer textarea:focus+.labelContainer label,
+.inputContainer input[type="password"]:focus+.labelContainer label,
+.inputContainer input[type="email"]:focus+.labelContainer label,
+.inputContainer select:focus+.labelContainer label {
+    bottom: -5px;
+    color: #2276A5;
+}
+
+.trial_button,
+.login_button {
+    -webkit-transition: all 0.3s;
+    -moz-transition: all 0.3s;
+    -ms-transition: all 0.3s;
+    -o-transition: all 0.3s;
+    transition: all 0.3s;
+    line-height: 55px;
+}
+
+.trial_button:hover {
+    background-color: #deaf00;
+    color: #ddd;
+}
+
+.login_button:hover {
+    background-color: #004f7b;
+    color: #ccc;
+}
+
+.banner_tarto {
+    display: table;
+    width: 100%;
+}
+
+.banner_tarto .banner {
+    width: 100%;
+    height: 890px;
+    background-image: url('https://www.pro-soccerdrills.com/images/banner.jpg');
+    background-size: cover;
+    background-position: right bottom;
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.banner_tarto .banner h1 {
+    font-size: 55px;
+    font-weight: 900;
+}
+
+.banner_tarto .banner h2 {
+    display: inline-block;
+    max-width: 800px;
+    margin-top: 10px;
+    margin-bottom: 60px;
+    font-size: 70px;
+    line-height: 65px;
+    font-weight: 900;
+}
+
+.banner_tarto .banner .szoveg {
+    font-size: 25px;
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+
+.banner_tarto .banner a {
+    color: inherit;
+}
+
+.banner_tarto .banner .login_button {
+    background-image: url('https://www.pro-soccerdrills.com/images/gomb_nyil.png');
+    background-repeat: no-repeat;
+    background-position: right 30px center;
+}
+
+.banner_tarto .banner.bannerSlim {
+    height: 175px;
+    background-color: #2276A5;
+    background-image: none;
+    position: relative;
+}
+
+.banner_tarto .banner.bannerSlim h1 {
+    text-transform: uppercase;
+    color: #FFFFFF;
+    font-size: 32px;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 500;
+    margin-bottom: 25px;
+}
+
+.banner_tarto .banner.bannerSlim .szoveg {
+    line-height: 120%;
+    font-size: 15px;
+    color: #FFFFFF;
+    font-weight: 700;
+    width: 90%;
+    max-width: 600px;
+    margin: 0 auto 10px;
+}
+
+.banner_tarto .banner.bannerSlim .contentSize {
+    position: relative;
+}
+
+.banner_tarto #favoritesContainer {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+}
+
+.banner_tarto #favoritesContainer #favorites {
+    position: absolute;
+    top: 0;
+    right: 0;
+    margin: 0;
+    padding: 8px 10px;
+    width: 270px;
+    text-align: left;
+    z-index: 5;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    box-shadow: 2px 2px 3px rgba(106, 106, 106, 0.45);
+}
+
+@-webkit-keyframes dash {
+    0% {
+        stroke: #FFCA03;
+        stroke-dashoffset: 1000;
+    }
+
+    100% {
+        stroke: #FFCA03;
+        stroke-dashoffset: 0;
+    }
+}
+
+@keyframes dash {
+    0% {
+        stroke-dashoffset: 1000;
+        stroke: #FFCA03;
+    }
+
+    100% {
+        stroke-dashoffset: 0;
+        stroke: #FFCA03;
+    }
+}
+
+@-webkit-keyframes dash-check {
+    0% {
+        stroke-dashoffset: -100;
+        stroke: #FFCA03;
+    }
+
+    100% {
+        stroke-dashoffset: 900;
+        stroke: #FFCA03;
+    }
+}
+
+@keyframes dash-check {
+    0% {
+        stroke-dashoffset: -100;
+        stroke: #FFCA03;
+    }
+
+    100% {
+        stroke-dashoffset: 900;
+        stroke: #FFCA03;
+    }
+}
+
+.normalblock {
+    padding: 30px 0px 30px 0px;
+}
+
+.normalblock.worldwide_block .cim_tarto {
+    padding-bottom: 5px;
+}
+
+.normalblock.worldwide_block .leiras {
+    max-width: 90%;
+    margin: 0px auto;
+    font-size: 22px;
+    font-weight: 600;
+    text-align: center;
+}
+
+.normalblock>div>.cim_tarto {
+    display: table;
+    margin: 0px auto;
+}
+
+.normalblock>div>.cim_tarto .cim {
+    display: table-row;
+    font-family: 'Oswald', sans-serif;
+    font-size: 32px;
+    text-transform: uppercase;
+}
+
+.normalblock>div>.cim_tarto .cim:after,
+.normalblock>div>.cim_tarto .cim:before {
+    line-height: 32px;
+    content: " - ";
+    font-size: 42px;
+    display: table-cell;
+}
+
+.normalblock>div>.cim_tarto .cim h2 {
+    display: table-cell;
+    padding: 0px 10px;
+    font-weight: 500;
+    text-align: center;
+}
+
+.normalblock>div>.tartalom {
+    padding: 40px 0px 0px 0px;
+    overflow: hidden;
+}
+
+.normalblock>div>.tartalom.benefits {
+    width: calc(100% + 60px);
+    margin-left: -30px;
+    padding: 40px 0px 90px 0px;
+}
+
+.normalblock>div>.tartalom.benefits .tarto3 {
+    padding: 0px 30px;
+    display: inline-block;
+    width: 33%;
+    box-sizing: border-box;
+    vertical-align: top;
+}
+
+.normalblock>div>.tartalom.benefits .tarto3 .icon {
+    display: block;
+    margin: 0px auto;
+    height: 100px;
+}
+
+.normalblock>div>.tartalom.benefits .tarto3 .cim {
+    padding: 30px 0px 15px 0px;
+    font-weight: 700;
+    font-size: 20px;
+}
+
+.normalblock>div>.tartalom.benefits .tarto3 .szoveg {
+    font-weight: 500;
+    font-size: 18px;
+    color: #929292;
+    text-align: justify;
+}
+
+.normalblock>div>.tartalom.what_will_you_get {
+    margin-left: -10px;
+    width: calc(100% + 20px);
+}
+
+.normalblock>div>.tartalom.what_will_you_get .tarto5 {
+    padding: 0px 10px;
+    display: inline-block;
+    width: 19.4%;
+    box-sizing: border-box;
+    vertical-align: top;
+}
+
+.normalblock>div>.tartalom.what_will_you_get .tarto5>.szoveg {
+    width: 400px;
+    max-width: 100%;
+    font-size: 20px;
+    font-weight: 600;
+    display: table-cell;
+    vertical-align: bottom;
+}
+
+.normalblock>div>.tartalom.what_will_you_get .tarto5 .vonal {
+    width: 130px;
+    max-width: 100%;
+    height: 4px;
+    margin: 15px auto;
+    background-color: #FFCA03;
+    border-radius: 2px;
+}
+
+.normalblock>div>.tartalom.what_will_you_get .tarto5 svg {
+    width: 50px;
+    display: inline-block;
+}
+
+.normalblock>div>.tartalom.what_will_you_get .tarto5 .path {
+    stroke-dasharray: 1000;
+    stroke-dashoffset: 0;
+}
+
+.normalblock>div>.tartalom.what_will_you_get .tarto5 .path.circle.start {
+    -webkit-animation: dash 1.25s linear forwards;
+    animation: dash 1.25s linear forwards;
+}
+
+.normalblock>div>.tartalom.what_will_you_get .tarto5 .path.check.start {
+    stroke-dashoffset: -100;
+    -webkit-animation: dash-check 1s 1s linear forwards;
+    animation: dash-check 1s 1s linear forwards;
+}
+
+.normalblock>div>.tartalom.what_will_you_get .tarto5 .path.check.delay2,
+.normalblock>div>.tartalom.what_will_you_get .tarto5 .path.circle.delay2 {
+    -webkit-animation-delay: 0.25s;
+    animation-delay: 0.25s;
+}
+
+.normalblock>div>.tartalom.what_will_you_get .tarto5 .path.check.delay2-5,
+.normalblock>div>.tartalom.what_will_you_get .tarto5 .path.circle.delay2-5 {
+    -webkit-animation-delay: 0.5s;
+    animation-delay: 0.5s;
+}
+
+.normalblock>div>.tartalom.what_will_you_get .tarto5 .path.check.delay3,
+.normalblock>div>.tartalom.what_will_you_get .tarto5 .path.circle.delay3 {
+    -webkit-animation-delay: 0.5s;
+    animation-delay: 0.55s;
+}
+
+.normalblock>div>.tartalom.what_will_you_get .tarto5 .path.check.delay3-5,
+.normalblock>div>.tartalom.what_will_you_get .tarto5 .path.circle.delay3-5 {
+    -webkit-animation-delay: 0.75s;
+    animation-delay: 0.75s;
+}
+
+.normalblock>div>.tartalom.what_will_you_get .tarto5 .path.check.delay4,
+.normalblock>div>.tartalom.what_will_you_get .tarto5 .path.circle.delay4 {
+    -webkit-animation-delay: 0.75s;
+    animation-delay: 0.75s;
+}
+
+.normalblock>div>.tartalom.what_will_you_get .tarto5 .path.check.delay4-5,
+.normalblock>div>.tartalom.what_will_you_get .tarto5 .path.circle.delay4-5 {
+    -webkit-animation-delay: 1s;
+    animation-delay: 1s;
+}
+
+.normalblock>div>.tartalom.what_will_you_get .tarto5 .path.check.delay5,
+.normalblock>div>.tartalom.what_will_you_get .tarto5 .path.circle.delay5 {
+    -webkit-animation-delay: 1s;
+    animation-delay: 1s;
+}
+
+.normalblock>div>.tartalom.what_will_you_get .tarto5 .path.check.delay5-5,
+.normalblock>div>.tartalom.what_will_you_get .tarto5 .path.circle.delay5-5 {
+    -webkit-animation-delay: 1.25s;
+    animation-delay: 1.25s;
+}
+
+.normalblock>div>.tartalom.what_will_you_get .tarto5 .path.check.delay6,
+.normalblock>div>.tartalom.what_will_you_get .tarto5 .path.circle.delay6 {
+    -webkit-animation-delay: 1.25s;
+    animation-delay: 1.25s;
+}
+
+.normalblock>div>.tartalom.what_will_you_get .tarto5 .path.check.delay6-5,
+.normalblock>div>.tartalom.what_will_you_get .tarto5 .path.circle.delay6-5 {
+    -webkit-animation-delay: 1.5s;
+    animation-delay: 1.5s;
+}
+
+.normalblock>div>.tartalom.what_will_you_get .tarto5 .icon {
+    height: 44px;
+}
+
+.normalblock>div>.tartalom.what_will_you_get>.szoveg {
+    max-width: 90%;
+    padding: 70px 0px;
+    margin: 0px auto;
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.normalblock>div>.tartalom.soccer_drills {
+    overflow: hidden;
+}
+
+.normalblock>div>.tartalom.soccer_drills .clra.felso {
+    padding-bottom: 55px;
+    margin-left: -20px;
+    width: calc(100% + 40px);
+}
+
+.normalblock>div>.tartalom.soccer_drills .clra.felso .tarto7 {
+    float: left;
+    width: 14.28%;
+    padding: 0px 20px;
+    box-sizing: border-box;
+}
+
+.normalblock>div>.tartalom.soccer_drills .clra.felso .tarto7 .icon {
+    height: 78px;
+}
+
+.normalblock>div>.tartalom.soccer_drills .clra.felso .tarto7>.cim {
+    padding-top: 20px;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.normalblock>div>.tartalom.soccer_drills .clra.also {
+    border-top: 3px solid #EEEEEE;
+    margin-left: -20px;
+    width: calc(100% + 40px);
+}
+
+.normalblock>div>.tartalom.soccer_drills .clra.also .tarto2 {
+    display: table;
+    float: left;
+    width: 50%;
+    height: 260px;
+    padding: 0px 20px;
+    box-sizing: border-box;
+}
+
+.normalblock>div>.tartalom.soccer_drills .clra.also .tarto2:first-child {
+    border-right: 3px solid #EEEEEE;
+}
+
+.normalblock>div>.tartalom.soccer_drills .clra.also .tarto2 .belso {
+    display: table-cell;
+    vertical-align: middle;
+    height: 100%;
+    width: 100%;
+}
+
+.normalblock>div>.tartalom.soccer_drills .clra.also .tarto2 .belso .icon {
+    height: 78px;
+}
+
+.normalblock>div>.tartalom.soccer_drills .clra.also .tarto2 .belso>.cim {
+    padding-top: 20px;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.normalblock>div>.tartalom.several_platform_availability .icon {
+    width: 100%;
+}
+
+.normalblock>div>.tartalom.several_platform_availability>.szoveg {
+    width: 770px;
+    max-width: 90%;
+    padding: 60px 8px 0px 8px;
+    margin: 0px auto;
+    text-align: center;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.normalblock>div>.tartalom.awesome_testimonials {
+    overflow: visible;
+    position: relative;
+}
+
+.normalblock>div>.tartalom.awesome_testimonials .icon {
+    position: absolute;
+    height: 100px;
+    top: 0px;
+    left: 50%;
+    margin-left: -50px;
+    padding: 15px;
+    border-radius: 200px;
+    background-color: white;
+    box-sizing: border-box;
+}
+
+.normalblock>div>.tartalom.awesome_testimonials>.szoveg {
+    box-sizing: border-box;
+    width: 976px;
+    max-width: 100%;
+    padding: 60px 100px;
+    border: 3px solid #EEEEEE;
+    margin: 0px auto;
+    text-align: center;
+    font-size: 20px;
+    font-weight: 600;
+    -webkit-transition: all 300ms;
+    transition: all 300ms;
+}
+
+.normalblock>div>.tartalom.awesome_testimonials>.szoveg .tartalom,
+.normalblock>div>.tartalom.awesome_testimonials>.szoveg .cimke {
+    -webkit-transition: all 300ms;
+    transition: all 300ms;
+}
+
+.normalblock>div>.tartalom.awesome_testimonials>.szoveg .cimke {
+    padding-top: 40px;
+    text-transform: uppercase;
+}
+
+.normalblock>div>.tartalom.awesome_testimonials .navs {
+    width: 976px;
+    max-width: 100%;
+    padding-top: 20px;
+    margin: 0px auto;
+    position: relative;
+    text-align: center;
+    -webkit-transition: all 400ms;
+    transition: all 400ms;
+}
+
+.normalblock>div>.tartalom.awesome_testimonials .navs a {
+    color: inherit;
+    text-decoration: none;
+}
+
+.normalblock>div>.tartalom.awesome_testimonials .navs .pager .pont {
+    width: 5px;
+    height: 5px;
+    display: inline-block;
+    border: 2px solid black;
+    border-radius: 10px;
+    margin: 5px;
+    cursor: pointer;
+    -webkit-transition: background-color 400ms, border 400ms;
+    transition: background-color 400ms, border 400ms;
+}
+
+.normalblock>div>.tartalom.awesome_testimonials .navs .pager .pont:hover {
+    border-color: #FFCA03;
+}
+
+.normalblock>div>.tartalom.awesome_testimonials .navs .pager .pont.aktiv {
+    width: 9px;
+    height: 9px;
+    margin: 3px 5px;
+    background-color: #FFCA03;
+    border-color: #FFCA03;
+}
+
+.normalblock>div>.tartalom.awesome_testimonials .navs .pager .balra,
+.normalblock>div>.tartalom.awesome_testimonials .navs .pager .jobbra {
+    display: inline-block;
+    width: 22px;
+    height: 19px;
+    margin: 0px 5px;
+    background-image: url('https://www.pro-soccerdrills.com/images/nyil.png');
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    cursor: pointer;
+}
+
+.normalblock>div>.tartalom.awesome_testimonials .navs .pager .balra.jobbra,
+.normalblock>div>.tartalom.awesome_testimonials .navs .pager .jobbra.jobbra {
+    -webkit-transform: rotate(180deg);
+    -moz-transform: rotate(180deg);
+    -ms-transform: rotate(180deg);
+    -o-transform: rotate(180deg);
+    transform: rotate(180deg);
+}
+
+.normalblock>div>.tartalom.awesome_testimonials .navs .tovabb {
+    text-transform: uppercase;
+    position: absolute;
+    right: 0px;
+    top: 13px;
+    font-family: 'Oswald', sans-serif;
+    font-size: 20px;
+}
+
+.normalblock>div>.tartalom.awesome_testimonials .navs .tovabb:hover {
+    font-weight: 500;
+    color: #2276A5;
+}
+
+.normalblock>div>.tartalom.worldwide {
+    padding: 80px 0px 0px 0px;
+}
+
+.normalblock>div>.tartalom.worldwide .icon {
+    padding: 0px 0px 40px 0px;
+    max-width: 100%;
+}
+
+.normalblock>div>.tartalom.worldwide .gomb_tarto {
+    padding-bottom: 30px;
+}
+
+.normalblock>div>.tartalom.worldwide .gomb_tarto .button {
+    box-shadow: 0px 0px 7px 0px rgba(0, 0, 0, 0.6);
+}
+
+.normalblock>div>.tartalom.worldwide .gomb_tarto a {
+    color: inherit;
+}
+
+.normalblock>div>.tartalom.worldwide .gomb_tarto .login_button {
+    background-image: url('https://www.pro-soccerdrills.com/images/gomb_nyil.png');
+    background-repeat: no-repeat;
+    background-position: right 30px center;
+}
+
+.normalblock>div>.tartalom.newsletter {
+    width: calc(100% + 80px);
+    margin-left: -40px;
+    padding: 70px 0px 140px 0px;
+}
+
+.normalblock>div>.tartalom.newsletter .tarto {
+    float: left;
+    width: 100%;
+}
+
+.normalblock>div>.tartalom.newsletter .tarto .tarto2 {
+    padding: 0px 40px;
+    float: left;
+    box-sizing: border-box;
+    vertical-align: top;
+}
+
+.normalblock>div>.tartalom.newsletter .tarto .tarto2.bal {
+    width: 55%;
+}
+
+.normalblock>div>.tartalom.newsletter .tarto .tarto2.bal .cim {
+    font-weight: 900;
+    font-size: 20px;
+    padding-bottom: 30px;
+}
+
+.normalblock>div>.tartalom.newsletter .tarto .tarto2.bal .szoveg {
+    text-align: justify;
+    font-weight: 600;
+    font-size: 20px;
+}
+
+.normalblock>div>.tartalom.newsletter .tarto .tarto2.jobb {
+    width: 45%;
+    text-align: right;
+}
+
+.normalblock>div>.tartalom.newsletter .tarto .tarto2.jobb .email_input {
+    width: 100%;
+    padding: 17px 15px 17px 5px;
+    text-align: right;
+    font-size: 20px;
+    font-weight: 600;
+    border: 0px;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+.normalblock>div>.tartalom.newsletter .tarto .tarto2.jobb .email_input::-webkit-input-placeholder {
+    font-style: italic;
+    color: black;
+}
+
+.normalblock>div>.tartalom.newsletter .tarto .tarto2.jobb .email_input::-moz-placeholder {
+    font-style: italic;
+    color: black;
+}
+
+.normalblock>div>.tartalom.newsletter .tarto .tarto2.jobb .email_input:-ms-input-placeholder {
+    font-style: italic;
+    color: black;
+}
+
+.normalblock>div>.tartalom.newsletter .tarto .tarto2.jobb .email_input:-moz-placeholder {
+    font-style: italic;
+    color: black;
+}
+
+.normalblock>div>.tartalom.newsletter .tarto .tarto2.jobb .submit {
+    background-color: transparent;
+    text-transform: uppercase;
+    font-family: 'Oswald', sans-serif;
+    color: white;
+    font-size: 18px;
+    font-weight: 500;
+    padding: 15px 35px;
+    border: 2px solid white;
+    border-radius: 4px;
+    margin-top: 20px;
+    box-sizing: border-box;
+    cursor: pointer;
+    -webkit-transition: all 400ms;
+    transition: all 400ms;
+}
+
+.normalblock>div>.tartalom.newsletter .tarto .tarto2.jobb .submit:hover {
+    background-color: #134d6d;
+    border-color: #ccc;
+    color: #ccc;
+}
+
+.normalblock>div>.tartalom.follow {
+    padding-top: 20px;
+}
+
+.normalblock>div>.tartalom.follow .follows {
+    padding-bottom: 60px;
+}
+
+.normalblock>div>.tartalom.follow .follows a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.normalblock>div>.tartalom.follow .follows .icon {
+    -ms-transform: scale(0.9, 0.9);
+    -webkit-transform: scale(0.9, 0.9);
+    transform: scale(0.9, 0.9);
+}
+
+.normalblock>div>.tartalom.follow .follows .icon:hover {
+    -webkit-transition: all 400ms;
+    transition: all 200ms;
+    -ms-transform: scale(1, 1);
+    -webkit-transform: scale(1, 1);
+    transform: scale(1, 1);
+}
+
+.normalblock>div>.tartalom.follow .szoveg>div {
+    padding-top: 8px;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.normalblock>div>.tartalom.follow .szoveg>div a {
+    text-decoration: none;
+    color: inherit;
+    text-transform: uppercase;
+    transition: color .5s;
+    -webkit-transition: color .5s;
+}
+
+.normalblock>div>.tartalom.follow .szoveg>div a:hover {
+    color: #2276A5;
+}
+
+.normalblock>div>.tartalom.follow .szoveg>div span {
+    white-space: nowrap;
+}
+
+.normalblock>div>.tartalom.follow .copyright {
+    padding-top: 20px;
+}
+
+.scrollbar_tarto {
+    position: fixed;
+    top: 0px;
+    right: 0px;
+    width: 30px;
+    height: 100%;
+    display: table;
+    vertical-align: middle;
+}
+
+.scrollbar_tarto>div {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.scrollbar_tarto>div .scrollbar {
+    vertical-align: middle;
+    height: 100%;
+    max-height: 250px;
+    width: 30px;
+}
+
+.scrollbar_tarto>div .scrollbar .block {
+    height: 12.5%;
+    display: table;
+}
+
+.scrollbar_tarto>div .scrollbar .block>div {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.scrollbar_tarto>div .scrollbar .block>div a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.scrollbar_tarto>div .scrollbar .block>div .circle {
+    cursor: pointer;
+    transform: rotateZ(90deg);
+    border-bottom: 2px solid transparent;
+    display: inline-block;
+    width: 19px;
+    height: 19px;
+    line-height: 19px;
+    text-align: center;
+    padding-bottom: 2px;
+    font-size: 15px;
+    font-weight: 500;
+    font-family: 'Oswald', sans-serif;
+    -webkit-transition: border-color 1s, color 1s, background-color 1s;
+    transition: border-color 1s, color 1s, background-color 1s;
+}
+
+.cardContainer {
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    flex-flow: row wrap;
+    -webkit-flex-flow: row wrap;
+    justify-content: space-around;
+}
+
+.card {
+    max-width: 460px;
+    width: 32%;
+    margin: 0 2% 1vw 0;
+    box-shadow: 0 0 4px 1px rgba(119, 119, 119, 0.4);
+    overflow: hidden;
+    padding: 20px;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    position: relative;
+    -webkit-transition: all .3s;
+    -moz-transition: all .3s;
+    -ms-transition: all .3s;
+    -o-transition: all .3s;
+    transition: all .3s;
+    background-color: #FFFFFF;
+}
+
+.card:nth-child(3n) {
+    margin-right: 0;
+}
+
+.card .label {
+    position: absolute;
+    height: 30px;
+    line-height: 30px;
+    width: 140px;
+    color: white;
+    text-transform: uppercase;
+}
+
+.card .new {
+    right: -35px;
+    top: 20px;
+    background-color: #2276A5;
+    -webkit-transform: rotate(45deg);
+    -moz-transform: rotate(45deg);
+    -ms-transform: rotate(45deg);
+    -o-transform: rotate(45deg);
+    transform: rotate(45deg);
+}
+
+.card .locked {
+    right: 20px;
+    bottom: 10px;
+    color: #D90000;
+    width: auto;
+    font-size: 15px;
+    font-weight: 700;
+}
+
+.card .free {
+    right: 20px;
+    bottom: 10px;
+    color: #59B200;
+    width: auto;
+    font-size: 15px;
+    font-weight: 700;
+}
+
+.card .viewed {
+    left: -35px;
+    top: 20px;
+    background-color: rgba(119, 119, 119, 0.8);
+    -webkit-transform: rotate(315deg);
+    -moz-transform: rotate(315deg);
+    -ms-transform: rotate(315deg);
+    -o-transform: rotate(315deg);
+    transform: rotate(315deg);
+}
+
+.card .innerCard .img {
+    display: block;
+    height: 225px;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    image-rendering: pixelated;
+}
+
+.card .innerCard .title {
+    font-family: 'Open Sans';
+    font-size: 20px;
+    font-weight: 700;
+    color: #191814;
+    margin-top: 5px;
+    text-decoration: none;
+}
+
+.card .innerCard .text {
+    font-family: 'Open Sans';
+    font-size: 15px;
+    font-weight: 600;
+    color: #666666;
+    margin-top: 5px;
+    border-bottom: 2px solid #D0D0D0;
+    padding-bottom: 10px;
+}
+
+.card .innerCard .extraDatas {
+    font-weight: 600;
+    color: #666666;
+    margin-top: 10px;
+    line-height: 150%;
+    border-bottom: 2px solid #D0D0D0;
+    padding-bottom: 10px;
+    margin-bottom: 7px;
+}
+
+.card .innerCard .extraDatas .table .tableCell {
+    width: 50%;
+    vertical-align: top;
+}
+
+.card .innerCard .extraDatas .table .tableCell:first-child {
+    padding-right: 5px;
+}
+
+.card .innerCard .extraDatas .table .tableCell:last-child {
+    padding-left: 5px;
+}
+
+.card .innerCard .extraDatas span {
+    font-weight: 700;
+    color: #191814;
+}
+
+.card .innerCard .rating {
+    border-bottom: 2px solid #D0D0D0;
+    padding-bottom: 8px;
+    margin-bottom: 5px;
+    word-break: break-word;
+}
+
+.card .innerCard .rating .ball {
+    display: inline-block;
+    vertical-align: middle;
+    width: 20px;
+    height: 20px;
+    background-image: url('https://www.pro-soccerdrills.com/images/small_icons/gray_ball.svg');
+    background-repeat: no-repeat;
+    background-position: center center;
+    cursor: pointer;
+}
+
+.card .innerCard .rating .ball.blue {
+    background-image: url('https://www.pro-soccerdrills.com/images/small_icons/blue_ball.svg');
+}
+
+.card .innerCard .rating .ball.halfblue {
+    background-image: url('https://www.pro-soccerdrills.com/images/small_icons/half_ball.svg');
+}
+
+.card .innerCard .categories {
+    line-height: 200%;
+}
+
+.card .innerCard .categories .tableCell {
+    width: 50%;
+}
+
+.card .innerCard .categories .tableCell:last-child>div:last-child span {
+    width: calc(100% - 40px);
+}
+
+.card .innerCard .categories img {
+    margin-right: 5px;
+    display: inline-block;
+}
+
+.card .innerCard .categories span {
+    min-width: 40%;
+    display: inline-block;
+}
+
+.card .innerCard .buttons a {
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 15px;
+}
+
+.card .innerCard .buttons a img {
+    display: inline-block;
+}
+
+.card:hover {
+    box-shadow: 0 0 4px 2px rgba(119, 119, 119, 0.6);
+    -webkit-transform: translateY(-5px);
+    -moz-transform: translateY(-5px);
+    -ms-transform: translateY(-5px);
+    -o-transform: translateY(-5px);
+    transform: translateY(-5px);
+}
+
+#breadcrumbs {
+    font-size: 15px;
+    margin-top: 20px;
+}
+
+#breadcrumbs a {
+    color: #666666;
+    text-decoration: none;
+}
+
+#breadcrumbs a:last-child {
+    font-weight: 700;
+}
+
+.pager {
+    margin-bottom: 15px;
+}
+
+.pager .right {
+    display: none;
+}
+
+.pager .center {
+    font-size: 15px;
+    text-align: center;
+}
+
+.pager .center .pagersep {
+    display: none;
+}
+
+.pager .center a,
+.pager .center b {
+    display: inline-block;
+    margin: 0 5px;
+    height: 20px;
+    width: auto;
+    vertical-align: top;
+    color: #666666;
+    font-size: 15px;
+    font-weight: 700;
+    text-decoration: none;
+    text-align: center;
+}
+
+.pager .center b {
+    font-weight: 800;
+    color: #2276A5;
+}
+
+span.info {
+    width: 17px;
+    height: 17px;
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 10px;
+    background-image: url('https://www.pro-soccerdrills.com/images/small_icons/info_2.svg');
+    background-position: center center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    position: relative;
+}
+
+span.info .tooltipContent {
+    display: none;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    width: 300px;
+    background-color: #2276a5;
+    color: #FFFFFF;
+    padding: 20px;
+    font-size: 13px;
+    position: absolute;
+    top: 30px;
+    z-index: 5;
+    box-shadow: 0 0 4px 1px rgba(119, 119, 119, 0.4);
+}
+
+span.info .tooltipContent.show {
+    display: block;
+}
+
+.content {
+    margin-top: 30px;
+}
+
+.content h3 {
+    font-size: 20px;
+}
+
+.content h3 .info {
+    margin-top: -4px;
+}
+
+.hiddenContent {
+    display: none;
+}
+
+#favorites {
+    background-color: #EEEEEE;
+    padding: 10px;
+    color: #666666;
+    border-radius: 5px;
+    margin: 10px;
+}
+
+#favorites .favoritesTitle {
+    font-size: 20px;
+    font-weight: 700;
+    position: relative;
+    color: #191814;
+}
+
+#favorites .favoritesTitle .icon {
+    width: 19px;
+    height: 19px;
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 4px;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: contain;
+    background-image: url('https://www.pro-soccerdrills.com/images/small_icons/favorites.svg');
+    margin-right: 5px;
+}
+
+#favorites .favoritesTitle .icon.blue {
+    background-image: url('https://www.pro-soccerdrills.com/images/small_icons/favorites_blue.svg');
+}
+
+#favorites .favoritesTitle .toggle {
+    top: 9px;
+}
+
+#favorites .text {
+    font-size: 14px;
+}
+
+#favorites .text a {
+    font-weight: 700;
+    text-decoration: none;
+    color: #666666;
+}
+
+#favorites .button {
+    margin-top: 10px;
+}
+
+#favorites input[type="text"] {
+    text-align: right;
+    padding-right: 20px;
+    height: 40px;
+}
+
+#favorites #favoriteItems ul {
+    margin-top: 10px;
+}
+
+#favorites #favoriteItems ul li {
+    border: 1px solid #D0D0D0;
+    border-radius: 2px;
+    padding: 5px 40px 5px 5px;
+    font-size: 14px;
+    font-weight: 700;
+    color: #666666;
+    position: relative;
+}
+
+#favorites #favoriteItems ul li a {
+    text-decoration: none;
+    color: #666666;
+}
+
+#favorites #favoriteItems ul li:not(:last-child) {
+    margin-bottom: 10px;
+}
+
+#favorites #favoriteItems ul li.animate {
+    -webkit-animation: favAnimation 2s linear 0s infinite;
+    -o-animation: favAnimation 2s linear 0s infinite;
+    animation: favAnimation 2s linear 0s infinite;
+}
+
+#favorites #favoriteItems ul li .edit {
+    width: 12px;
+    height: 12px;
+    position: absolute;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-image: url('https://www.pro-soccerdrills.com/images/small_icons/edit.svg');
+    right: 27px;
+    cursor: pointer;
+    top: 8px;
+}
+
+#favorites #favoriteItems ul li .del {
+    position: absolute;
+    right: 10px;
+    cursor: pointer;
+    font-size: 19px;
+    top: 0;
+}
+
+@keyframes favAnimation {
+    0% {
+        background-color: aliceblue;
+    }
+
+    100% {
+        background-color: transparent;
+    }
+}
+
+@-webkit-keyframes favAnimation {
+    0% {
+        background-color: aliceblue;
+    }
+
+    100% {
+        background-color: transparent;
+    }
+}
+
+.toggle_gomb {
+    cursor: pointer;
+    position: relative;
+}
+
+.toggle {
+    width: 14px;
+    height: 9px;
+    position: absolute !important;
+    right: 0;
+    top: 5px;
+    cursor: pointer;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-image: url('https://www.pro-soccerdrills.com/images/small_icons/arrow_down.svg');
+    -webkit-transition: all 0.3s ease;
+    -moz-transition: all 0.3s ease;
+    -ms-transition: all 0.3s ease;
+    -o-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+}
+
+.toggle.up {
+    -webkit-transform: rotate(180deg);
+    -moz-transform: rotate(180deg);
+    -ms-transform: rotate(180deg);
+    -o-transform: rotate(180deg);
+    transform: rotate(180deg);
+}
+
+#overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0.65);
+    overflow: hidden;
+    z-index: 100;
+    -webkit-transition: all .2s;
+    -moz-transition: all .2s;
+    -ms-transition: all .2s;
+    -o-transition: all .2s;
+    transition: all .2s;
+}
+
+.modal {
+    background: #175B83;
+    padding: 55px 30px;
+    box-shadow: 0 0 4px 1px rgba(119, 119, 119, 0.4);
+    max-width: 680px;
+    width: 90%;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    z-index: 101;
+    visibility: hidden;
+    opacity: 0;
+    -webkit-transform: translateY(-40px);
+    -moz-transform: translateY(-40px);
+    -ms-transform: translateY(-40px);
+    -o-transform: translateY(-40px);
+    transform: translateY(-40px);
+    -webkit-transition: visibility .2s, opacity .2s, transform .2s;
+    -moz-transition: visibility .2s, opacity .2s, transform .2s;
+    transition: visibility .2s, opacity .2s, transform .2s;
+}
+
+.modal.show {
+    opacity: 1;
+    visibility: visible;
+    -webkit-transition: visibility .5s, opacity .5s, transform .5s;
+    -moz-transition: visibility .5s, opacity .5s, transform .5s;
+    transition: visibility .5s, opacity .5s, transform .5s;
+    -webkit-transform: translateY(0px);
+    -moz-transform: translateY(0px);
+    -ms-transform: translateY(0px);
+    -o-transform: translateY(0px);
+    transform: translateY(0px);
+}
+
+.modal .close {
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 5px;
+    right: 5px;
+    color: #FFFFFF;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+#ebookModal .innerModal {
+    border: 5px solid #FFCA03;
+    border-radius: 3px;
+    padding: 30px 60px;
+    position: relative;
+}
+
+#ebookModal .innerModal h1 {
+    text-transform: uppercase;
+    font-size: 49px;
+    font-family: 'Oswald', sans-serif;
+    line-height: 140%;
+    color: #FFFFFF;
+    font-weight: 500;
+    text-align: center;
+}
+
+#ebookModal .innerModal h1.outerTitle {
+    position: absolute;
+    left: 50%;
+    margin-left: -130px;
+    top: -33px;
+    background: #175B83;
+    padding: 0 20px;
+}
+
+#ebookModal .innerModal .text {
+    margin-top: 30px;
+    font-size: 16px;
+    line-height: 150%;
+    font-weight: 600;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+#ebookModal .innerModal img {
+    display: block;
+    margin: 30px auto 20px;
+}
+
+#ebookModal .innerModal .bottomText {
+    position: absolute;
+    font-size: 26px;
+    color: #FFFFFF;
+    font-weight: 600;
+    bottom: -19px;
+    left: 50%;
+    margin-left: -184px;
+    padding: 0 10px;
+    background: #175B83;
+}
+
+#msgModal {
+    text-align: center;
+    color: white;
+}
+
+#msgModal h1 {
+    font-size: 30px;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+#msgModal h3 {
+    font-size: 16px;
+    font-weight: 500;
+}
+
+#unsubModal h3 {
+    text-align: center;
+    color: white;
+}
+
+#unsubModal .button {
+    color: #2276A5;
+    background-color: white;
+    text-align: center;
+    line-height: 55px;
+}
+
+#unsubModal .button.close {
+    position: static;
+    width: 150px;
+    height: 55px;
+    top: 0;
+    right: 0;
+    font-size: 18px;
+}
+
+#freeSdModal,
+#onLeaveModal {
+    padding: 15px;
+    background-color: #FFFFFF;
+    border-radius: 4px;
+    border-bottom: 16px solid #2276A5;
+    max-width: 375px;
+}
+
+#freeSdModal .close,
+#onLeaveModal .close {
+    top: 15px;
+    right: 15px;
+}
+
+#freeSdModal .logo,
+#onLeaveModal .logo {
+    height: 41px;
+}
+
+#freeSdModal .innerModal,
+#onLeaveModal .innerModal {
+    margin-top: 20px;
+}
+
+#freeSdModal .alert,
+#onLeaveModal .alert {
+    color: #ea4e6f;
+    font-size: 45px;
+    font-weight: 700;
+    text-align: center;
+    line-height: 100%;
+}
+
+#freeSdModal h1,
+#onLeaveModal h1 {
+    font-weight: 700;
+    font-size: 20px;
+    text-align: center;
+}
+
+#freeSdModal form,
+#onLeaveModal form {
+    width: 80%;
+    margin: 15px auto 0;
+}
+
+#freeSdModal .response,
+#onLeaveModal .response {
+    font-weight: bold;
+    text-align: center;
+    margin-top: 20px;
+}
+
+#freeSdModal .button,
+#onLeaveModal .button {
+    margin: 0 auto;
+    display: block;
+    box-shadow: none;
+}
+
+#freeSdModal .inputContainer,
+#onLeaveModal .inputContainer {
+    margin-bottom: 10px;
+}
+
+#freeSdModal .bottom-img,
+#onLeaveModal .bottom-img {
+    margin-top: 10px;
+    max-width: 100%;
+}
+
+#freeSdModal [type="checkbox"]+label,
+#onLeaveModal [type="checkbox"]+label {
+    color: #666666;
+    font-weight: 600;
+    font-size: 10px;
+    margin-bottom: 10px;
+}
+
+#freeSdModal [type="checkbox"]+label,
+#onLeaveModal [type="checkbox"]+label {
+    font-weight: 600;
+}
+
+#freeSdModal [type="checkbox"]:not(:checked)+label,
+#freeSdModal [type="checkbox"]:checked+label,
+#onLeaveModal [type="checkbox"]:not(:checked)+label,
+#onLeaveModal [type="checkbox"]:checked+label {
+    padding-left: 20px;
+}
+
+#freeSdModal [type="checkbox"]:not(:checked)+label:before,
+#freeSdModal [type="checkbox"]:checked+label:before,
+#onLeaveModal [type="checkbox"]:not(:checked)+label:before,
+#onLeaveModal [type="checkbox"]:checked+label:before {
+    left: 0;
+    right: auto;
+}
+
+#freeSdModal [type="checkbox"]:not(:checked)+label:after,
+#freeSdModal [type="checkbox"]:checked+label:after,
+#onLeaveModal [type="checkbox"]:not(:checked)+label:after,
+#onLeaveModal [type="checkbox"]:checked+label:after {
+    left: 0;
+    right: auto;
+}
+
+#onLeaveModal .innerModal {
+    margin-top: 0;
+}
+
+footer .also .cim_tarto .cim {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 30px;
+}
+
+footer .also .cim_tarto .cim:before,
+footer .also .cim_tarto .cim:after {
+    display: none;
+}
+
+.indexPage .banner_tarto .banner.bannerSlim {
+    background-position: center top;
+    background-image: url('https://www.pro-soccerdrills.com/images/banner.jpg');
+}
+
+.indexPage .banner_tarto .banner.bannerSlim h1 {
+    font-size: 20px;
+    font-weight: 700;
+    color: #191814;
+    text-transform: none;
+    margin-bottom: 5px;
+}
+
+.indexPage .banner_tarto .banner.bannerSlim .szoveg {
+    font-size: 18px;
+    font-weight: 600;
+    color: #191814;
+}
+
+.indexPage .banner_tarto .banner.bannerSlim .button {
+    height: 49px;
+    line-height: 49px;
+}
+
+.indexPage .normalblock>div>.tartalom {
+    overflow: visible;
+}
+
+.indexPage.log-in .normalblock {
+    padding: 15px 0px 15px 0px;
+}
+
+.indexPage.log-in .normalblock:nth-child(2) {
+    padding-top: 40px;
+}
+
+.indexPage.log-in .normalblock:last-child {
+    padding-bottom: 40px;
+}
+
+.page404 {
+    min-height: 600px;
+}
+
+.page404 h1 {
+    font-family: 'Oswald', sans-serif;
+    font-size: 100px;
+    margin: 80px 0 100px;
+    color: #2276A5;
+    text-align: center;
+}
+
+.page404 h2 {
+    text-align: center;
+    font-weight: 600;
+    font-size: 22px;
+}
+
+.soccerdrillsPage {
+    padding-bottom: 100px;
+}
+
+.soccerdrillsPage .content {
+    margin-top: 30px;
+}
+
+.soccerdrillsPage .content .left {
+    background-color: #FFFFFF;
+    width: 300px;
+}
+
+.soccerdrillsPage .content .left #filters {
+    padding: 15px;
+}
+
+.soccerdrillsPage .content .left #filters #filterTitle {
+    font-size: 20px;
+    font-weight: 700;
+    margin: 0 0 10px 0;
+    color: #191814;
+}
+
+.soccerdrillsPage .content .left #filters #filterTitle span {
+    font-size: 15px;
+    color: #666666;
+}
+
+.soccerdrillsPage .content .left #filters #filterTitle #filterToggle {
+    float: right;
+    -webkit-transition: all 0.3s ease;
+    -moz-transition: all 0.3s ease;
+    -ms-transition: all 0.3s ease;
+    -o-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+    display: none;
+}
+
+.soccerdrillsPage .content .left #filters #filterTitle #filterToggle.up {
+    -webkit-transform: rotate(180deg);
+    -moz-transform: rotate(180deg);
+    -ms-transform: rotate(180deg);
+    -o-transform: rotate(180deg);
+    transform: rotate(180deg);
+}
+
+.soccerdrillsPage .content .left #filters .filter {
+    margin-bottom: 30px;
+}
+
+.soccerdrillsPage .content .left #filters .filter .filterName {
+    font-size: 15px;
+    font-weight: 700;
+    color: #666666;
+    margin-bottom: 10px;
+    position: relative;
+}
+
+.soccerdrillsPage .content .left #filters .filter .filterName .info {
+    margin-left: 7px;
+    background-image: url('https://www.pro-soccerdrills.com/images/small_icons/info_2.svg');
+}
+
+.soccerdrillsPage .content .left #filters .filter .filterName input[type="checkbox"]+label {
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+
+.soccerdrillsPage .content .left #filters .filterButtons {
+    text-align: right;
+}
+
+.soccerdrillsPage .content .left #filters .filterButtons .button {
+    width: 75px;
+    height: 35px;
+    line-height: initial;
+    box-shadow: none;
+}
+
+.soccerdrillsPage .content .right {
+    width: calc(100% - 330px);
+}
+
+.soccerdrillsPage .content .right .card {
+    width: 48%;
+    margin: 0 4% 2vw 0;
+}
+
+.soccerdrillsPage .content .right .card:nth-child(2n) {
+    margin-right: 0;
+}
+
+.soccerdrillsPage .content #filterMoreText {
+    padding: 0 20px;
+    margin: 200px 0 100px;
+}
+
+.soccerdrillsPage .content #filterMoreText .title {
+    font-size: 15px;
+    font-weight: 700;
+    color: #191814;
+}
+
+.soccerdrillsPage .content #filterMoreText .text {
+    font-size: 13px;
+    color: #666666;
+    line-height: 160%;
+    text-align: justify;
+}
+
+.soccerdrillsPage .content #filterMoreText .text a {
+    text-decoration: none;
+    color: #2276A5;
+    font-weight: 700;
+}
+
+.soccerdrillsPage .content #filterMoreText.filterMoreTextMobile {
+    display: none;
+}
+
+.testimonialsPage {
+    padding-bottom: 100px;
+}
+
+.testimonialsPage .content .testimonialsContainer .testimonialsBox {
+    box-shadow: 2px 2px 5px 1px rgba(187, 187, 187, 0.45);
+    margin-bottom: 50px;
+    background-color: #FFFFFF;
+    padding: 20px;
+}
+
+.testimonialsPage .content .testimonialsContainer .testimonialsBox .right {
+    width: calc(100% - 175px);
+}
+
+.testimonialsPage .content .testimonialsContainer .testimonialsBox .img {
+    width: 155px;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    margin-right: 20px;
+}
+
+.testimonialsPage .content .testimonialsContainer .testimonialsBox .title {
+    font-size: 20px;
+    font-weight: 700;
+    margin-bottom: 25px;
+}
+
+.testimonialsPage .content .testimonialsContainer .testimonialsBox .title span {
+    font-weight: 600;
+}
+
+.testimonialsPage .content #sendTestimonials .button {
+    box-shadow: none;
+    line-height: 55px;
+}
+
+.testimonialsPage .content #sendTestimonials form .left,
+.testimonialsPage .content #sendTestimonials form .right {
+    width: 49%;
+}
+
+.testimonialsPage .content #sendTestimonials form [type="checkbox"]+label {
+    font-weight: 600;
+}
+
+.testimonialsPage .content #sendTestimonials form [type="checkbox"]:not(:checked)+label,
+.testimonialsPage .content #sendTestimonials form [type="checkbox"]:checked+label {
+    padding-left: 20px;
+}
+
+.testimonialsPage .content #sendTestimonials form [type="checkbox"]:not(:checked)+label:before,
+.testimonialsPage .content #sendTestimonials form [type="checkbox"]:checked+label:before {
+    left: 0;
+    right: auto;
+}
+
+.testimonialsPage .content #sendTestimonials form [type="checkbox"]:not(:checked)+label:after,
+.testimonialsPage .content #sendTestimonials form [type="checkbox"]:checked+label:after {
+    left: 0;
+    right: auto;
+}
+
+.testimonialsPage .content #sendTestimonials form [type="file"] {
+    display: none;
+}
+
+.testimonialsPage .content #sendTestimonials form [type="file"]+label .button {
+    width: 150px;
+    height: 44px;
+    line-height: 44px;
+    margin-top: 10px;
+}
+
+.testimonialsPage .content #sendTestimonials form [type="file"]+label .button.hun {
+    width: 130px;
+    padding: 0;
+    padding-right: 20px;
+    background-position: right 5px center;
+    font-size: 14px;
+}
+
+.testimonialsPage .content #sendTestimonials form .uploadText {
+    font-size: 15px;
+    color: #666666;
+    font-weight: 600;
+    padding-right: 10px;
+}
+
+.testimonialsPage .content #sendTestimonials form>div:last-child .right {
+    width: 200px;
+    text-align: right;
+}
+
+.testimonialsPage .content #sendTestimonials form>div:last-child .right .button {
+    margin-right: 0;
+}
+
+.testimonialsPage .content #sendTestimonials form>div:last-child .left {
+    width: calc(100% - 200px);
+}
+
+.loginPage {
+    padding-bottom: 200px;
+}
+
+.loginPage .content [type="checkbox"]:not(:checked)+label {
+    color: #666666;
+    font-weight: 600;
+    font-size: 15px;
+}
+
+.loginPage .content [type="checkbox"]+label {
+    font-weight: 600;
+}
+
+.loginPage .content [type="checkbox"]:not(:checked)+label,
+.loginPage .content [type="checkbox"]:checked+label {
+    padding-left: 20px;
+}
+
+.loginPage .content [type="checkbox"]:not(:checked)+label:before,
+.loginPage .content [type="checkbox"]:checked+label:before {
+    left: 0;
+    right: auto;
+}
+
+.loginPage .content [type="checkbox"]:not(:checked)+label:after,
+.loginPage .content [type="checkbox"]:checked+label:after {
+    left: 0;
+    right: auto;
+}
+
+.loginPage .content #forgot {
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 15px;
+    font-style: italic;
+}
+
+.loginPage .content .button {
+    margin-top: 30px;
+    box-shadow: none;
+    margin-right: 0;
+}
+
+.loginPage .content #trialText {
+    font-weight: 600;
+    font-size: 15px;
+    color: #666666;
+    margin-top: 20px;
+}
+
+.aboutusPage {
+    padding-bottom: 100px;
+    padding-top: 80px;
+}
+
+.aboutusPage .content {
+    text-align: center;
+    margin-top: 100px;
+}
+
+.aboutusPage .content .aboutBox {
+    text-align: center;
+    display: inline-block;
+    margin: 0 5% 100px;
+    max-width: 200px;
+    vertical-align: top;
+}
+
+.aboutusPage .content .aboutBox .img {
+    width: 120px;
+    height: 120px;
+    display: inline-block;
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.aboutusPage .content .aboutBox .name {
+    font-weight: 700;
+    font-size: 20px;
+    color: #191814;
+    margin: 10px 0 0;
+}
+
+.aboutusPage .content .aboutBox .small {
+    font-weight: 600;
+    font-size: 15px;
+    color: #191814;
+}
+
+.aboutusPage .content .text {
+    font-size: 18px;
+    color: #666666;
+    font-weight: 500;
+    text-align: justify;
+}
+
+.profilePage {
+    padding-bottom: 150px;
+}
+
+.profilePage form .left,
+.profilePage form .right {
+    width: 48%;
+}
+
+.profilePage form .left {
+    padding-right: 2%;
+    border-right: 1px solid #D0D0D0;
+}
+
+.profilePage form .inputContainer:last-child {
+    margin-bottom: 0;
+}
+
+.profilePage form [type="checkbox"]+label {
+    font-weight: 600;
+}
+
+.profilePage form [type="checkbox"]:not(:checked)+label,
+.profilePage form [type="checkbox"]:checked+label {
+    padding-left: 20px;
+}
+
+.profilePage form [type="checkbox"]:not(:checked)+label:before,
+.profilePage form [type="checkbox"]:checked+label:before {
+    left: 0;
+    right: auto;
+}
+
+.profilePage form [type="checkbox"]:not(:checked)+label:after,
+.profilePage form [type="checkbox"]:checked+label:after {
+    left: 0;
+    right: auto;
+}
+
+.profilePage form .button {
+    box-shadow: none;
+    margin-left: 0;
+}
+
+.manageMyCoachesPage {
+    padding-bottom: 150px;
+}
+
+.manageMyCoachesPage form .left,
+.manageMyCoachesPage form .right {
+    width: 48%;
+}
+
+.manageMyCoachesPage [type="checkbox"]+label {
+    font-weight: 600;
+}
+
+.manageMyCoachesPage [type="checkbox"]:not(:checked)+label,
+.manageMyCoachesPage [type="checkbox"]:checked+label {
+    padding-left: 20px;
+}
+
+.manageMyCoachesPage [type="checkbox"]:not(:checked)+label:before,
+.manageMyCoachesPage [type="checkbox"]:checked+label:before {
+    left: 0;
+    right: auto;
+}
+
+.manageMyCoachesPage [type="checkbox"]:not(:checked)+label:after,
+.manageMyCoachesPage [type="checkbox"]:checked+label:after {
+    left: 0;
+    right: auto;
+}
+
+.manageMyCoachesPage .button {
+    box-shadow: none;
+    margin-right: 0;
+}
+
+.manageMyCoachesPage .table .tableCell {
+    vertical-align: top;
+}
+
+.manageMyCoachesPage #coachList {
+    background-color: #FFFFFF;
+    padding: 25px 15px;
+    border-radius: 8px;
+}
+
+.manageMyCoachesPage #coachList li {
+    border: 1px solid #D0D0D0;
+    margin-bottom: 10px;
+    padding: 15px;
+    border-radius: 3px;
+}
+
+.manageMyCoachesPage #coachList li.empty {
+    border: 1px dashed #D0D0D0;
+}
+
+.manageMyCoachesPage #coachList li:last-child {
+    margin-bottom: 0;
+}
+
+.manageMyCoachesPage #coachList li .left {
+    font-size: 17px;
+    font-weight: 700;
+    color: #191814;
+    width: 38%;
+}
+
+.manageMyCoachesPage #coachList li .right {
+    font-weight: 600;
+    font-size: 17px;
+    color: #666666;
+    width: 58%;
+}
+
+.manageMyCoachesPage #coachList li .table .tableCell:first-child {
+    width: calc(100% - 40px);
+}
+
+.manageMyCoachesPage #coachList li .table .tableCell:last-child {
+    width: 40px;
+    text-align: right;
+}
+
+.manageMyCoachesPage #coachList li .edit {
+    display: inline-block;
+    width: 12px;
+    height: 12px;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-image: url('https://www.pro-soccerdrills.com/images/small_icons/edit.svg');
+    cursor: pointer;
+    margin-left: 10px;
+}
+
+.manageMyCoachesPage #coachList li .del {
+    cursor: pointer;
+    font-size: 17px;
+    font-weight: 700;
+    text-decoration: none;
+    color: #191814;
+}
+
+.exercisePage {
+    padding-bottom: 100px;
+}
+
+.exercisePage .banner_tarto .banner.bannerSlim {
+    background-color: transparent;
+    height: 75px;
+}
+
+.exercisePage .card.wideCard {
+    box-shadow: none;
+    -webkit-transition-property: none;
+    -moz-transition-property: none;
+    -ms-transition-property: none;
+    -o-transition-property: none;
+    transition-property: none;
+    width: 100%;
+    max-width: none;
+    padding: 40px 70px 200px;
+    margin-bottom: 70px;
+}
+
+.exercisePage .card.wideCard:hover {
+    box-shadow: none;
+    -webkit-transform: none;
+    -moz-transform: none;
+    -ms-transform: none;
+    -o-transform: none;
+    transform: none;
+}
+
+.exercisePage .card.wideCard .new {
+    top: 20px;
+}
+
+.exercisePage .card.wideCard .title {
+    font-size: 30px;
+    font-weight: 700;
+    color: #191814;
+    padding-right: 40px;
+}
+
+.exercisePage .card.wideCard .text {
+    max-width: 750px;
+}
+
+.exercisePage .card.wideCard .innerCard .extraDatas {
+    font-size: 14px;
+    max-width: 750px;
+}
+
+.exercisePage .card.wideCard .innerCard .extraDatas div {
+    display: inline-block;
+    margin-right: 5%;
+    white-space: nowrap;
+}
+
+.exercisePage .card.wideCard .innerCard .extraDatas div:last-child {
+    margin-right: 0;
+}
+
+.exercisePage .card.wideCard .innerCard .extraDatas.categories {
+    max-width: 100%;
+}
+
+.exercisePage .card.wideCard .innerCard .rating {
+    max-width: 100%;
+}
+
+.exercisePage .card.wideCard .textBlock {
+    margin-top: 50px;
+    font-family: 'Open Sans';
+    font-size: 15px;
+    font-weight: 600;
+    color: #666666;
+}
+
+.exercisePage .card.wideCard .textBlock p {
+    margin-bottom: 10px;
+}
+
+.exercisePage .card.wideCard .textBlock h2 {
+    font-size: 20px;
+    font-weight: 700;
+    background-color: #EEEEEE;
+    padding: 3px 5px;
+    margin: 10px 0;
+    color: #191814;
+}
+
+.exercisePage .card.wideCard .textBlock iframe {
+    max-width: 100%;
+    display: block;
+    margin: 50px auto;
+}
+
+.exercisePage .card.wideCard .textBlock img {
+    max-width: 100%;
+    display: block;
+    margin: 50px auto;
+}
+
+.exercisePage .card.wideCard .textBlock img+span {
+    display: block;
+    text-align: center;
+    position: relative;
+    top: -30px;
+}
+
+.exercisePage .card.wideCard .textBlock .imageContainer {
+    position: relative;
+}
+
+.exercisePage .card.wideCard .textBlock .imageContainer .seeHd,
+.exercisePage .card.wideCard .textBlock .imageContainer .downloadHd {
+    position: absolute;
+    width: 70px;
+    height: 40px;
+    background-color: rgba(0, 0, 0, 0.5);
+    right: calc(((100% - 670px) / 2) + 10px);
+    font-size: 8px;
+    color: white;
+    text-decoration: none;
+    text-transform: uppercase;
+    padding: 2px 5px 5px;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    background-image: url("https://www.pro-soccerdrills.com/images/small_icons/hd_icon.svg");
+    background-repeat: no-repeat;
+    background-position: left 5px bottom 3px;
+    background-size: 70%;
+    opacity: .5;
+}
+
+.exercisePage .card.wideCard .textBlock .imageContainer .seeHd {
+    margin-top: 5px;
+}
+
+.exercisePage .card.wideCard .textBlock .imageContainer .downloadHd {
+    margin-top: 50px;
+}
+
+.exercisePage .card.wideCard .textBlock ul li:before {
+    content: "\2022 ";
+    color: #2276A5;
+    padding-right: 8px;
+}
+
+.exercisePage .card.wideCard .textBlock .text {
+    border: none;
+    max-width: 100%;
+    text-align: justify;
+}
+
+.exercisePage .card.wideCard .textBlock .left,
+.exercisePage .card.wideCard .textBlock .right {
+    width: 48%;
+}
+
+.exercisePage .card.wideCard .textBlock .right .left,
+.exercisePage .card.wideCard .textBlock .right .right {
+    width: 46%;
+}
+
+.exercisePage .card.wideCard .textBlock #freeTrialLogin {
+    position: absolute;
+}
+
+.exercisePage .card.wideCard .textBlock .relatedSd {
+    margin-bottom: 50px;
+    padding-bottom: 30px;
+    border-bottom: 2px solid #D0D0D0;
+}
+
+.exercisePage .card.wideCard .textBlock .pleaseLoginText {
+    margin-bottom: 20px;
+}
+
+.exercisePage .card.wideCard .textBlock .pleaseLoginButton {
+    margin-bottom: 20px;
+}
+
+.exercisePage .card.wideCard .textBlock .pleaseLoginButton .button {
+    box-shadow: none;
+}
+
+.exercisePage #freeTrialLogin {
+    background-color: #FFFFFF;
+    box-shadow: 0 0 4px 1px rgba(119, 119, 119, 0.4);
+    max-width: 850px;
+    width: 90%;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    bottom: 30px;
+    left: 0;
+    right: 0;
+    margin: auto;
+}
+
+.exercisePage #freeTrialLogin #freeTrial {
+    padding: 55px;
+    background-color: #175B83;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.exercisePage #freeTrialLogin #freeTrial #innerTrial {
+    border: 5px solid #FFCA03;
+    border-radius: 3px;
+    padding: 30px 60px;
+    position: relative;
+}
+
+.exercisePage #freeTrialLogin #freeTrial #innerTrial h1 {
+    background-color: #175B83;
+    position: absolute;
+    color: #FFFFFF;
+    font-family: 'Oswald', sans-serif;
+    font-size: 32px;
+    font-weight: 500;
+    text-transform: uppercase;
+    left: 50%;
+    margin-left: -88px;
+    top: -30px;
+    padding: 0 20px;
+}
+
+.exercisePage #freeTrialLogin #freeTrial #innerTrial h2 {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+    font-size: 25px;
+    color: #FFFFFF;
+    background-color: transparent;
+    text-transform: uppercase;
+    text-align: center;
+    margin: 10px 0;
+}
+
+.exercisePage #freeTrialLogin #freeTrial #innerTrial .bottomText {
+    background-color: #175B83;
+    position: absolute;
+    bottom: -28px;
+    left: 50%;
+    margin-left: -95px;
+    padding: 0 10px;
+}
+
+.exercisePage #freeTrialLogin #freeTrial #innerTrial .bottomText .button {
+    color: #191814;
+    box-shadow: none;
+    line-height: 55px;
+}
+
+.exercisePage #freeTrialLogin #freeTrial #innerTrial .include {
+    text-align: center;
+}
+
+.exercisePage #freeTrialLogin #freeTrial #innerTrial .include .col {
+    display: inline-block;
+    width: 25%;
+    text-align: center;
+    margin: 0 2%;
+}
+
+.exercisePage #freeTrialLogin #freeTrial #innerTrial .include .text {
+    width: 400px;
+    max-width: 100%;
+    font-size: 20px;
+    font-weight: 600;
+    display: table-cell;
+    vertical-align: bottom;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.exercisePage #freeTrialLogin #freeTrial #innerTrial .include .line {
+    width: 130px;
+    max-width: 100%;
+    height: 4px;
+    margin: 15px auto;
+    background-color: #FFCA03;
+    border-radius: 2px;
+}
+
+.exercisePage #freeTrialLogin #freeTrial #innerTrial .include img {
+    width: 50px;
+    display: inline-block;
+    margin: 10px auto 40px;
+}
+
+.exercisePage #freeTrialLogin #login {
+    padding: 40px;
+}
+
+.exercisePage #freeTrialLogin #login h2 {
+    font-size: 25px;
+    color: #191814;
+    text-transform: uppercase;
+    text-align: center;
+    background-color: transparent;
+    margin: 0 auto 10px;
+    font-weight: 700;
+}
+
+.exercisePage #freeTrialLogin #login form {
+    max-width: 350px;
+    margin: auto;
+}
+
+.exercisePage #freeTrialLogin #login [type="checkbox"]:not(:checked)+label:before,
+.exercisePage #freeTrialLogin #login [type="checkbox"]:checked+label:before,
+.exercisePage #freeTrialLogin #login [type="checkbox"]:not(:checked)+label:after,
+.exercisePage #freeTrialLogin #login [type="checkbox"]:checked+label:after {
+    left: 0;
+    right: auto;
+}
+
+.exercisePage #freeTrialLogin #login [type="checkbox"]:not(:checked)+label,
+.exercisePage #freeTrialLogin #login [type="checkbox"]:checked+label {
+    padding-left: 20px;
+    font-weight: 600;
+}
+
+.exercisePage #freeTrialLogin #login a {
+    text-decoration: none;
+    font-weight: 600;
+}
+
+.exercisePage #freeTrialLogin #login .button {
+    box-shadow: none;
+    margin-top: 20px;
+}
+
+.pricesPage .content .subTitle {
+    font-size: 15px;
+    font-weight: 700;
+    color: #191814;
+    text-align: center;
+}
+
+.pricesPage .content .typeContainer {
+    margin-top: 20px;
+    font-size: 0;
+}
+
+.pricesPage .content .typeContainer .type {
+    display: inline-block;
+    height: 42px;
+    line-height: 42px;
+    background-color: #FFFFFF;
+    color: #191814;
+    font-size: 20px;
+    font-weight: 700;
+    box-shadow: 3px 3px 2px rgba(106, 106, 106, 0.45);
+    max-width: 320px;
+    width: 21%;
+    margin: 0 2% 4vw;
+    cursor: pointer;
+}
+
+.pricesPage .content .typeContainer .type.active {
+    background-color: #2276A5;
+    color: #FFFFFF;
+}
+
+.pricesPage .content .typeContainer .type:first-child {
+    margin-left: 0;
+}
+
+.pricesPage .content .typeContainer .type:last-child {
+    margin-right: 0;
+}
+
+.pricesPage .content .go-to-sub {
+    text-align: center;
+    width: 100%;
+    line-height: 55px;
+    max-width: 320px;
+    display: block;
+    margin: auto;
+    box-shadow: none;
+}
+
+.pricesPage .content .priceContainer {
+    text-align: center;
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    flex-flow: row wrap;
+    -webkit-flex-flow: row wrap;
+    justify-content: space-around;
+    margin-top: 80px;
+}
+
+.pricesPage .content .priceContainer .priceBox {
+    display: inline-block;
+    max-width: 320px;
+    width: 30%;
+    margin: 0 2% 2vw;
+    -webkit-transition: all .3s;
+    -moz-transition: all .3s;
+    -ms-transition: all .3s;
+    -o-transition: all .3s;
+    transition: all .3s;
+    vertical-align: top;
+    box-shadow: 0 0 4px 1px rgba(119, 119, 119, 0.4);
+    border-radius: 6px;
+    position: relative;
+}
+
+.pricesPage .content .priceContainer .priceBox>a {
+    text-decoration: none;
+    background-color: #FFFFFF;
+    overflow: hidden;
+    border-radius: 6px;
+    display: block;
+}
+
+.pricesPage .content .priceContainer .priceBox .label {
+    background-color: #2276A5;
+    color: #FFFFFF;
+    border-top-left-radius: 6px;
+    border-top-right-radius: 6px;
+    text-align: center;
+    font-size: 20px;
+    font-family: Oswald;
+    padding: 5px 15px;
+    position: absolute;
+    top: -40px;
+    left: 50%;
+    min-width: 200px;
+    -webkit-transform: translateX(-50%);
+    -moz-transform: translateX(-50%);
+    -ms-transform: translateX(-50%);
+    -o-transform: translateX(-50%);
+    transform: translateX(-50%);
+}
+
+.pricesPage .content .priceContainer .priceBox .top {
+    -webkit-transition: all .3s;
+    -moz-transition: all .3s;
+    -ms-transition: all .3s;
+    -o-transition: all .3s;
+    transition: all .3s;
+    padding-top: 20px;
+}
+
+.pricesPage .content .priceContainer .priceBox .title {
+    font-size: 20px;
+    color: #FFFFFF;
+    font-weight: 700;
+    margin-bottom: 0;
+    -webkit-transition: all .3s;
+    -moz-transition: all .3s;
+    -ms-transition: all .3s;
+    -o-transition: all .3s;
+    transition: all .3s;
+    margin-top: 0;
+}
+
+.pricesPage .content .priceContainer .priceBox .price {
+    font-size: 45px;
+    color: #FFFFFF;
+    font-weight: 700;
+    margin-bottom: 20px;
+    padding-bottom: 10px;
+    -webkit-transition: all .3s;
+    -moz-transition: all .3s;
+    -ms-transition: all .3s;
+    -o-transition: all .3s;
+    transition: all .3s;
+}
+
+.pricesPage .content .priceContainer .priceBox .access {
+    font-size: 15px;
+    color: #666666;
+    font-weight: 600;
+    padding: 15px 0;
+    border-bottom: 1px solid #D0D0D0;
+}
+
+.pricesPage .content .priceContainer .priceBox .user {
+    font-size: 15px;
+    color: #666666;
+    font-weight: 600;
+    padding: 15px 0;
+    border-bottom: 1px solid #D0D0D0;
+}
+
+.pricesPage .content .priceContainer .priceBox .trial {
+    font-size: 15px;
+    color: #666666;
+    font-weight: 600;
+    padding: 15px 0;
+    border-bottom: 1px solid #D0D0D0;
+}
+
+.pricesPage .content .priceContainer .priceBox .bill {
+    font-size: 14px;
+    color: #666666;
+    font-weight: 700;
+    padding-bottom: 5px;
+}
+
+.pricesPage .content .priceContainer .priceBox .save {
+    font-size: 20px;
+    color: #666666;
+    font-weight: 700;
+    padding-bottom: 5px;
+    text-transform: uppercase;
+}
+
+.pricesPage .content .priceContainer .priceBox .mobileButtonContainer {
+    display: none;
+}
+
+.pricesPage .content .priceContainer .priceBox .button {
+    margin: 20px auto 10px;
+    box-shadow: none;
+    line-height: 55px;
+    border-radius: 2px;
+    min-width: 200px;
+    overflow: hidden;
+}
+
+.pricesPage .content .priceContainer .priceBox .limited {
+    font-size: 20px;
+    font-weight: 700;
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+.pricesPage .content .priceContainer .priceBox:first-child {
+    margin-left: 0;
+}
+
+.pricesPage .content .priceContainer .priceBox:first-child .top {
+    background-color: #ea4e6f;
+}
+
+.pricesPage .content .priceContainer .priceBox:first-child .save,
+.pricesPage .content .priceContainer .priceBox:first-child .limited {
+    color: #ea4e6f;
+}
+
+.pricesPage .content .priceContainer .priceBox:first-child .button {
+    background-color: #ea4e6f;
+}
+
+.pricesPage .content .priceContainer .priceBox:nth-child(2) .top {
+    background-color: #0bd0ca;
+}
+
+.pricesPage .content .priceContainer .priceBox:nth-child(2) .save,
+.pricesPage .content .priceContainer .priceBox:nth-child(2) .limited {
+    color: #0bd0ca;
+}
+
+.pricesPage .content .priceContainer .priceBox:nth-child(2) .button {
+    background-color: #0bd0ca;
+}
+
+.pricesPage .content .priceContainer .priceBox:last-child {
+    margin-right: 0;
+}
+
+.pricesPage .content .priceContainer .priceBox:last-child .top {
+    background-color: #00cd8f;
+}
+
+.pricesPage .content .priceContainer .priceBox:last-child .save,
+.pricesPage .content .priceContainer .priceBox:last-child .limited {
+    color: #00cd8f;
+}
+
+.pricesPage .content .priceContainer .priceBox:last-child .button {
+    background-color: #00cd8f;
+}
+
+.pricesPage .content .priceContainer .priceBox.inactive .label {
+    background-color: #666666;
+}
+
+.pricesPage .content .priceContainer .priceBox.inactive .top,
+.pricesPage .content .priceContainer .priceBox.inactive .button {
+    background-color: #dddddd;
+}
+
+.pricesPage .content .priceContainer .priceBox.inactive .limited {
+    color: #dddddd;
+}
+
+.pricesPage .content .priceContainer .priceBox.inactive .save {
+    color: #666666;
+}
+
+.pricesPage .content .priceContainer .priceBox:hover {
+    box-shadow: 0 0 4px 2px rgba(119, 119, 119, 0.6);
+}
+
+.pricesPage .content .priceContainer .priceBox:hover:first-child .title,
+.pricesPage .content .priceContainer .priceBox:hover:first-child .price {
+    color: #FFFFFF;
+}
+
+.pricesPage .content .priceContainer .priceBox:hover:nth-child(2) .title,
+.pricesPage .content .priceContainer .priceBox:hover:nth-child(2) .price {
+    color: #FFFFFF;
+}
+
+.pricesPage .content .priceContainer .priceBox:hover:last-child .title,
+.pricesPage .content .priceContainer .priceBox:hover:last-child .price {
+    color: #FFFFFF;
+}
+
+.pricesPage .content .whatWillYouGet {
+    background-color: #FFFFFF;
+    padding: 60px 80px;
+    margin-bottom: 60px;
+    background-image: url('https://www.pro-soccerdrills.com/images/guarantee.png');
+    background-repeat: no-repeat;
+    background-position: left 60px bottom;
+}
+
+.pricesPage .content .whatWillYouGet ul {
+    margin-bottom: 20px;
+}
+
+.pricesPage .content .whatWillYouGet ul li.text {
+    font-size: 25px;
+    font-weight: 700;
+    color: #191814;
+    margin-bottom: 30px;
+}
+
+.pricesPage .content .whatWillYouGet ul li.text ul {
+    margin-top: 10px;
+    list-style-position: inside;
+}
+
+.pricesPage .content .whatWillYouGet ul li.text ul li.listItem {
+    font-weight: 600;
+    font-size: 15px;
+    color: #191814;
+    line-height: 180%;
+    padding-left: 30px;
+    background-image: url('https://www.pro-soccerdrills.com/images/small_icons/checkbox.svg');
+    background-repeat: no-repeat;
+    background-position: left center;
+}
+
+.pricesPage .content .whatWillYouGet ul.list-style-none li.listItem {
+    padding-left: 0 !important;
+    background-image: none !important;
+}
+
+.pricesPage .content .table-container {
+    box-shadow: 0 2px 6px 0 rgba(102, 102, 102, 0.4);
+    background-color: #ffffff;
+    border-radius: 6px;
+    border-bottom: 8px solid #2276A5;
+    margin-bottom: 80px;
+}
+
+.pricesPage .content .table-container table {
+    width: 100%;
+    border-spacing: 0;
+}
+
+.pricesPage .content .table-container table tr th {
+    color: #000000;
+    font-size: 20px;
+    font-weight: 700;
+    text-transform: uppercase;
+    text-align: center;
+    padding-bottom: 15px;
+}
+
+.pricesPage .content .table-container table tr th:first-child {
+    font-size: 25px;
+    text-transform: none;
+    text-align: left;
+    padding-left: 70px;
+}
+
+.pricesPage .content .table-container table tr th:nth-child(2) {
+    color: #ea4e6f;
+}
+
+.pricesPage .content .table-container table tr th:nth-child(3) {
+    color: #0bd0ca;
+}
+
+.pricesPage .content .table-container table tr th:nth-child(4) {
+    color: #00cd8f;
+}
+
+.pricesPage .content .table-container table tr td {
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 40px;
+    color: #000000;
+    text-align: center;
+}
+
+.pricesPage .content .table-container table tr td span {
+    color: rgba(102, 102, 102, 0.3);
+    font-weight: 700;
+}
+
+.pricesPage .content .table-container table tr td:first-child {
+    padding-left: 70px;
+    text-align: left;
+}
+
+.pricesPage .content .table-container table tr:nth-child(even) {
+    background-color: rgba(34, 118, 165, 0.05);
+}
+
+.membershipPage h3 {
+    margin-bottom: 0;
+}
+
+.membershipPage .loginText {
+    margin-bottom: 20px;
+}
+
+.membershipPage .loginText a {
+    text-decoration: none;
+    color: #666666;
+}
+
+.membershipPage h4 {
+    font-weight: 700;
+    font-size: 15px;
+    color: #666666;
+    margin: 30px 0 15px;
+}
+
+.membershipPage .payment img {
+    box-shadow: 0 0 4px 1px rgba(119, 119, 119, 0.4);
+}
+
+.membershipPage .customScrollBar {
+    height: 260px;
+    padding: 15px 20px;
+    background-color: #FFFFFF;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 3px;
+    box-shadow: inset 0px 0px 3px 1px rgba(204, 204, 204, 0.45);
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    text-align: justify;
+    overflow: hidden;
+}
+
+.membershipPage .customScrollBar .mCS-dark.mCSB_scrollTools .mCSB_buttonUp {
+    background-position: -128px 0;
+    opacity: 1;
+}
+
+.membershipPage .customScrollBar .mCS-dark.mCSB_scrollTools .mCSB_buttonDown {
+    background-position: -128px -20px;
+    opacity: 1;
+}
+
+.membershipPage [type="radio"]:not(:checked)+label,
+.membershipPage [type="radio"]:checked+label {
+    padding-left: 30px;
+}
+
+.membershipPage [type="radio"]:not(:checked)+label:before,
+.membershipPage [type="radio"]:checked+label:before {
+    left: 0;
+    right: auto;
+}
+
+.membershipPage [type="radio"]:not(:checked)+label:after,
+.membershipPage [type="radio"]:checked+label:after {
+    left: 3px;
+    right: auto;
+}
+
+.membershipPage [type="radio"][name="payment"]:not(:checked)+label:before,
+.membershipPage [type="radio"][name="payment"]:checked+label:before {
+    top: calc(50% - 7px);
+}
+
+.membershipPage [type="radio"][name="payment"]:not(:checked)+label:after,
+.membershipPage [type="radio"][name="payment"]:checked+label:after {
+    top: calc(50% - 4px);
+}
+
+.membershipPage [type="radio"]+label img {
+    max-width: 100%;
+}
+
+.membershipPage .captcha {
+    margin-top: 20px;
+    padding-top: 30px;
+    border-top: 1px solid #d0d0d0;
+}
+
+.membershipPage .captcha img,
+.membershipPage .captcha iframe {
+    max-width: 100%;
+}
+
+.membershipPage form [type="checkbox"]+label {
+    font-weight: 500;
+}
+
+#passwordFormat {
+    padding: 15px 20px;
+    background-color: #FFFFFF;
+    border-radius: 3px;
+    box-shadow: inset 0px 0px 3px 1px rgba(204, 204, 204, 0.45);
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    margin-bottom: 20px;
+}
+
+#passwordFormat .icon {
+    width: 15px;
+    margin-right: 6px;
+    vertical-align: middle;
+}
+
+.textPage .content {
+    margin: 70px 0 50px;
+    min-height: 500px;
+}
+
+.textPage #textContent {
+    font-size: 18px;
+    color: #666;
+    font-weight: 500;
+    text-align: justify;
+}
+
+.faqPage {
+    padding-bottom: 200px;
+}
+
+.faqPage #titles {
+    margin-bottom: 25px;
+}
+
+.faqPage #titles .faqTitle {
+    margin-bottom: 5px;
+    font-size: 0;
+}
+
+.faqPage #titles .faqTitle a {
+    font-size: 15px;
+    color: #2276A5;
+    font-weight: 700;
+    cursor: pointer;
+    line-height: 100%;
+    text-decoration: none;
+    display: inline-block;
+}
+
+.faqPage .card {
+    max-width: 100%;
+    width: 100%;
+}
+
+.faqPage .card:hover {
+    box-shadow: 0 0 4px 1px rgba(119, 119, 119, 0.4);
+    -webkit-transform: none;
+    -moz-transform: none;
+    -ms-transform: none;
+    -o-transform: none;
+    transform: none;
+}
+
+.faqPage .card .cardTitle {
+    font-size: 25px;
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+
+.faqPage .card .question {
+    font-size: 15px;
+    font-weight: 700;
+    text-align: justify;
+    line-height: 100%;
+}
+
+.faqPage .card .answer {
+    font-size: 15px;
+    font-weight: 500;
+    text-align: justify;
+    margin-bottom: 20px;
+    line-height: 120%;
+}
+
+.faqPage .text {
+    font-size: 15px;
+    font-weight: 700;
+    margin-top: 30px;
+}
+
+.faqPage .text a {
+    text-decoration: none;
+}
+
+.blogListPage .content {
+    padding-bottom: 200px;
+}
+
+.shopListPage .card {
+    border-radius: 6px;
+    padding: 0px !important;
+}
+
+.shopListPage .card a {
+    text-decoration: none !important;
+}
+
+.shopListPage .card .top {
+    background-color: #2276A5;
+    padding: 20px;
+}
+
+.shopListPage .card .top .title {
+    font-size: 20px;
+    color: #FFFFFF;
+    font-weight: 700;
+    margin-bottom: 0;
+    -webkit-transition: all .3s;
+    -moz-transition: all .3s;
+    -ms-transition: all .3s;
+    -o-transition: all .3s;
+    transition: all .3s;
+    margin-top: 0;
+    text-align: center;
+}
+
+.shopListPage .card .top .price {
+    font-size: 45px;
+    color: #FFFFFF;
+    font-weight: 700;
+    -webkit-transition: all .3s;
+    -moz-transition: all .3s;
+    -ms-transition: all .3s;
+    -o-transition: all .3s;
+    transition: all .3s;
+    text-align: center;
+}
+
+.shopListPage .card .buttonContainer {
+    display: flex;
+    justify-content: center;
+}
+
+.shopListPage .card .buttonContainer .button {
+    background-color: #fff;
+    color: #666;
+    border: 2px solid #666;
+    margin: 20px auto 10px;
+    box-shadow: none;
+    line-height: 55px;
+    border-radius: 2px;
+    min-width: 200px;
+    overflow: hidden;
+    text-align: center;
+}
+
+.shopPage .buttonContainer {
+    display: flex;
+    justify-content: center;
+}
+
+.shopPage .buttonContainer .button {
+    background-color: #fff;
+    color: #666;
+    border: 2px solid #666;
+    margin: 20px auto 10px;
+    box-shadow: none;
+    line-height: 55px;
+    border-radius: 2px;
+    min-width: 200px;
+    overflow: hidden;
+    text-align: center;
+}
+
+.exercisePage.shopPage .card.wideCard {
+    padding: 40px 70px 70px;
+}
+
+.exercisePage.shopPage .card.wideCard .title {
+    padding-right: unset !important;
+}
+
+.shopCard {
+    display: flex !important;
+}
+
+.shopCard .img {
+    min-width: 40% !important;
+    min-height: 400px !important;
+    margin-right: 40px !important;
+}
+
+.shop-success {
+    position: fixed;
+    width: 100%;
+    background-color: #FFCA03;
+    color: #fff;
+    background-image: url(https://www.pro-soccerdrills.com/images/icons/shop-success.svg);
+    background-repeat: no-repeat;
+    background-position: center left;
+    z-index: -1;
+    top: 84px;
+    box-shadow: 0px -2px 12px rgba(0, 0, 0, 0.7);
+    opacity: 0;
+}
+
+.shop-success .shop-success-container {
+    padding: 5px 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.shop-success .button {
+    color: #fff;
+    border-color: #fff;
+    text-align: center;
+    line-height: 40px;
+}
+
+.shop-success.active {
+    opacity: 1;
+    z-index: 1;
+}
+
+.shop-alert {
+    position: fixed;
+    width: 100%;
+    background-color: #f22a2a;
+    color: #fff;
+    background-image: url(https://www.pro-soccerdrills.com/images/icons/shop-alert.svg);
+    background-repeat: no-repeat;
+    background-position: center left;
+    z-index: -1;
+    top: 84px;
+    box-shadow: 0px -2px 12px rgba(0, 0, 0, 0.7);
+    opacity: 0;
+}
+
+.shop-alert .shop-alert-container {
+    padding: 5px 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.shop-alert .button {
+    color: #fff;
+    border-color: #fff;
+    text-align: center;
+    line-height: 40px;
+}
+
+.shop-alert.active {
+    opacity: 1;
+    z-index: 1;
+}
+
+@media (max-width: 901px) {
+    .shopCard {
+        display: block !important;
+    }
+
+    .shopCard .img {
+        min-width: unset !important;
+        min-height: unset !important;
+        margin-right: unset !important;
+    }
+
+    .exercisePage.shopPage .card.wideCard {
+        padding: 20px;
+    }
+
+    .shop-success {
+        top: 45px !important;
+    }
+
+    .shop-alert {
+        top: 45px !important;
+    }
+}
+
+@media (max-width: 1150px) {
+    .shop-success {
+        top: 60px;
+    }
+
+    .shop-alert {
+        top: 60px;
+    }
+}
+
+.shopPricePage table {
+    width: 100%;
+    margin-top: 20px;
+    border-collapse: collapse;
+}
+
+.shopPricePage table tr {
+    border: 1px solid #666;
+}
+
+.shopPricePage table th,
+.shopPricePage table td {
+    padding: 20px;
+    text-align: left;
+}
+
+.shopPricePage .couponfalse {
+    box-shadow: inset 0px 0px 3px 1px rgba(231, 51, 35, 0.45);
+}
+
+.shopPricePage .coupontrue {
+    box-shadow: inset 0px 0px 3px 1px rgba(204, 204, 204, 0.45);
+}
+
+@media screen and (max-width: 901px) {
+    .shopPricePage table {
+        border: 1px solid transparent;
+        box-shadow: none;
+    }
+
+    .shopPricePage table thead {
+        display: none;
+    }
+
+    .shopPricePage table tbody tr td:before {
+        content: attr(data-label);
+        float: left;
+        font-weight: bold;
+        margin-right: 20px;
+    }
+
+    .shopPricePage table tbody tr td {
+        display: block;
+        text-align: right;
+        border-bottom: 1px solid #666;
+    }
+}
+
+.shopPricePage .card.wideCard {
+    padding: 40px 10px 10px;
+}
+
+.blogListPage .content {
+    padding-bottom: 200px;
+}
+
+.blogPage .banner_tarto .banner.bannerSlim {
+    background-color: transparent;
+    height: 75px;
+}
+
+.blogPage .card.wideCard .innerCard .extraDatas {
+    border-top: 2px solid #D0D0D0;
+    padding-top: 5px;
+}
+
+.blogPage .card.wideCard .innerCard .rating {
+    max-width: 750px;
+}
+
+.blogPage .card.wideCard .innerCard .buttons {
+    margin-top: 15px;
+}
+
+.blogPage .card.wideCard .textBlock {
+    margin-top: 20px;
+}
+
+.mySubscriptionPage {
+    padding-bottom: 200px;
+}
+
+.mySubscriptionPage .content .blockTitle {
+    font-size: 15px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+    margin: 30px 0 20px;
+}
+
+.mySubscriptionPage .content .payment {
+    width: 40%;
+    max-width: 320px;
+    box-shadow: 0 0 4px 1px rgba(119, 119, 119, 0.4);
+}
+
+.mySubscriptionPage .content .licence.priceContainer {
+    display: block;
+    justify-content: inherit;
+    text-align: left;
+    margin-top: 0;
+}
+
+.mySubscriptionPage .content .licence.priceContainer .priceBox {
+    text-align: center;
+    width: 40%;
+    position: relative;
+}
+
+.mySubscriptionPage .content .licence.priceContainer .priceBox #cancelled {
+    position: absolute;
+    width: 100%;
+    background-color: rgba(255, 255, 255, 0.85);
+    height: 100%;
+    font-size: 20px;
+    font-weight: 700;
+    border-bottom: 6px solid #FFFFFF;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+.mySubscriptionPage .content .licence.priceContainer .priceBox #cancelled .table {
+    height: 100%;
+}
+
+.mySubscriptionPage .content .licence.priceContainer .priceBox #cancelled .table .tableCell {
+    padding: 0 50px;
+}
+
+.mySubscriptionPage .content .licence.priceContainer .priceBox #cancelled img {
+    display: block;
+    margin: 0 auto 10px;
+}
+
+.mySubscriptionPage .content .licenceData {
+    display: inline-block;
+    width: 250px;
+}
+
+.mySubscriptionPage .content .licenceData .blockTitle {
+    display: inline-block;
+    width: 140px;
+    margin: 10px 0;
+}
+
+.mySubscriptionPage .content .border-button {
+    width: auto;
+    padding: 0 20px;
+    margin-top: 30px;
+    line-height: 40px;
+}
+
+.mySubscriptionPage .content .modifySubscription .left,
+.mySubscriptionPage .content .modifySubscription .right {
+    width: 48%;
+}
+
+.mySubscriptionPage .content .modifySubscription .payment {
+    width: 100%;
+    max-width: none;
+    border: 2px solid transparent;
+}
+
+.mySubscriptionPage .content .modifySubscription .payment.selected {
+    border: 2px solid #2276A5;
+}
+
+.mySubscriptionPage .content #lastSub .payment {
+    box-shadow: none;
+    border: 1px solid #191814;
+}
+
+.mySubscriptionPage .content #lastSub .lastPackage {
+    text-align: center;
+    font-size: 18px;
+    color: #191814;
+    font-weight: 700;
+    padding: 15px 0;
+}
+
+.surveyPage .content {
+    padding: 50px 0;
+}
+
+.surveyPage .content .left,
+.surveyPage .content .right {
+    width: 48%;
+}
+
+.surveyPage .content .card {
+    width: 100%;
+    max-width: 100% !important;
+    margin: 0 2% 2vw 0;
+    padding: 15px 20px;
+}
+
+.surveyPage .content .card .question {
+    font-weight: 700;
+    font-size: 15px;
+    color: #666666;
+}
+
+.surveyPage .content .card .answers {
+    color: #666666;
+}
+
+.surveyPage .content .card .answers [type="radio"]:not(:checked)+label,
+.surveyPage .content .card .answers [type="radio"]:checked+label {
+    font-size: 14px;
+    padding-right: 20px;
+}
+
+.surveyPage .content .card:hover {
+    box-shadow: 0 0 4px 1px rgba(119, 119, 119, 0.4);
+    -webkit-transform: none;
+    -moz-transform: none;
+    -ms-transform: none;
+    -o-transform: none;
+    transform: none;
+}
+
+.surveyPage .content .button {
+    box-shadow: none;
+    margin: 30px 0 0;
+}
+
+.searchPage .content .top input[type="text"] {
+    width: 100%;
+    max-width: 400px;
+    display: inline-block;
+    vertical-align: middle;
+    margin-top: 0;
+}
+
+.searchPage .content .top .button {
+    box-shadow: none;
+    vertical-align: middle;
+    height: 50px;
+    line-height: initial;
+}
+
+.searchPage .content .top .resultCounter {
+    font-size: 18px;
+    margin: 10px 0 40px;
+}
+
+.csatlakozzPage {
+    padding-bottom: 100px;
+}
+
+.csatlakozzPage .csatlakozz_form {
+    width: 100%;
+    max-width: 500px;
+    margin: 30px auto 0px auto;
+}
+
+.csatlakozzPage .csatlakozz_form .cim {
+    text-align: center;
+    color: #2276A5;
+    font-size: 19px;
+    font-weight: 700;
+    padding-bottom: 6px;
+    border-bottom: 2px solid #929292;
+    margin-bottom: 35px;
+}
+
+.csatlakozzPage .csatlakozz_form .submit_tarto {
+    padding: 20px 0px;
+    text-align: center;
+}
+
+.csatlakozzPage .csatlakozz_form h4 {
+    font-weight: 700;
+    font-size: 15px;
+    color: #666666;
+    margin: 30px 0 15px;
+}
+
+.csatlakozzPage .csatlakozz_form .customScrollBar {
+    height: 260px;
+    padding: 15px 20px;
+    background-color: #FFFFFF;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 3px;
+    box-shadow: inset 0px 0px 3px 1px rgba(204, 204, 204, 0.45);
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    text-align: justify;
+    overflow: hidden;
+}
+
+.csatlakozzPage .csatlakozz_form .customScrollBar .mCS-dark.mCSB_scrollTools .mCSB_buttonUp {
+    background-position: -128px 0;
+    opacity: 1;
+}
+
+.csatlakozzPage .csatlakozz_form .customScrollBar .mCS-dark.mCSB_scrollTools .mCSB_buttonDown {
+    background-position: -128px -20px;
+    opacity: 1;
+}
+
+.csatlakozzPage .csatlakozz_form [type="checkbox"]:not(:checked)+label:before,
+.csatlakozzPage .csatlakozz_form [type="checkbox"]:checked+label:before,
+.csatlakozzPage .csatlakozz_form [type="checkbox"]:not(:checked)+label:after,
+.csatlakozzPage .csatlakozz_form [type="checkbox"]:checked+label:after {
+    left: 0;
+    right: auto;
+}
+
+.csatlakozzPage .csatlakozz_form [type="checkbox"]:not(:checked)+label,
+.csatlakozzPage .csatlakozz_form [type="checkbox"]:checked+label {
+    padding-left: 20px;
+}
+
+.cookie_line {
+    display: none;
+    margin: 0 auto;
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    font-size: 14px;
+    z-index: 2;
+    background-color: rgba(0, 0, 0, 0.9);
+    padding: 15px 0;
+}
+
+.cookie_line table {
+    width: 100%;
+}
+
+.cookie_line table,
+.cookie_line tr,
+.cookie_line td {
+    padding: 0px;
+    margin: 0px;
+    border-spacing: 0;
+    border: 0;
+}
+
+.cookie_line .row {
+    display: block;
+    margin: 0px;
+}
+
+.cookie_line .column {
+    display: inline-block;
+}
+
+.cookie_line .text {
+    color: #ffffff;
+    line-height: 30px;
+    padding-right: 15px;
+}
+
+.cookie_line .text a {
+    color: #2276A5;
+    text-decoration: none;
+}
+
+.cookie_line .button {
+    color: #ffffff;
+    float: right;
+    border-color: white;
+    text-align: center;
+    width: auto;
+    padding: 0px 20px;
+    white-space: nowrap;
+}
+
+@media all and (max-width: 1400px) {
+    .card .innerCard .extraDatas {
+        font-size: 13px;
+    }
+}
+
+@media all and (max-width: 1200px) {
+    .banner_tarto {
+        height: 60px;
+    }
+
+    .banner_tarto .banner {
+        height: 650px;
+    }
+
+    .normalblock {
+        padding: 30px 0px;
+    }
+
+    .normalblock>div>.tartalom.benefits {
+        margin-left: -20px;
+        width: calc(100% + 40px);
+    }
+
+    .normalblock>div>.tartalom.benefits .tarto3 {
+        padding: 0px 20px;
+    }
+
+    .normalblock>div>.tartalom.what_will_you_get>.szoveg {
+        padding: 40px 0px;
+        text-align: center;
+        color: white;
+        font-size: 20px;
+        font-weight: 600;
+    }
+
+    .normalblock>div>.tartalom.soccer_drills .clra.felso {
+        padding-bottom: 30px;
+        padding-top: 0px;
+    }
+
+    .normalblock>div>.tartalom.soccer_drills .clra.also .tarto2 {
+        height: 200px;
+    }
+
+    .normalblock>div>.tartalom.several_platform_availability>.szoveg {
+        padding: 40px 0px 0px 0px;
+        text-align: center;
+        font-size: 20px;
+        font-weight: 600;
+    }
+
+    .normalblock>div>.tartalom.worldwide {
+        padding: 70px 0px 0px 0px;
+    }
+
+    .normalblock>div>.tartalom.worldwide .icon {
+        padding: 0px 0px 40px 0px;
+        max-width: 100%;
+    }
+
+    .normalblock>div>.tartalom.worldwide .gomb_tarto {
+        padding-bottom: 20px;
+    }
+
+    .card {
+        padding: 10px;
+    }
+
+    .card .innerCard .extraDatas .table .tableCell {
+        display: block;
+        width: 100%;
+    }
+
+    .card .innerCard .extraDatas .table .tableCell:last-child {
+        padding-left: 0;
+    }
+
+    .exercisePage .card .innerCard .extraDatas .table .tableCell {
+        display: table-cell;
+        width: 50%;
+    }
+
+    header .gomb {
+        font-size: 12px;
+    }
+
+    header .logo {
+        margin-right: 5px;
+        height: 40px;
+    }
+
+    header .desktop_buttons {
+        padding-right: 95px;
+    }
+}
+
+@media all and (max-width: 1150px) {
+
+    .container,
+    .pricesPage {
+        padding-top: 60px;
+    }
+
+    .contentSize,
+    .contentSize_s,
+    .contentSize_l {
+        width: 95%;
+        margin: 0px 2.5%;
+    }
+
+    header .logo {
+        margin-top: 10px;
+        height: 35px;
+    }
+
+    header .gomb {
+        padding: 0px 8px;
+        font-size: 10px;
+        line-height: 60px;
+        height: 60px;
+    }
+
+    header .gomb.first.profile {
+        top: 12px;
+        height: 48px;
+    }
+
+    header .gomb.first.profile .profil_icon {
+        width: 35px;
+        height: 35px;
+    }
+
+    header .gomb.first.profile .hover {
+        margin: -10px 0px 0px -85px;
+    }
+
+    header .gomb.first.profile .hover:before {
+        left: 118px;
+    }
+
+    header .gomb.first .hover {
+        top: 53px;
+    }
+
+    header .desktop_buttons {
+        padding-right: 80px;
+    }
+
+    header #search {
+        margin-top: 10px;
+        right: 40px;
+    }
+
+    .banner_tarto .banner {
+        height: 500px;
+    }
+
+    .banner_tarto .banner h1 {
+        font-size: 45px;
+    }
+
+    .banner_tarto .banner h2 {
+        max-width: 650px;
+        margin-top: 10px;
+        margin-bottom: 40px;
+        font-size: 58px;
+        line-height: 65px;
+    }
+
+    .banner_tarto .banner .szoveg {
+        font-size: 20px;
+        margin-bottom: 20px;
+    }
+
+    .banner_tarto .banner .button {
+        width: 130px;
+        height: 50px;
+        line-height: 50px;
+        font-size: 16px;
+        box-shadow: 0px 0px 5px 1px rgba(0, 0, 0, 0.5);
+    }
+
+    .banner_tarto .banner .button.border-button {
+        box-shadow: none;
+    }
+
+    .banner_tarto .banner .login_button {
+        background-position: right 20px center;
+    }
+
+    .normalblock {
+        padding: 25px 0px;
+    }
+
+    .normalblock>div>.cim_tarto {
+        padding-bottom: 25px;
+    }
+
+    .normalblock>div>.tartalom {
+        padding: 30px 0px 0px 0px;
+    }
+
+    .normalblock>div>.tartalom.benefits {
+        margin-left: -14px;
+        padding-top: 30px;
+        width: calc(100% + 28px);
+    }
+
+    .normalblock>div>.tartalom.benefits .tarto3 {
+        padding: 0px 14px;
+    }
+
+    .normalblock>div>.tartalom.benefits .tarto3 .icon {
+        height: 85px;
+    }
+
+    .normalblock>div>.tartalom.soccer_drills .clra.felso .tarto7 .icon {
+        height: 65px;
+    }
+
+    .normalblock>div>.tartalom.soccer_drills .clra.felso .tarto7>.cim {
+        padding-top: 10px;
+        font-size: 16px;
+    }
+
+    .normalblock>div>.tartalom.soccer_drills .clra.also .tarto2 .belso .icon {
+        height: 65px;
+    }
+
+    .normalblock>div>.tartalom.soccer_drills .clra.also .tarto2 .belso>.cim {
+        padding-top: 10px;
+        font-size: 16px;
+    }
+
+    .normalblock>div>.tartalom.worldwide {
+        padding: 55px 0px 0px 0px;
+    }
+
+    .normalblock>div>.tartalom.worldwide .gomb_tarto .button {
+        width: 130px;
+        height: 50px;
+        line-height: 50px;
+        font-size: 16px;
+    }
+
+    .normalblock>div>.tartalom.worldwide .gomb_tarto .login_button {
+        background-position: right 20px center;
+    }
+
+    .normalblock>div>.tartalom.newsletter {
+        width: 100%;
+        margin-left: auto;
+        padding: 50px 0px 80px 0px;
+    }
+
+    .normalblock>div>.tartalom.newsletter .tarto .tarto2 {
+        padding: 0px 20px;
+    }
+
+    .normalblock>div>.tartalom.newsletter .tarto .tarto2.bal {
+        width: 50%;
+    }
+
+    .normalblock>div>.tartalom.newsletter .tarto .tarto2.jobb {
+        width: 50%;
+    }
+
+    .scrollbar_tarto {
+        width: 25px;
+    }
+
+    .card {
+        width: 48%;
+        margin: 0 0 3vw 0;
+    }
+
+    .card:nth-child(2n) {
+        margin-right: 0;
+    }
+
+    .card:nth-child(2n+1) {
+        margin: 0 4% 3vw 0;
+    }
+
+    .card .innerCard .extraDatas .table .tableCell {
+        display: table-cell;
+        width: 50%;
+    }
+
+    .indexPage .contentSize,
+    .indexPage .contentSize_s {
+        width: calc(95% - 30px);
+    }
+
+    .indexPage.log-in .normalblock {
+        padding: 30px 0px 0px 0px;
+    }
+
+    .indexPage.log-in .normalblock:nth-child(2) {
+        padding-top: 25px;
+    }
+
+    .indexPage.log-in .normalblock>div>.cim_tarto {
+        padding-bottom: 0px;
+    }
+
+    .indexPage.log-in .card:last-child {
+        margin-bottom: 0px;
+    }
+
+    .soccerdrillsPage .content .right .card {
+        width: 100%;
+        margin: 0 auto 3vw auto !important;
+    }
+
+    .aboutusPage .content .aboutBox {
+        margin: 0 3% 100px;
+    }
+
+    .exercisePage .card.wideCard {
+        padding: 40px 50px 200px;
+    }
+
+    .exercisePage #freeTrialLogin #freeTrial #innerTrial {
+        padding: 30px 20px;
+    }
+
+    .exercisePage #freeTrialLogin #freeTrial #innerTrial .include .col {
+        width: 28%;
+    }
+}
+
+@media all and (min-width: 901px) {
+    header .mobil_buttons_tarto {
+        display: none !important;
+    }
+}
+
+@media all and (max-width: 900px) {
+
+    .container,
+    .pricesPage {
+        padding-top: 45px;
+    }
+
+    header .logo {
+        margin: 7px 5px 7px 0px;
+        height: 31px;
+    }
+
+    header .gomb {
+        padding: 0px 5px;
+        font-size: 10px;
+        line-height: 45px;
+        height: 45px;
+    }
+
+    header .gomb.first.profile {
+        top: 10px;
+        height: 36px;
+    }
+
+    header .gomb.first.profile .profil_icon {
+        width: 25px;
+        height: 25px;
+    }
+
+    header .gomb.first.profile .hover {
+        margin: -7px 0px 0px -75px;
+        width: 130px;
+    }
+
+    header .gomb.first.profile .hover:before {
+        left: 103px;
+    }
+
+    header .gomb.first .hover {
+        top: 40px;
+        padding: 5px 10px;
+        font-size: 12px;
+    }
+
+    header #search {
+        margin-top: 6px;
+        width: 30px;
+        height: 30px;
+        padding: 0 10px;
+        right: 30px;
+        background-size: auto 50%;
+    }
+
+    header .desktop_buttons {
+        display: none;
+    }
+
+    header .mobil_menu_search {
+        display: block;
+    }
+
+    header .mobil_menu_cart {
+        display: block;
+    }
+
+    header .mobil_menu_button {
+        display: block;
+    }
+
+    header .mobil_buttons {
+        float: left;
+        width: 100%;
+    }
+
+    header .mobil_buttons .gomb {
+        float: none;
+        display: block;
+    }
+
+    .banner_tarto .banner {
+        height: 400px;
+    }
+
+    .banner_tarto .banner h1 {
+        font-size: 40px;
+    }
+
+    .banner_tarto .banner h2 {
+        max-width: 650px;
+        margin-top: 5px;
+        margin-bottom: 35px;
+        font-size: 52px;
+        line-height: 52px;
+    }
+
+    .banner_tarto .banner .szoveg {
+        font-size: 18px;
+        margin-bottom: 10px;
+    }
+
+    .banner_tarto .banner .button {
+        width: 120px;
+        height: 40px;
+        line-height: 40px;
+        font-size: 15px;
+    }
+
+    .normalblock {
+        padding: 25px 0px;
+    }
+
+    .normalblock>div>.cim_tarto {
+        padding-bottom: 25px;
+    }
+
+    .normalblock>div>.tartalom {
+        padding: 25px 0px 0px 0px;
+    }
+
+    .normalblock>div>.tartalom.benefits {
+        margin-left: -14px;
+        width: calc(100% + 28px);
+        padding: 0px 0px 15px 0px;
+    }
+
+    .normalblock>div>.tartalom.benefits .tarto3 {
+        width: 49.5%;
+        padding: 0px 14px;
+    }
+
+    .normalblock>div>.tartalom.benefits .tarto3 .icon {
+        height: 85px;
+    }
+
+    .normalblock>div>.tartalom.benefits .tarto3 .cim {
+        font-size: 18px;
+    }
+
+    .normalblock>div>.tartalom.benefits .tarto3 .szoveg {
+        font-size: 17px;
+    }
+
+    .normalblock>div>.tartalom.benefits .tarto3:nth-child(3) {
+        padding-top: 35px;
+    }
+
+    .normalblock>div>.tartalom.what_will_you_get .tarto5>.szoveg {
+        font-size: 18px;
+    }
+
+    .normalblock>div>.tartalom.what_will_you_get .tarto5 .icon {
+        height: 35px;
+    }
+
+    .normalblock>div>.tartalom.what_will_you_get>.szoveg {
+        font-size: 17px;
+        padding-top: 15px;
+        padding-bottom: 15px;
+    }
+
+    .normalblock>div>.tartalom.soccer_drills .clra.felso {
+        padding-bottom: 10px;
+        padding-top: 0px;
+        margin-left: 0;
+        width: 100%;
+    }
+
+    .normalblock>div>.tartalom.soccer_drills .clra.felso .tarto7 {
+        width: 33%;
+        padding: 0px 10px 20px 10px;
+    }
+
+    .normalblock>div>.tartalom.soccer_drills .clra.felso .tarto7:last-child {
+        width: 100%;
+    }
+
+    .normalblock>div>.tartalom.soccer_drills .clra.felso .tarto7 .icon {
+        height: 70px;
+    }
+
+    .normalblock>div>.tartalom.soccer_drills .clra.felso .tarto7>.cim {
+        padding-top: 10px;
+        font-size: 16px;
+    }
+
+    .normalblock>div>.tartalom.soccer_drills .clra.also {
+        margin-left: 0;
+        width: 100%;
+    }
+
+    .normalblock>div>.tartalom.soccer_drills .clra.also .tarto2 {
+        height: 160px;
+    }
+
+    .normalblock>div>.tartalom.soccer_drills .clra.also .tarto2 .belso .icon {
+        height: 65px;
+    }
+
+    .normalblock>div>.tartalom.soccer_drills .clra.also .tarto2 .belso>.cim {
+        padding-top: 10px;
+        font-size: 16px;
+    }
+
+    .normalblock>div>.tartalom.several_platform_availability>.szoveg {
+        font-size: 17px;
+        padding-top: 15px;
+        padding-bottom: 15px;
+    }
+
+    .normalblock>div>.tartalom.awesome_testimonials {
+        padding-top: 30px;
+    }
+
+    .normalblock>div>.tartalom.awesome_testimonials .icon {
+        height: 90px;
+        top: -15px;
+        left: 50%;
+        margin-left: -50px;
+        padding: 12px;
+    }
+
+    .normalblock>div>.tartalom.awesome_testimonials>.szoveg {
+        padding: 40px 60px;
+        font-size: 17px;
+    }
+
+    .normalblock>div>.tartalom.awesome_testimonials .navs .tovabb {
+        top: 18px;
+        font-size: 17px;
+    }
+
+    .normalblock>div>.tartalom.worldwide {
+        padding-top: 35px;
+    }
+
+    .normalblock>div>.tartalom.worldwide .gomb_tarto .button {
+        width: 120px;
+        height: 40px;
+        line-height: 40px;
+        font-size: 15px;
+    }
+
+    .normalblock>div>.tartalom.newsletter {
+        padding: 10px 0px 20px 0px;
+    }
+
+    .normalblock>div>.tartalom.newsletter .tarto .tarto2.bal .cim {
+        font-size: 17px;
+        padding-bottom: 20px;
+    }
+
+    .normalblock>div>.tartalom.newsletter .tarto .tarto2.bal .szoveg {
+        font-size: 18px;
+    }
+
+    .normalblock>div>.tartalom.newsletter .tarto .tarto2.jobb .email_input {
+        padding: 13px 15px 13px 5px;
+        font-size: 17px;
+    }
+
+    .normalblock>div>.tartalom.newsletter .tarto .tarto2.jobb .submit {
+        font-size: 15px;
+        padding: 10px 30px;
+        margin-top: 20px;
+    }
+
+    .normalblock>div>.tartalom.follow {
+        padding-top: 0px;
+    }
+
+    .normalblock>div>.tartalom.follow .follows {
+        padding-bottom: 30px;
+    }
+
+    .normalblock>div>.tartalom.follow .follows .icon {
+        height: 50px;
+    }
+
+    .normalblock>div>.tartalom.follow .szoveg>div {
+        padding-top: 6px;
+        font-size: 16px;
+    }
+
+    .card .innerCard .extraDatas {
+        font-size: 12px;
+    }
+
+    .card .innerCard .extraDatas .table .tableCell {
+        display: block;
+        width: 100%;
+    }
+
+    .card .innerCard .title {
+        font-size: 18px;
+    }
+
+    .card .innerCard .text {
+        font-size: 13px;
+    }
+
+    .card .innerCard .rating {
+        font-size: 13px;
+    }
+
+    .soccerdrillsPage .content .left {
+        width: 38%;
+    }
+
+    .soccerdrillsPage .content .left #filters {
+        padding: 8px;
+    }
+
+    .soccerdrillsPage .content .right {
+        width: calc(62% - 10px);
+    }
+
+    .aboutusPage .content .aboutBox {
+        margin: 0 5% 60px;
+    }
+
+    .manageMyCoachesPage #coachList li .left,
+    .manageMyCoachesPage #coachList li .right {
+        font-size: 15px;
+    }
+
+    .exercisePage .card.wideCard {
+        padding: 40px 40px 150px;
+    }
+
+    .exercisePage .card.wideCard .innerCard .extraDatas div {
+        width: 44%;
+    }
+
+    .exercisePage .card.wideCard .innerCard .extraDatas.categories div {
+        width: 27%;
+    }
+
+    .exercisePage .card.wideCard .textBlock .outerLeft,
+    .exercisePage .card.wideCard .textBlock .outerRight {
+        width: 100%;
+    }
+
+    .exercisePage .card.wideCard .textBlock .imageContainer .seeHd,
+    .exercisePage .card.wideCard .textBlock .imageContainer .downloadHd {
+        width: 60px;
+        height: 35px;
+        padding: 2px 3px 3px;
+        font-size: 7px;
+        background-position: left 3px bottom 3px;
+        right: 10px;
+    }
+
+    .exercisePage #freeTrialLogin #freeTrial {
+        padding: 35px 25px;
+    }
+
+    .pricesPage .content .typeContainer .type {
+        width: 48%;
+    }
+
+    .pricesPage .content .typeContainer .type:nth-child(2) {
+        margin-right: 0;
+    }
+
+    .pricesPage .content .typeContainer .type:last-child {
+        margin-left: 0;
+    }
+
+    .pricesPage .content .priceContainer .priceBox {
+        width: 48%;
+        margin-bottom: 60px;
+    }
+
+    .pricesPage .content .priceContainer .priceBox:nth-child(2) {
+        margin-right: 0;
+    }
+
+    .pricesPage .content .priceContainer .priceBox:last-child {
+        margin-left: 0;
+    }
+
+    .pricesPage .content .whatWillYouGet {
+        padding: 30px 40px;
+    }
+
+    .mySubscriptionPage .content .payment {
+        width: 48%;
+    }
+}
+
+@media all and (max-width: 600px) {
+    .mobileTable {
+        display: table;
+        width: 100%;
+        table-layout: fixed;
+    }
+
+    .mobileTableCell {
+        display: table-cell;
+        vertical-align: middle;
+        text-align: left;
+        padding: 0 8px;
+    }
+
+    .inputContainer {
+        margin-bottom: 30px;
+    }
+
+    header .contentSize {
+        margin: 0px auto;
+        max-width: 95%;
+        width: 95%;
+    }
+
+    #ebookModal {
+        padding: 35px 20px;
+    }
+
+    #ebookModal .innerModal {
+        padding: 20px 30px;
+    }
+
+    #ebookModal .innerModal h1 {
+        font-size: 35px;
+    }
+
+    #ebookModal .innerModal h1.outerTitle {
+        margin-left: -98px;
+        top: -26px;
+    }
+
+    #ebookModal .innerModal .bottomText {
+        font-size: 20px;
+        bottom: -15px;
+        margin-left: -144px;
+    }
+
+    #ebookModal .innerModal .text {
+        font-size: 14px;
+    }
+
+    #ebookModal .innerModal img {
+        height: 60px;
+        margin: 20px auto 10px;
+    }
+
+    .banner_tarto .banner {
+        height: auto !important;
+        padding: 60px 0px;
+    }
+
+    .banner_tarto .banner h1 {
+        font-size: 36px;
+        padding: 0px 12px;
+    }
+
+    .banner_tarto .banner h2 {
+        margin-top: 7px;
+        margin-bottom: 35px;
+        font-size: 46px;
+        line-height: 46px;
+        padding: 0px 12px;
+    }
+
+    .banner_tarto .banner .szoveg {
+        font-size: 16px;
+        padding: 0px 12px;
+    }
+
+    .banner_tarto .banner .button {
+        width: 120px;
+        height: 36px;
+        line-height: 36px;
+        font-size: 14px;
+    }
+
+    .banner_tarto .banner .login_button {
+        background-position: right 10px center;
+    }
+
+    .banner_tarto .banner.bannerSlim {
+        padding: 35px 0px 0px 0px;
+    }
+
+    .banner_tarto #favoritesContainer #favorites {
+        padding: 4px 10px;
+    }
+
+    .normalblock {
+        padding: 25px 0px;
+    }
+
+    .normalblock.worldwide_block .leiras {
+        font-size: 18px;
+    }
+
+    .normalblock>div>.cim_tarto {
+        padding-bottom: 25px;
+    }
+
+    .normalblock>div>.cim_tarto .cim h2 {
+        font-size: 28px;
+    }
+
+    .normalblock>div>.tartalom.benefits {
+        margin-left: 0px;
+        width: 100%;
+    }
+
+    .normalblock>div>.tartalom.benefits .tarto3 {
+        width: 95%;
+        max-width: 350px;
+        padding: 0px;
+        margin: 0px auto;
+        padding-bottom: 20px;
+    }
+
+    .normalblock>div>.tartalom.benefits .tarto3 .cim {
+        font-size: 18px;
+        padding: 15px 0px 15px 0px;
+    }
+
+    .normalblock>div>.tartalom.benefits .tarto3 .szoveg {
+        font-size: 17px;
+    }
+
+    .normalblock>div>.tartalom.benefits .tarto3:nth-child(3) {
+        padding-top: 0px;
+    }
+
+    .normalblock>div>.tartalom.benefits .tarto3:last-child {
+        padding-bottom: 0px;
+    }
+
+    .normalblock>div>.tartalom.what_will_you_get .tarto5 {
+        width: 32.5%;
+        padding-bottom: 20px;
+    }
+
+    .normalblock>div>.tartalom.what_will_you_get .tarto5>.szoveg {
+        padding-top: 0px;
+        font-size: 18px;
+    }
+
+    .normalblock>div>.tartalom.soccer_drills .clra.felso .tarto7 {
+        width: 50%;
+    }
+
+    .normalblock>div>.tartalom.awesome_testimonials {
+        padding-top: 20px;
+    }
+
+    .normalblock>div>.tartalom.awesome_testimonials .icon {
+        height: 80px;
+        top: -20px;
+        left: 50%;
+        margin-left: -40px;
+        padding: 10px;
+    }
+
+    .normalblock>div>.tartalom.awesome_testimonials>.szoveg {
+        padding: 40px;
+    }
+
+    .normalblock>div>.tartalom.awesome_testimonials>.szoveg .cimke {
+        padding-top: 25px;
+    }
+
+    .normalblock>div>.tartalom.awesome_testimonials .navs .pager .pont {
+        width: 8px;
+        height: 8px;
+        margin: 4px 2px;
+    }
+
+    .normalblock>div>.tartalom.awesome_testimonials .navs .pager .pont.aktiv {
+        width: 8px;
+        height: 8px;
+        margin: 4px 2px;
+    }
+
+    .normalblock>div>.tartalom.worldwide {
+        padding-top: 25px;
+    }
+
+    .normalblock>div>.tartalom.worldwide .icon {
+        padding: 0px 0px;
+    }
+
+    .normalblock>div>.tartalom.worldwide .gomb_tarto {
+        padding-bottom: 5px;
+    }
+
+    .normalblock>div>.tartalom.worldwide .gomb_tarto .button {
+        width: 100px;
+        height: 36px;
+        line-height: 36px;
+        font-size: 14px;
+    }
+
+    .normalblock>div>.tartalom.worldwide .gomb_tarto .login_button {
+        background-position: right 10px center;
+    }
+
+    .normalblock>div>.tartalom.newsletter {
+        padding: 0px;
+        width: 100%;
+        margin: 0;
+    }
+
+    .normalblock>div>.tartalom.newsletter .tarto .tarto2.bal {
+        width: 100%;
+    }
+
+    .normalblock>div>.tartalom.newsletter .tarto .tarto2.bal .cim {
+        font-size: 15px;
+        padding-bottom: 7px;
+    }
+
+    .normalblock>div>.tartalom.newsletter .tarto .tarto2.bal .szoveg {
+        font-size: 14px;
+    }
+
+    .normalblock>div>.tartalom.newsletter .tarto .tarto2.jobb {
+        width: 100%;
+        text-align: left;
+        padding-top: 30px;
+    }
+
+    .normalblock>div>.tartalom.newsletter .tarto .tarto2.jobb .email_input {
+        padding: 13px 15px;
+        font-size: 14px;
+        text-align: center;
+    }
+
+    .normalblock>div>.tartalom.newsletter .tarto .tarto2.jobb .submit {
+        font-size: 13px;
+        margin-top: 20px;
+    }
+
+    .normalblock>div>.tartalom.follow .szoveg>div {
+        font-size: 14px;
+    }
+
+    .indexPage .contentSize,
+    .indexPage .contentSize_s {
+        width: 95%;
+    }
+
+    .card {
+        width: 100%;
+        margin: 0 0 4vw 0;
+    }
+
+    .card:nth-child(n) {
+        margin-right: 0;
+    }
+
+    .card .innerCard .extraDatas .table .tableCell {
+        display: table-cell;
+        width: 50%;
+    }
+
+    .soccerdrillsPage .content .left,
+    .soccerdrillsPage .content .right {
+        float: none;
+        width: 100%;
+    }
+
+    .soccerdrillsPage .content .left #filters .filter {
+        width: 48%;
+        float: left;
+    }
+
+    .soccerdrillsPage .content .left #filters .filter:not(:nth-of-type(2n)) {
+        margin-right: 4%;
+    }
+
+    .soccerdrillsPage .content #filterToggle {
+        display: block !important;
+    }
+
+    .soccerdrillsPage .content #filterContent {
+        display: none;
+    }
+
+    .soccerdrillsPage .content .right {
+        margin-top: 20px;
+    }
+
+    .soccerdrillsPage .content #filterMoreText {
+        display: none;
+    }
+
+    .soccerdrillsPage .content #filterMoreText.filterMoreTextMobile {
+        display: block;
+        margin-top: 50px;
+        margin-bottom: 0;
+        background-color: #FFFFFF;
+    }
+
+    .testimonialsPage .left,
+    .testimonialsPage .right {
+        width: 100% !important;
+        float: none;
+    }
+
+    .testimonialsPage .content .img {
+        margin: auto !important;
+        display: block;
+    }
+
+    .testimonialsPage .content .title {
+        text-align: center;
+    }
+
+    .testimonialsPage .content .text {
+        text-align: justify;
+    }
+
+    .testimonialsPage .content #sendTestimonials form .button {
+        margin-top: 20px;
+    }
+
+    .aboutusPage .content .aboutBox {
+        margin: 0 auto 60px;
+        display: block;
+    }
+
+    .profilePage .left,
+    .profilePage .right {
+        float: none;
+        width: 100% !important;
+        border: none !important;
+        padding: 0 !important;
+    }
+
+    .manageMyCoachesPage form .left,
+    .manageMyCoachesPage form .right {
+        float: none;
+        width: 100%;
+    }
+
+    .manageMyCoachesPage #coachList {
+        padding: 15px 10px;
+    }
+
+    .manageMyCoachesPage #coachList li {
+        padding: 10px;
+    }
+
+    .manageMyCoachesPage #coachList li .left,
+    .manageMyCoachesPage #coachList li .right {
+        float: none;
+        width: 100% !important;
+    }
+
+    .manageMyCoachesPage #coachList li .table .tableCell:first-child {
+        word-break: break-word;
+    }
+
+    .exercisePage .card.wideCard {
+        padding: 40px 20px 100px;
+    }
+
+    .exercisePage .card.wideCard .innerCard .extraDatas div {
+        width: 100%;
+    }
+
+    .exercisePage .card.wideCard .innerCard .extraDatas.categories div {
+        width: 44%;
+    }
+
+    .exercisePage .card.wideCard .button {
+        width: 35%;
+    }
+
+    .exercisePage #freeTrialLogin #freeTrial #innerTrial h2 {
+        font-size: 18px;
+    }
+
+    .exercisePage #freeTrialLogin #freeTrial #innerTrial .include .col {
+        width: 45%;
+    }
+
+    .exercisePage #freeTrialLogin #freeTrial #innerTrial .include .col .text {
+        font-size: 16px;
+    }
+
+    .exercisePage #freeTrialLogin #freeTrial #innerTrial .include .col img {
+        width: 40px;
+        margin: 5px auto 20px;
+    }
+
+    .exercisePage #freeTrialLogin #freeTrial #innerTrial .include .col .line {
+        margin: 5px auto;
+    }
+
+    .exercisePage #freeTrialLogin #login {
+        padding: 20px;
+    }
+
+    .pricesPage .content .priceContainer {
+        margin-top: 20px;
+    }
+
+    .pricesPage .content .priceContainer .priceBox {
+        width: 100%;
+        margin-left: 0;
+        margin-right: 0;
+    }
+
+    .pricesPage .content .priceContainer .priceBox .label {
+        z-index: -1;
+        top: -37px;
+        left: 0;
+        -webkit-transform: translateX(0);
+        -moz-transform: translateX(0);
+        -ms-transform: translateX(0);
+        -o-transform: translateX(0);
+        transform: translateX(0);
+    }
+
+    .pricesPage .content .priceContainer .priceBox .top {
+        padding-top: 0;
+    }
+
+    .pricesPage .content .priceContainer .priceBox .title {
+        margin-top: 10px;
+    }
+
+    .pricesPage .content .priceContainer .priceBox .price {
+        font-size: 36px;
+        margin-bottom: 0;
+    }
+
+    .pricesPage .content .priceContainer .priceBox .bill {
+        line-height: 32px;
+    }
+
+    .pricesPage .content .priceContainer .priceBox .limited {
+        font-size: 14px;
+        padding-bottom: 10px;
+    }
+
+    .pricesPage .content .priceContainer .priceBox .limited.hide {
+        display: none;
+    }
+
+    .pricesPage .content .priceContainer .priceBox .buttonContainer {
+        display: none;
+    }
+
+    .pricesPage .content .priceContainer .priceBox .mobileButtonContainer {
+        display: block;
+    }
+
+    .pricesPage .content .priceContainer .priceBox .mobileButtonContainer .button {
+        width: 100%;
+        min-width: auto;
+        text-align: center;
+        margin: 10px 0;
+    }
+
+    .pricesPage .content .priceContainer .priceBox:first-child .button {
+        color: #191814;
+        background-color: #FFFFFF;
+    }
+
+    .pricesPage .content .priceContainer .priceBox:nth-child(2) .button {
+        color: #191814;
+        background-color: #FFFFFF;
+    }
+
+    .pricesPage .content .priceContainer .priceBox:last-child {
+        margin-bottom: 0;
+    }
+
+    .pricesPage .content .priceContainer .priceBox:last-child .button {
+        color: #191814;
+        background-color: #FFFFFF;
+    }
+
+    .pricesPage .content .whatWillYouGet {
+        padding: 15px 0;
+        background-size: 200px;
+        background-position: right top 440px;
+    }
+
+    .pricesPage .content .whatWillYouGet ul li.text {
+        font-size: 22px;
+    }
+
+    .pricesPage .content .whatWillYouGet ul.list-style-none li.listItem {
+        font-size: 14px !important;
+    }
+
+    .pricesPage .content .white-bg+.contentSize {
+        width: 100%;
+        margin: 0;
+    }
+
+    .pricesPage .content .white-bg+.contentSize .table-container {
+        background-color: transparent;
+        box-shadow: none;
+        margin-bottom: 0;
+        border-radius: 0;
+    }
+
+    .pricesPage .content .white-bg+.contentSize .table-container table tr td {
+        line-height: 24px;
+        padding-top: 8px;
+        padding-bottom: 8px;
+    }
+
+    .pricesPage .content .white-bg+.contentSize .table-container table tr th:not(:first-child) div {
+        -webkit-transform: rotate(90deg);
+        -moz-transform: rotate(90deg);
+        -ms-transform: rotate(90deg);
+        -o-transform: rotate(90deg);
+        transform: rotate(90deg);
+        width: 45px;
+        white-space: nowrap;
+        position: relative;
+    }
+
+    .pricesPage .content .white-bg+.contentSize .table-container table tr th:not(:first-child) div span {
+        position: absolute;
+        bottom: 50%;
+        right: 0;
+        transform: translateY(50%);
+    }
+
+    .pricesPage .content .white-bg+.contentSize .table-container table tr td:first-child,
+    .pricesPage .content .white-bg+.contentSize .table-container table tr th:first-child {
+        padding-left: 10px;
+    }
+
+    .pricesPage .content .white-bg+.contentSize .table-container table tr td:last-child,
+    .pricesPage .content .white-bg+.contentSize .table-container table tr th:last-child {
+        padding-right: 10px;
+    }
+
+    .membershipPage .right {
+        margin-top: 20px;
+    }
+
+    .mySubscriptionPage .left,
+    .mySubscriptionPage .right {
+        float: none;
+        width: 100% !important;
+    }
+
+    .mySubscriptionPage .content .payment {
+        width: 100%;
+        margin: auto;
+        display: block;
+    }
+
+    .mySubscriptionPage .content .priceContainer {
+        text-align: center !important;
+    }
+
+    .mySubscriptionPage .content .priceContainer .priceBox {
+        width: 100% !important;
+    }
+
+    .mySubscriptionPage .content .licenceData {
+        display: block;
+        margin: auto;
+    }
+
+    .surveyPage .content .left,
+    .surveyPage .content .right {
+        width: 100%;
+        float: none;
+    }
+
+    .surveyPage .content .card {
+        padding: 10px;
+    }
+
+    .surveyPage .content .card .question {
+        margin-bottom: 10px;
+    }
+
+    .indexPage .banner_tarto .button {
+        margin-bottom: 20px;
+    }
+
+    .searchPage .content .top input[type="text"] {
+        width: 100%;
+        max-width: 100%;
+    }
+
+    .searchPage .content .top .button {
+        margin: 10px auto;
+        display: block;
+    }
+}
+
+@media all and (max-width: 450px) {
+    .contentSize_xs {
+        width: calc(95% - 30px);
+        margin: 0px 5%;
+    }
+
+    #ebookModal {
+        padding: 25px 15px;
+    }
+
+    #ebookModal .innerModal {
+        border-width: 3px;
+    }
+
+    #ebookModal .innerModal h1 {
+        font-size: 25px;
+    }
+
+    #ebookModal .innerModal h1.outerTitle {
+        margin-left: -75px;
+        top: -18px;
+    }
+
+    #ebookModal .innerModal .bottomText {
+        font-size: 16px;
+        bottom: -13px;
+        margin-left: -117px;
+    }
+
+    #ebookModal .innerModal .text {
+        font-size: 12px;
+        margin-top: 20px;
+    }
+
+    #ebookModal .innerModal img {
+        height: 50px;
+    }
+
+    .banner_tarto .banner {
+        padding: 40px 0px;
+    }
+
+    .banner_tarto .banner h1 {
+        font-size: 28px;
+        padding: 0px 10px;
+    }
+
+    .banner_tarto .banner h2 {
+        margin-top: 7px;
+        margin-bottom: 30px;
+        font-size: 34px;
+        line-height: 34px;
+        padding: 0px 10px;
+    }
+
+    .banner_tarto .banner .szoveg {
+        font-size: 15px;
+        padding: 0px 12px;
+    }
+
+    .banner_tarto #favoritesContainer #favorites {
+        width: 100%;
+    }
+
+    .normalblock {
+        padding: 25px 0px;
+    }
+
+    .normalblock.worldwide_block .leiras {
+        font-size: 16px;
+    }
+
+    .normalblock>div>.cim_tarto {
+        padding-bottom: 25px;
+    }
+
+    .normalblock>div>.cim_tarto .cim h2 {
+        font-size: 26px;
+    }
+
+    .normalblock>div>.tartalom.benefits {
+        margin-left: 0px;
+        width: 100%;
+    }
+
+    .normalblock>div>.tartalom.benefits .tarto3 {
+        width: 95%;
+        max-width: 350px;
+        margin: 0px auto;
+    }
+
+    .normalblock>div>.tartalom.benefits .tarto3 .icon {
+        height: 60px;
+    }
+
+    .normalblock>div>.tartalom.benefits .tarto3 .cim {
+        font-size: 16px;
+        padding: 5px 0px 15px 0px;
+    }
+
+    .normalblock>div>.tartalom.benefits .tarto3 .szoveg {
+        font-size: 14px;
+    }
+
+    .normalblock>div>.tartalom.what_will_you_get .tarto5 {
+        width: 49%;
+    }
+
+    .normalblock>div>.tartalom.what_will_you_get .tarto5>.szoveg {
+        font-size: 16px;
+    }
+
+    .normalblock>div>.tartalom.what_will_you_get>.szoveg {
+        font-size: 14px;
+    }
+
+    .normalblock>div>.tartalom.soccer_drills .clra.felso .tarto7 .icon {
+        height: 55px;
+    }
+
+    .normalblock>div>.tartalom.soccer_drills .clra.felso .tarto7>.cim {
+        padding-top: 8px;
+        font-size: 14px;
+    }
+
+    .normalblock>div>.tartalom.soccer_drills .clra.also .tarto2 {
+        height: 140px;
+    }
+
+    .normalblock>div>.tartalom.soccer_drills .clra.also .tarto2 .belso .icon {
+        height: 55px;
+    }
+
+    .normalblock>div>.tartalom.soccer_drills .clra.also .tarto2 .belso>.cim {
+        padding-top: 8px;
+        font-size: 14px;
+    }
+
+    .normalblock>div>.tartalom.several_platform_availability>.szoveg {
+        font-size: 14px;
+    }
+
+    .normalblock>div>.tartalom.awesome_testimonials {
+        padding-top: 5px;
+    }
+
+    .normalblock>div>.tartalom.awesome_testimonials .icon {
+        height: 70px;
+        left: 50%;
+        top: -30px;
+        margin-left: -35px;
+        padding: 8px;
+    }
+
+    .normalblock>div>.tartalom.awesome_testimonials>.szoveg {
+        font-size: 14px;
+        padding: 35px 25px 25px 25px;
+    }
+
+    .normalblock>div>.tartalom.awesome_testimonials>.szoveg .cimke {
+        padding-top: 15px;
+    }
+
+    .normalblock>div>.tartalom.follow .follows .icon {
+        height: 35px;
+        -ms-transform: scale(1, 1);
+        -webkit-transform: scale(1, 1);
+        transform: scale(1, 1);
+    }
+
+    .scrollbar_tarto>div {
+        display: table-cell;
+    }
+
+    .scrollbar_tarto>div .scrollbar {
+        width: 25px;
+    }
+
+    .scrollbar_tarto>div .scrollbar .block>div .circle {
+        text-align: center;
+        font-size: 14px;
+    }
+
+    .scrollbar_tarto>div .scrollbar .block>div .line {
+        width: 7px;
+        margin-left: 0px;
+    }
+
+    .card .innerCard .extraDatas .table .tableCell {
+        display: block;
+        width: 100%;
+    }
+
+    .soccerdrillsPage .content .left {
+        margin-bottom: 20px;
+    }
+
+    .soccerdrillsPage .content .left #filters .filter {
+        width: 100%;
+        margin-right: 0;
+    }
+
+    .manageMyCoachesPage #coachList li .left,
+    .manageMyCoachesPage #coachList li .right {
+        float: none;
+        width: 100% !important;
+    }
+
+    .manageMyCoachesPage #coachList li .left {
+        font-size: 14px;
+    }
+
+    .manageMyCoachesPage #coachList li .right {
+        font-size: 13px;
+    }
+
+    .exercisePage .card.wideCard {
+        padding: 40px 10px 100px;
+    }
+
+    .exercisePage .card.wideCard .innerCard .extraDatas.categories div {
+        width: 100%;
+    }
+
+    .exercisePage .card.wideCard .textBlock .outerLeft,
+    .exercisePage .card.wideCard .textBlock .outerRight,
+    .exercisePage .card.wideCard .textBlock .left,
+    .exercisePage .card.wideCard .textBlock .right {
+        width: 100% !important;
+    }
+
+    .exercisePage #freeTrialLogin #freeTrial #innerTrial .include .col {
+        width: 100%;
+        margin: 0;
+    }
+}
+
+@-webkit-keyframes fadeInUp {
+    from {
+        opacity: 0;
+        -webkit-transform: translate3d(0, 15%, 0);
+        transform: translate3d(0, 15%, 0);
+    }
+
+    to {
+        opacity: 1;
+        -webkit-transform: none;
+        transform: none;
+    }
+}
+
+@keyframes fadeInUp {
+    from {
+        opacity: 0;
+        -webkit-transform: translate3d(0, 15%, 0);
+        transform: translate3d(0, 15%, 0);
+    }
+
+    to {
+        opacity: 1;
+        -webkit-transform: none;
+        transform: none;
+    }
+}
+
+@-webkit-keyframes fadeInUpBig {
+    from {
+        opacity: 0;
+        -webkit-transform: translate3d(0, 80%, 0);
+        transform: translate3d(0, 80%, 0);
+    }
+
+    to {
+        opacity: 1;
+        -webkit-transform: none;
+        transform: none;
+    }
+}
+
+@keyframes fadeInUpBig {
+    from {
+        opacity: 0;
+        -webkit-transform: translate3d(0, 80%, 0);
+        transform: translate3d(0, 80%, 0);
+    }
+
+    to {
+        opacity: 1;
+        -webkit-transform: none;
+        transform: none;
+    }
+}
+
+@keyframes soccer_drills_animate {
+    0% {
+        -webkit-transform: scale(1);
+        -moz-transform: scale(1);
+        -ms-transform: scale(1);
+        -o-transform: scale(1);
+        transform: scale(1);
+        animation-timing-function: ease-out;
+    }
+
+    40% {
+        -webkit-transform: scale(1.15);
+        -moz-transform: scale(1.15);
+        -ms-transform: scale(1.15);
+        -o-transform: scale(1.15);
+        transform: scale(1.15);
+        animation-timing-function: ease-in;
+    }
+
+    100% {
+        -webkit-transform: scale(1);
+        -moz-transform: scale(1);
+        -ms-transform: scale(1);
+        -o-transform: scale(1);
+        transform: scale(1);
+    }
+}
+
+@-webkit-keyframes soccer_drills_animate {
+    0% {
+        -webkit-transform: scale(1);
+        -moz-transform: scale(1);
+        -ms-transform: scale(1);
+        -o-transform: scale(1);
+        transform: scale(1);
+    }
+
+    40% {
+        -webkit-transform: scale(1.15);
+        -moz-transform: scale(1.15);
+        -ms-transform: scale(1.15);
+        -o-transform: scale(1.15);
+        transform: scale(1.15);
+    }
+
+    100% {
+        -webkit-transform: scale(1);
+        -moz-transform: scale(1);
+        -ms-transform: scale(1);
+        -o-transform: scale(1);
+        transform: scale(1);
+    }
+}
+
+@-moz-keyframes soccer_drills_animate {
+    0% {
+        -webkit-transform: scale(1);
+        -moz-transform: scale(1);
+        -ms-transform: scale(1);
+        -o-transform: scale(1);
+        transform: scale(1);
+    }
+
+    40% {
+        -webkit-transform: scale(1.15);
+        -moz-transform: scale(1.15);
+        -ms-transform: scale(1.15);
+        -o-transform: scale(1.15);
+        transform: scale(1.15);
+    }
+
+    100% {
+        -webkit-transform: scale(1);
+        -moz-transform: scale(1);
+        -ms-transform: scale(1);
+        -o-transform: scale(1);
+        transform: scale(1);
+    }
+}
+
+.soccer_drills .tarto7,
+.soccer_drills .tarto2 {
+    text-decoration: none;
+    color: inherit;
+}
+
+.soccer_drills .tarto7:hover .SoccerDrills,
+.soccer_drills .tarto2:hover .SoccerDrills {
+    -webkit-animation-name: soccer_drills_animate !important;
+    -o-animation-name: soccer_drills_animate !important;
+    animation-name: soccer_drills_animate !important;
+}
+
+.soccer_drills .tarto7:hover .cim,
+.soccer_drills .tarto2:hover .cim {
+    color: #2276A5;
+}
+
+.soccer_drills .tarto7 .cim,
+.soccer_drills .tarto2 .cim {
+    -webkit-transition: all 0.2s ease-in-out;
+    transition: all 0.2s ease-in-out;
+}
+
+.SoccerDrills {
+    animation-duration: 0.4s !important;
+    animation-delay: 0s !important;
+    -webkit-transition: all 0.4s ease-in-out;
+    -moz-transition: all 0.4s ease-in-out;
+    -ms-transition: all 0.4s ease-in-out;
+    -o-transition: all 0.4s ease-in-out;
+    transition: all 0.4s ease-in-out;
+}
+
+@media print {
+
+    header,
+    .banner_tarto,
+    #breadcrumbs,
+    .cardContainer,
+    #freeTrialLogin,
+    footer {
+        display: none;
+    }
+
+    .container,
+    .pricesPage {
+        padding-top: 0;
+    }
+
+    .content {
+        margin-top: 0;
+    }
+
+    .content h3 {
+        display: none;
+    }
+
+    .card {
+        margin-bottom: 0 !important;
+        padding-bottom: 0 !important;
+    }
+
+    .exercisePage {
+        padding-bottom: 0;
+    }
+
+    .exercisePage .card.wideCard .textBlock h2 {
+        background-color: #EEEEEE !important;
+        -webkit-print-color-adjust: exact;
+    }
+
+    .exercisePage .card .innerCard .rating .ball {
+        -webkit-print-color-adjust: exact;
+    }
+}
+
+@font-face {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    src: url(https://fonts.gstatic.com/s/opensans/v23/mem8YaGs126MiZpBA-UFW50bf8pkAp6a.woff2) format('woff2');
+    unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+    font-display: swap
+}
+
+@font-face {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    src: url(https://fonts.gstatic.com/s/opensans/v23/mem8YaGs126MiZpBA-UFVZ0bf8pkAg.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+    font-display: swap
+}
+
+@font-face {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 600;
+    src: url(https://fonts.gstatic.com/s/opensans/v23/mem5YaGs126MiZpBA-UNirkOXOhpKKSTj5PW.woff2) format('woff2');
+    unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+    font-display: swap
+}
+
+@font-face {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 600;
+    src: url(https://fonts.gstatic.com/s/opensans/v23/mem5YaGs126MiZpBA-UNirkOUuhpKKSTjw.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+    font-display: swap
+}
+
+@font-face {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 700;
+    src: url(https://fonts.gstatic.com/s/opensans/v23/mem5YaGs126MiZpBA-UN7rgOXOhpKKSTj5PW.woff2) format('woff2');
+    unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+    font-display: swap
+}
+
+@font-face {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 700;
+    src: url(https://fonts.gstatic.com/s/opensans/v23/mem5YaGs126MiZpBA-UN7rgOUuhpKKSTjw.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+    font-display: swap
+}
+
+@font-face {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 800;
+    src: url(https://fonts.gstatic.com/s/opensans/v23/mem5YaGs126MiZpBA-UN8rsOXOhpKKSTj5PW.woff2) format('woff2');
+    unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+    font-display: swap
+}
+
+@font-face {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 800;
+    src: url(https://fonts.gstatic.com/s/opensans/v23/mem5YaGs126MiZpBA-UN8rsOUuhpKKSTjw.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+    font-display: swap
+}
+
+@font-face {
+    font-family: Oswald;
+    font-style: normal;
+    font-weight: 400;
+    src: url(https://fonts.gstatic.com/s/oswald/v40/TK3IWkUHHAIjg75cFRf3bXL8LICs1_Fv40pKlN4NNSeSASz7FmlYHYjMdZwlou4.woff2) format('woff2');
+    unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+    font-display: swap
+}
+
+@font-face {
+    font-family: Oswald;
+    font-style: normal;
+    font-weight: 400;
+    src: url(https://fonts.gstatic.com/s/oswald/v40/TK3IWkUHHAIjg75cFRf3bXL8LICs1_Fv40pKlN4NNSeSASz7FmlWHYjMdZwl.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+    font-display: swap
+}
+
+@font-face {
+    font-family: Oswald;
+    font-style: normal;
+    font-weight: 500;
+    src: url(https://fonts.gstatic.com/s/oswald/v40/TK3IWkUHHAIjg75cFRf3bXL8LICs1_Fv40pKlN4NNSeSASz7FmlYHYjMdZwlou4.woff2) format('woff2');
+    unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+    font-display: swap
+}
+
+@font-face {
+    font-family: Oswald;
+    font-style: normal;
+    font-weight: 500;
+    src: url(https://fonts.gstatic.com/s/oswald/v40/TK3IWkUHHAIjg75cFRf3bXL8LICs1_Fv40pKlN4NNSeSASz7FmlWHYjMdZwl.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+    font-display: swap
+}
