@@ -1,6 +1,6 @@
 HTTrack3.49-2+htsswf+htsjava launched on Fri, 28 Mar 2025 09:17:12 at https://topallenatori.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
 https://topallenatori.com
-(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.topallenatori.it/ -O1 "C:\ST_AREA\Site\site_" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://topallenatori.com/ -O1 "C:\ST_AREA\Site\site_" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
 
 
 
@@ -34,7 +34,7 @@ https://topallenatori.com
 https://topallenatori.com
 09:26:45	Warning: 	Moved Permanently fohttps://topallenatori.comit/ebook-cahttps://topallenatori.comeallenamentiin ritiro/
 https://topallenatori.com
-09:26:45	Warning: 	File has moved from https://topallenatori.com/ebook-calchttps://topallenatori.comllenamentiin ritiro/ to https://www.topallenatori.it
+09:26:45	Warning: 	File has moved from https://topallenatori.com/ebook-calchttps://topallenatori.comllenamentiin ritiro/ to https://topallenatori.com
 https://topallenatori.com
 09:26:48	Warning: 	Moved Permanently fohttps://topallenatori.comit/Speciale-https://topallenatori.com
 https://topallenatori.com
@@ -402,237 +402,237 @@ https://topallenatori.com
 https://topallenatori.comhttps://topallenatori.com
 09:38:22	Warning: 	Moved Permanently for https://topallenatori.com/?p=760
 https://topallenatori.comhttps://topallenatori.com
-09:38:22	Warning: 	File has moved from hthttps://topallenatori.comp=760 to https://www.topallenatori.it/corsi-per-allenatori-allenare-le-scelte-tecniche/
+09:38:22	Warning: 	File has moved from hthttps://topallenatori.comp=760 to https://topallenatori.com/corsi-per-allenatori-allenare-le-scelte-tecniche/
 https://topallenatori.comhttps://topallenatori.com
 09:38:22	Warning: 	Moved Permanently for https://topallenatori.com/?p=4945
 https://topallenatori.comhttps://topallenatori.com
-09:38:22	Warning: 	File has moved from hthttps://topallenatori.comp=4945 to https://www.topallenatori.it/training-acceleration-and-deceleration-for-u17-football-players/
+09:38:22	Warning: 	File has moved from hthttps://topallenatori.comp=4945 to https://topallenatori.com/training-acceleration-and-deceleration-for-u17-football-players/
 https://topallenatori.comhttps://topallenatori.com
 09:38:24	Warning: 	Moved Permanently for https://topallenatori.com/?p=4935
 https://topallenatori.comhttps://topallenatori.com
-09:38:24	Warning: 	File has moved from hthttps://topallenatori.comp=4935 to https://www.topallenatori.it/motor-skills-in-football-for-kids/
+09:38:24	Warning: 	File has moved from hthttps://topallenatori.comp=4935 to https://topallenatori.com/motor-skills-in-football-for-kids/
 https://topallenatori.comhttps://topallenatori.com
 09:38:30	Warning: 	Moved Permanently for https://topallenatori.com/?p=3171
 https://topallenatori.comhttps://topallenatori.com
-09:38:30	Warning: 	File has moved from hthttps://topallenatori.comp=3171 to https://www.topallenatori.it/football-drill-passing-and-overlapping-runs/
+09:38:30	Warning: 	File has moved from hthttps://topallenatori.comp=3171 to https://topallenatori.com/football-drill-passing-and-overlapping-runs/
 https://topallenatori.comhttps://topallenatori.com
 09:38:34	Warning: 	Moved Permanently for https://topallenatori.com/?p=3155
 https://topallenatori.comhttps://topallenatori.com
-09:38:34	Warning: 	File has moved from hthttps://topallenatori.comp=3155 to https://www.topallenatori.it/4-vs-4-one-two-wall-passing/
+09:38:34	Warning: 	File has moved from hthttps://topallenatori.comp=3155 to https://topallenatori.com/4-vs-4-one-two-wall-passing/
 https://topallenatori.comhttps://topallenatori.com
 09:38:34	Warning: 	Moved Permanently for https://topallenatori.com/?p=3151
 https://topallenatori.comhttps://topallenatori.com
-09:38:34	Warning: 	File has moved from hthttps://topallenatori.comp=3151 to https://www.topallenatori.it/soccer-shooting-drills/
+09:38:34	Warning: 	File has moved from hthttps://topallenatori.comp=3151 to https://topallenatori.com/soccer-shooting-drills/
 https://topallenatori.comhttps://topallenatori.com
 09:39:00	Warning: 	Moved Permanently for https://topallenatori.com/?p=749
 https://topallenatori.comhttps://topallenatori.com
-09:39:00	Warning: 	File has moved from hthttps://topallenatori.comp=749 to https://www.topallenatori.it/ebook-pulcini-calcio/
+09:39:00	Warning: 	File has moved from hthttps://topallenatori.comp=749 to https://topallenatori.com/ebook-pulcini-calcio/
 https://topallenatori.comhttps://topallenatori.com
 09:39:08	Warning: 	Moved Permanently for https://topallenatori.com/?p=381
 https://topallenatori.comhttps://topallenatori.com
-09:39:08	Warning: 	File has moved from hthttps://topallenatori.comp=381 to https://www.topallenatori.it/pulcini-percorso-motorio-con-situazioni-di-gioco/
+09:39:08	Warning: 	File has moved from hthttps://topallenatori.comp=381 to https://topallenatori.com/pulcini-percorso-motorio-con-situazioni-di-gioco/
 https://topallenatori.comhttps://topallenatori.com
 09:39:10	Warning: 	Moved Permanently for https://topallenatori.com/?p=3109
 https://topallenatori.comhttps://topallenatori.com
-09:39:10	Warning: 	File has moved from hthttps://topallenatori.comp=3109 to https://www.topallenatori.it/possesion-football-drill/
+09:39:10	Warning: 	File has moved from hthttps://topallenatori.comp=3109 to https://topallenatori.com/possesion-football-drill/
 https://topallenatori.comhttps://topallenatori.com
 09:39:10	Warning: 	Moved Permanently for https://topallenatori.com/?p=341
 https://topallenatori.comhttps://topallenatori.com
-09:39:10	Warning: 	File has moved from hthttps://topallenatori.comp=341 to https://www.topallenatori.it/migliorare-il-primo-controllo-per-il-possesso-palla/
+09:39:10	Warning: 	File has moved from hthttps://topallenatori.comp=341 to https://topallenatori.com/migliorare-il-primo-controllo-per-il-possesso-palla/
 https://topallenatori.comhttps://topallenatori.com
 09:39:13	Warning: 	Moved Permanently for https://topallenatori.com/?p=2001
 https://topallenatori.comhttps://topallenatori.com
-09:39:13	Warning: 	File has moved from hthttps://topallenatori.comp=2001 to https://www.topallenatori.it/il-riscaldamento-nel-calcio-con-palla/
+09:39:13	Warning: 	File has moved from hthttps://topallenatori.comp=2001 to https://topallenatori.com/il-riscaldamento-nel-calcio-con-palla/
 https://topallenatori.comhttps://topallenatori.com
 09:39:20	Warning: 	Moved Permanently for https://topallenatori.com/?p=2900
 https://topallenatori.comhttps://topallenatori.com
-09:39:20	Warning: 	File has moved from hthttps://topallenatori.comp=2900 to https://www.topallenatori.it/esercizio-di-cambio-di-gioco-nel-calcio/
+09:39:20	Warning: 	File has moved from hthttps://topallenatori.comp=2900 to https://topallenatori.com/esercizio-di-cambio-di-gioco-nel-calcio/
 https://topallenatori.comhttps://topallenatori.com
 09:39:20	Warning: 	Moved Permanently for https://topallenatori.com/?p=1112
 https://topallenatori.comhttps://topallenatori.com
-09:39:20	Warning: 	File has moved from hthttps://topallenatori.comp=1112 to https://www.topallenatori.it/allenamento-con-small-sided-games/
+09:39:20	Warning: 	File has moved from hthttps://topallenatori.comp=1112 to https://topallenatori.com/allenamento-con-small-sided-games/
 https://topallenatori.comhttps://topallenatori.com
 09:39:23	Warning: 	Moved Permanently for https://topallenatori.com/?p=2490
 https://topallenatori.comhttps://topallenatori.com
-09:39:23	Warning: 	File has moved from hthttps://topallenatori.comp=2490 to https://www.topallenatori.it/nuovi-corsi-uefa-b/
+09:39:23	Warning: 	File has moved from hthttps://topallenatori.comp=2490 to https://topallenatori.com/nuovi-corsi-uefa-b/
 https://topallenatori.comhttps://topallenatori.com
 09:39:26	Warning: 	Moved Permanently for https://topallenatori.com/?p=2285
 https://topallenatori.comhttps://topallenatori.com
-09:39:26	Warning: 	File has moved from hthttps://topallenatori.comp=2285 to https://www.topallenatori.it/circuito-coordinazione-e-tiro/
+09:39:26	Warning: 	File has moved from hthttps://topallenatori.comp=2285 to https://topallenatori.com/circuito-coordinazione-e-tiro/
 https://topallenatori.comhttps://topallenatori.com
 09:39:28	Warning: 	Moved Permanently for https://topallenatori.com/?p=2307
 https://topallenatori.comhttps://topallenatori.com
-09:39:28	Warning: 	File has moved from hthttps://topallenatori.comp=2307 to https://www.topallenatori.it/riscaldamento-fase-specifica-dellallenamento/
+09:39:28	Warning: 	File has moved from hthttps://topallenatori.comp=2307 to https://topallenatori.com/riscaldamento-fase-specifica-dellallenamento/
 https://topallenatori.comhttps://topallenatori.com
 09:39:33	Warning: 	Moved Permanently for https://topallenatori.com/?p=1706
 https://topallenatori.comhttps://topallenatori.com
-09:39:33	Warning: 	File has moved from hthttps://topallenatori.comp=1706 to https://www.topallenatori.it/modulo-4-4-2/
+09:39:33	Warning: 	File has moved from hthttps://topallenatori.comp=1706 to https://topallenatori.com/modulo-4-4-2/
 https://topallenatori.comhttps://topallenatori.com
 09:39:33	Warning: 	Moved Permanently for https://topallenatori.com/?p=778
 https://topallenatori.comhttps://topallenatori.com
-09:39:33	Warning: 	File has moved from hthttps://topallenatori.comp=778 to https://www.topallenatori.it/il-nuovo-sito-www-topallenatori-it/
+09:39:33	Warning: 	File has moved from hthttps://topallenatori.comp=778 to https://topallenatori.com/il-nuovo-sito-www-topallenatori-it/
 https://topallenatori.comhttps://topallenatori.com
 09:39:34	Warning: 	Moved Permanently for https://topallenatori.com/?p=796
 https://topallenatori.comhttps://topallenatori.com
-09:39:34	Warning: 	File has moved from hthttps://topallenatori.comp=796 to https://www.topallenatori.it/alimentazione-composizione-corporea-e-rischio-patologico-nelleta-infantile/
+09:39:34	Warning: 	File has moved from hthttps://topallenatori.comp=796 to https://topallenatori.com/alimentazione-composizione-corporea-e-rischio-patologico-nelleta-infantile/
 https://topallenatori.comhttps://topallenatori.com
 09:39:34	Warning: 	Moved Permanently for https://topallenatori.com/?p=2782
 https://topallenatori.comhttps://topallenatori.com
-09:39:34	Warning: 	File has moved from hthttps://topallenatori.comp=2782 to https://www.topallenatori.it/il-riscaldamento-pre-partita-categoria-allievi/
+09:39:34	Warning: 	File has moved from hthttps://topallenatori.comp=2782 to https://topallenatori.com/il-riscaldamento-pre-partita-categoria-allievi/
 https://topallenatori.comhttps://topallenatori.com
 09:39:34	Warning: 	Moved Permanently for https://topallenatori.com/?p=316
 https://topallenatori.comhttps://topallenatori.com
-09:39:34	Warning: 	File has moved from hthttps://topallenatori.comp=316 to https://www.topallenatori.it/esercizio-di-tiri-in-porta/
+09:39:34	Warning: 	File has moved from hthttps://topallenatori.comp=316 to https://topallenatori.com/esercizio-di-tiri-in-porta/
 https://topallenatori.comhttps://topallenatori.com
 09:39:36	Warning: 	Moved Permanently for https://topallenatori.com/?p=5002
 https://topallenatori.comhttps://topallenatori.com
-09:39:36	Warning: 	File has moved from hthttps://topallenatori.comp=5002 to https://www.topallenatori.it/esercitazione-rapidita-applicata-al-palleggio/
+09:39:36	Warning: 	File has moved from hthttps://topallenatori.comp=5002 to https://topallenatori.com/esercitazione-rapidita-applicata-al-palleggio/
 https://topallenatori.comhttps://topallenatori.com
 09:39:36	Warning: 	Moved Permanently for https://topallenatori.com/?p=5013
 https://topallenatori.comhttps://topallenatori.com
-09:39:36	Warning: 	File has moved from hthttps://topallenatori.comp=5013 to https://www.topallenatori.it/le-partite-tattiche-a-tema-nel-calcio-2/
+09:39:36	Warning: 	File has moved from hthttps://topallenatori.comp=5013 to https://topallenatori.com/le-partite-tattiche-a-tema-nel-calcio-2/
 https://topallenatori.comhttps://topallenatori.com
 09:39:40	Warning: 	Moved Permanently for https://topallenatori.com/?p=537
 https://topallenatori.comhttps://topallenatori.com
-09:39:40	Warning: 	File has moved from hthttps://topallenatori.comp=537 to https://www.topallenatori.it/preparazione-giovanissimi/
+09:39:40	Warning: 	File has moved from hthttps://topallenatori.comp=537 to https://topallenatori.com/preparazione-giovanissimi/
 https://topallenatori.comhttps://topallenatori.com
 09:39:48	Warning: 	Moved Permanently for https://topallenatori.com/?p=5654
 https://topallenatori.comhttps://topallenatori.com
-09:39:48	Warning: 	File has moved from hthttps://topallenatori.comp=5654 to https://www.topallenatori.it/settore-tecnico-tecnici-sanatoria-delle-quote-annuali/
+09:39:48	Warning: 	File has moved from hthttps://topallenatori.comp=5654 to https://topallenatori.com/settore-tecnico-tecnici-sanatoria-delle-quote-annuali/
 https://topallenatori.comhttps://topallenatori.com
 09:39:56	Warning: 	Moved Permanently for https://topallenatori.com/?p=4045
 https://topallenatori.comhttps://topallenatori.com
-09:39:56	Warning: 	File has moved from hthttps://topallenatori.comp=4045 to https://www.topallenatori.it/riscaldamento-fisico-e-mentale-nel-calcio-moderno/
+09:39:56	Warning: 	File has moved from hthttps://topallenatori.comp=4045 to https://topallenatori.com/riscaldamento-fisico-e-mentale-nel-calcio-moderno/
 https://topallenatori.comhttps://topallenatori.com
 09:39:57	Warning: 	Moved Permanently for https://topallenatori.com/?p=4029
 https://topallenatori.comhttps://topallenatori.com
-09:39:57	Warning: 	File has moved from hthttps://topallenatori.comp=4029 to https://www.topallenatori.it/riscaldamento-esordienti/
+09:39:57	Warning: 	File has moved from hthttps://topallenatori.comp=4029 to https://topallenatori.com/riscaldamento-esordienti/
 https://topallenatori.comhttps://topallenatori.com
 09:40:06	Warning: 	Moved Permanently for https://topallenatori.com/?p=3383
 https://topallenatori.comhttps://topallenatori.com
-09:40:06	Warning: 	File has moved from hthttps://topallenatori.comp=3383 to https://www.topallenatori.it/riscaldamento-dinamico-calcio/
+09:40:06	Warning: 	File has moved from hthttps://topallenatori.comp=3383 to https://topallenatori.com/riscaldamento-dinamico-calcio/
 https://topallenatori.comhttps://topallenatori.com
 09:40:09	Warning: 	Moved Permanently for https://topallenatori.com/?p=3192
 https://topallenatori.comhttps://topallenatori.com
-09:40:09	Warning: 	File has moved from hthttps://topallenatori.comp=3192 to https://www.topallenatori.it/riscaldamento/
+09:40:09	Warning: 	File has moved from hthttps://topallenatori.comp=3192 to https://topallenatori.com/riscaldamento/
 https://topallenatori.comhttps://topallenatori.com
 09:40:24	Warning: 	Moved Permanently for https://topallenatori.com/?p=1311
 https://topallenatori.comhttps://topallenatori.com
-09:40:24	Warning: 	File has moved from hthttps://topallenatori.comp=1311 to https://www.topallenatori.it/calcio-la-rimessa-laterale-due-esercitazioni-tattiche/
+09:40:24	Warning: 	File has moved from hthttps://topallenatori.comp=1311 to https://topallenatori.com/calcio-la-rimessa-laterale-due-esercitazioni-tattiche/
 https://topallenatori.comhttps://topallenatori.com
 09:40:28	Warning: 	Moved Permanently for https://topallenatori.com/?p=4543
 https://topallenatori.comhttps://topallenatori.com
-09:40:28	Warning: 	File has moved from hthttps://topallenatori.comp=4543 to https://www.topallenatori.it/ripresa-delle-attivita-sportive-pubblicato-il-protocollo-attuativo-per-il-calcio-giovanile-e-dilettantistico/
+09:40:28	Warning: 	File has moved from hthttps://topallenatori.comp=4543 to https://topallenatori.com/ripresa-delle-attivita-sportive-pubblicato-il-protocollo-attuativo-per-il-calcio-giovanile-e-dilettantistico/
 https://topallenatori.comhttps://topallenatori.com
 09:40:31	Warning: 	Moved Permanently for https://topallenatori.com/?p=4551
 https://topallenatori.comhttps://topallenatori.com
-09:40:31	Warning: 	File has moved from hthttps://topallenatori.comp=4551 to https://www.topallenatori.it/esercitazione-partita-a-tema-per-il-possesso-palla/
+09:40:31	Warning: 	File has moved from hthttps://topallenatori.comp=4551 to https://topallenatori.com/esercitazione-partita-a-tema-per-il-possesso-palla/
 https://topallenatori.comhttps://topallenatori.com
 09:40:36	Warning: 	Moved Permanently for https://topallenatori.com/?p=3366
 https://topallenatori.comhttps://topallenatori.com
-09:40:36	Warning: 	File has moved from hthttps://topallenatori.comp=3366 to https://www.topallenatori.it/ebook-post-preparazione-calcio/
+09:40:36	Warning: 	File has moved from hthttps://topallenatori.comp=3366 to https://topallenatori.com/ebook-post-preparazione-calcio/
 https://topallenatori.comhttps://topallenatori.com
 09:40:41	Warning: 	Moved Permanently for https://topallenatori.com/?p=4867
 https://topallenatori.comhttps://topallenatori.com
-09:40:41	Warning: 	File has moved from hthttps://topallenatori.comp=4867 to https://www.topallenatori.it/match-analyst-al-via-un-nuovo-corso/
+09:40:41	Warning: 	File has moved from hthttps://topallenatori.comp=4867 to https://topallenatori.com/match-analyst-al-via-un-nuovo-corso/
 https://topallenatori.comhttps://topallenatori.com
 09:40:42	Warning: 	Moved Permanently for https://topallenatori.com/?p=4155
 https://topallenatori.comhttps://topallenatori.com
-09:40:42	Warning: 	File has moved from hthttps://topallenatori.comp=4155 to https://www.topallenatori.it/1-vs-1-ad-inseguimento/
+09:40:42	Warning: 	File has moved from hthttps://topallenatori.comp=4155 to https://topallenatori.com/1-vs-1-ad-inseguimento/
 https://topallenatori.comhttps://topallenatori.com
 09:40:58	Warning: 	Moved Permanently for https://topallenatori.com/?p=4302
 https://topallenatori.comhttps://topallenatori.com
-09:40:58	Warning: 	File has moved from hthttps://topallenatori.comp=4302 to https://www.topallenatori.it/allenamento-giovanissimi/
+09:40:58	Warning: 	File has moved from hthttps://topallenatori.comp=4302 to https://topallenatori.com/allenamento-giovanissimi/
 https://topallenatori.comhttps://topallenatori.com
 09:41:02	Warning: 	Moved Permanently for https://topallenatori.com/?p=262
 https://topallenatori.comhttps://topallenatori.com
-09:41:02	Warning: 	File has moved from hthttps://topallenatori.comp=262 to https://www.topallenatori.it/giovanissimi-2000-nazionali-giana-erminio/
+09:41:02	Warning: 	File has moved from hthttps://topallenatori.comp=262 to https://topallenatori.com/giovanissimi-2000-nazionali-giana-erminio/
 https://topallenatori.comhttps://topallenatori.com
 09:41:17	Warning: 	Moved Permanently for https://topallenatori.com/?p=3629
 https://topallenatori.comhttps://topallenatori.com
-09:41:17	Warning: 	File has moved from hthttps://topallenatori.comp=3629 to https://www.topallenatori.it/ebook-allenamento-allievi-giovanissimi/
+09:41:17	Warning: 	File has moved from hthttps://topallenatori.comp=3629 to https://topallenatori.com/ebook-allenamento-allievi-giovanissimi/
 https://topallenatori.comhttps://topallenatori.com
 09:41:24	Warning: 	Moved Permanently for https://topallenatori.com/?p=5698
 https://topallenatori.comhttps://topallenatori.com
-09:41:24	Warning: 	File has moved from hthttps://topallenatori.comp=5698 to https://www.topallenatori.it/esercizio-dominio-palla-ball-mastery-pulcini/
+09:41:24	Warning: 	File has moved from hthttps://topallenatori.comp=5698 to https://topallenatori.com/esercizio-dominio-palla-ball-mastery-pulcini/
 https://topallenatori.comhttps://topallenatori.com
 09:41:25	Warning: 	Moved Permanently for https://topallenatori.com/?p=1359
 https://topallenatori.comhttps://topallenatori.com
-09:41:25	Warning: 	File has moved from hthttps://topallenatori.comp=1359 to https://www.topallenatori.it/uefa-c-usciti-i-bandi-per-due-nuovi-corsi-a-napoli-e-verano-brianza/
+09:41:25	Warning: 	File has moved from hthttps://topallenatori.comp=1359 to https://topallenatori.com/uefa-c-usciti-i-bandi-per-due-nuovi-corsi-a-napoli-e-verano-brianza/
 https://topallenatori.comhttps://topallenatori.com
 09:41:32	Warning: 	Moved Permanently for https://topallenatori.com/?p=1294
 https://topallenatori.comhttps://topallenatori.com
-09:41:32	Warning: 	File has moved from hthttps://topallenatori.comp=1294 to https://www.topallenatori.it/topallenatori-app-android-su-google-play/
+09:41:32	Warning: 	File has moved from hthttps://topallenatori.comp=1294 to https://topallenatori.com/topallenatori-app-android-su-google-play/
 https://topallenatori.comhttps://topallenatori.com
 09:41:37	Warning: 	Moved Permanently for https://topallenatori.com/?p=843
 https://topallenatori.comhttps://topallenatori.com
-09:41:37	Warning: 	File has moved from hthttps://topallenatori.comp=843 to https://www.topallenatori.it/resistenza-alla-velocita-nel-calcio-esercizi/
+09:41:37	Warning: 	File has moved from hthttps://topallenatori.comp=843 to https://topallenatori.com/resistenza-alla-velocita-nel-calcio-esercizi/
 https://topallenatori.comhttps://topallenatori.com
 09:41:38	Warning: 	Moved Permanently for https://topallenatori.com/?p=773
 https://topallenatori.comhttps://topallenatori.com
-09:41:38	Warning: 	File has moved from hthttps://topallenatori.comp=773 to https://www.topallenatori.it/schemi-su-palle-inattive/
+09:41:38	Warning: 	File has moved from hthttps://topallenatori.comp=773 to https://topallenatori.com/schemi-su-palle-inattive/
 https://topallenatori.comhttps://topallenatori.com
 09:41:55	Warning: 	Moved Permanently for https://topallenatori.com/?p=556
 https://topallenatori.comhttps://topallenatori.com
-09:41:55	Warning: 	File has moved from hthttps://topallenatori.comp=556 to https://www.topallenatori.it/esercizi-di-rapidita-nel-calcio-allenamento-calcio/
+09:41:55	Warning: 	File has moved from hthttps://topallenatori.comp=556 to https://topallenatori.com/esercizi-di-rapidita-nel-calcio-allenamento-calcio/
 https://topallenatori.comhttps://topallenatori.com
 09:42:10	Warning: 	Moved Permanently for https://topallenatori.com/?p=565
 https://topallenatori.comhttps://topallenatori.com
-09:42:10	Warning: 	File has moved from hthttps://topallenatori.comp=565 to https://www.topallenatori.it/esercizi-di-rapidita-calcio-allenamento-velocita/
+09:42:10	Warning: 	File has moved from hthttps://topallenatori.comp=565 to https://topallenatori.com/esercizi-di-rapidita-calcio-allenamento-velocita/
 https://topallenatori.comhttps://topallenatori.com
 09:42:12	Warning: 	Moved Permanently for https://topallenatori.com/?p=231
 https://topallenatori.comhttps://topallenatori.com
-09:42:12	Warning: 	File has moved from hthttps://topallenatori.comp=231 to https://www.topallenatori.it/sviluppi-di-tattica-in-fase-di-non-possesso/
+09:42:12	Warning: 	File has moved from hthttps://topallenatori.comp=231 to https://topallenatori.com/sviluppi-di-tattica-in-fase-di-non-possesso/
 https://topallenatori.comhttps://topallenatori.com
 09:42:24	Warning: 	Moved Permanently for https://topallenatori.com/?p=266
 https://topallenatori.comhttps://topallenatori.com
-09:42:24	Warning: 	File has moved from hthttps://topallenatori.comp=266 to https://www.topallenatori.it/il-calcio-e-movimento/
+09:42:24	Warning: 	File has moved from hthttps://topallenatori.comp=266 to https://topallenatori.com/il-calcio-e-movimento/
 https://topallenatori.comhttps://topallenatori.com
 09:42:39	Warning: 	Moved Permanently for https://topallenatori.com/?p=1781
 https://topallenatori.comhttps://topallenatori.com
-09:42:39	Warning: 	File has moved from hthttps://topallenatori.comp=1781 to https://www.topallenatori.it/allenamento-pulcini-giochi-e-esercitazioni/
+09:42:39	Warning: 	File has moved from hthttps://topallenatori.comp=1781 to https://topallenatori.com/allenamento-pulcini-giochi-e-esercitazioni/
 https://topallenatori.comhttps://topallenatori.com
 09:43:02	Warning: 	Moved Permanently for https://topallenatori.com/?p=1759
 https://topallenatori.comhttps://topallenatori.com
-09:43:02	Warning: 	File has moved from hthttps://topallenatori.comp=1759 to https://www.topallenatori.it/allenamenti-esordienti/
+09:43:02	Warning: 	File has moved from hthttps://topallenatori.comp=1759 to https://topallenatori.com/allenamenti-esordienti/
 https://topallenatori.comhttps://topallenatori.com
 09:43:12	Warning: 	Moved Permanently for https://topallenatori.com/?p=155
 https://topallenatori.comhttps://topallenatori.com
-09:43:12	Warning: 	File has moved from hthttps://topallenatori.comp=155 to https://www.topallenatori.it/tesi-master-montella/
+09:43:12	Warning: 	File has moved from hthttps://topallenatori.comp=155 to https://topallenatori.com/tesi-master-montella/
 https://topallenatori.comhttps://topallenatori.com
 09:43:15	Warning: 	Moved Permanently for https://topallenatori.com/?p=6293
 https://topallenatori.comhttps://topallenatori.com
-09:43:15	Warning: 	File has moved from hthttps://topallenatori.comp=6293 to https://www.topallenatori.it/bacheca-topallenatori-cerca-istruttori-zona-monza/
+09:43:15	Warning: 	File has moved from hthttps://topallenatori.comp=6293 to https://topallenatori.com/bacheca-topallenatori-cerca-istruttori-zona-monza/
 https://topallenatori.comhttps://topallenatori.com
 09:43:30	Warning: 	Moved Permanently for https://topallenatori.com/?p=3732
 https://topallenatori.comhttps://topallenatori.com
-09:43:30	Warning: 	File has moved from hthttps://topallenatori.comp=3732 to https://www.topallenatori.it/allenamento-di-rifinitura-nel-calcio/
+09:43:30	Warning: 	File has moved from hthttps://topallenatori.comp=3732 to https://topallenatori.com/allenamento-di-rifinitura-nel-calcio/
 https://topallenatori.comhttps://topallenatori.com
 09:43:34	Warning: 	Moved Permanently for https://topallenatori.com/?p=6197
 https://topallenatori.comhttps://topallenatori.com
-09:43:34	Warning: 	File has moved from hthttps://topallenatori.comp=6197 to https://www.topallenatori.it/speciale-preparazione-calcio-per-ruoli/
+09:43:34	Warning: 	File has moved from hthttps://topallenatori.comp=6197 to https://topallenatori.com/speciale-preparazione-calcio-per-ruoli/
 https://topallenatori.comhttps://topallenatori.com
 09:43:39	Warning: 	Moved Permanently for https://topallenatori.com/?p=6093
 https://topallenatori.comhttps://topallenatori.com
-09:43:39	Warning: 	File has moved from hthttps://topallenatori.comp=6093 to https://www.topallenatori.it/passaggio-e-ricezione-allenamento-tipo/
+09:43:39	Warning: 	File has moved from hthttps://topallenatori.comp=6093 to https://topallenatori.com/passaggio-e-ricezione-allenamento-tipo/
 https://topallenatori.comhttps://topallenatori.com
 09:43:40	Warning: 	Moved Permanently for https://topallenatori.com/?p=5425
 https://topallenatori.comhttps://topallenatori.com
-09:43:40	Warning: 	File has moved from hthttps://topallenatori.comp=5425 to https://www.topallenatori.it/calcio-dilettanti-sessione-prima-squadra-del-venerdi/
+09:43:40	Warning: 	File has moved from hthttps://topallenatori.comp=5425 to https://topallenatori.com/calcio-dilettanti-sessione-prima-squadra-del-venerdi/
 https://topallenatori.comhttps://topallenatori.com
 09:43:40	Warning: 	Moved Permanently for https://topallenatori.com/?p=5868
 https://topallenatori.comhttps://topallenatori.com
-09:43:40	Warning: 	File has moved from hthttps://topallenatori.comp=5868 to https://www.topallenatori.it/partita-a-tema-giocabilita-vincoli-e-obiettivi/
+09:43:40	Warning: 	File has moved from hthttps://topallenatori.comp=5868 to https://topallenatori.com/partita-a-tema-giocabilita-vincoli-e-obiettivi/
 https://topallenatori.comhttps://topallenatori.com
 09:43:43	Warning: 	Moved Permanently for https://topallenatori.com/?p=5449
 https://topallenatori.comhttps://topallenatori.com
-09:43:43	Warning: 	File has moved from hthttps://topallenatori.comp=5449 to https://www.topallenatori.it/calcio-esercitazione-addestrare-la-fase-offensiva-e-difensiva-con-il-3-vs-2/
+09:43:43	Warning: 	File has moved from hthttps://topallenatori.comp=5449 to https://topallenatori.com/calcio-esercitazione-addestrare-la-fase-offensiva-e-difensiva-con-il-3-vs-2/
 https://topallenatori.comhttps://topallenatori.com
 09:43:51	Warning: 	Moved Permanently for https://topallenatori.com/?p=5396
 https://topallenatori.comhttps://topallenatori.com
-09:43:51	Warning: 	File has moved from hthttps://topallenatori.comp=5396 to https://www.topallenatori.it/la-preparazione-fisica-con-la-partita-a-tema/
+09:43:51	Warning: 	File has moved from hthttps://topallenatori.comp=5396 to https://topallenatori.com/la-preparazione-fisica-con-la-partita-a-tema/
 https://topallenatori.comhttps://topallenatori.com
-09:43:53	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=5194https://topallenatori.com
+09:43:53	Warning: 	Moved Permanently for https://topallenatori.com/?p=5194https://topallenatori.com
 https://topallenatori.com
 09:43:53	Warning: 	File has moved from https://topallenatori.com/?p=5194 to https://topallenatori.com/attivazione-riscaldamento-pre-allenamento/
 https://topallenatori.com
@@ -674,7 +674,7 @@ https://topallenatori.com
 https://topallenatori.com
 09:44:29	Warning: 	Moved Permanently fohttps://topallenatori.comit/?p=283https://topallenatori.com
 https://topallenatori.com
-09:44:29	Warning: 	File has moved from https://topallenatori.com/?p=283 to https://www.topallenatori.it/lenergetica-nel-calcio/https://topallenatori.com
+09:44:29	Warning: 	File has moved from https://topallenatori.com/?p=283 to https://topallenatori.com/lenergetica-nel-calcio/https://topallenatori.com
 https://topallenatori.com
 09:44:29	Warning: 	Moved Permanently fohttps://topallenatori.comit/?p=1503https://topallenatori.com
 https://topallenatori.com
@@ -800,7 +800,7 @@ https://topallenatori.com
 https://topallenatori.com
 09:45:51	Warning: 	File has moved from https://topallenatori.com/?p=5390 to https://topallenatori.com/la-psicocinetica-nel-calcio-uno-contro-uno/
 https://topallenatori.com
-09:45:51	Warning: 	Retry after error -4https://topallenatori.com)) at link https://topallenatori.com/wp-content/uploads/2022/01/esercitazione-di-tatticica-individuale-1-vs-1-in-tre-porte-788x480.jpg (from https://www.topallenatori.it/la-psicocinetica-nel-calcio-uno-contro-uno/)
+09:45:51	Warning: 	Retry after error -4https://topallenatori.com)) at link https://topallenatori.com/wp-content/uploads/2022/01/esercitazione-di-tatticica-individuale-1-vs-1-in-tre-porte-788x480.jpg (from https://topallenatori.com/la-psicocinetica-nel-calcio-uno-contro-uno/)
 https://topallenatori.com
 09:45:55	Warning: 	Moved Permanently fohttps://topallenatori.comit/?p=6061https://topallenatori.com
 https://topallenatori.com
@@ -832,7 +832,7 @@ https://topallenatori.com
 https://topallenatori.com
 09:46:20	Warning: 	Moved Permanently fohttps://topallenatori.comit/?p=5097https://topallenatori.com
 https://topallenatori.com
-09:46:20	Warning: 	File has moved from https://topallenatori.com/?p=5097 to https://www.topallenatori.it/bando-corso-allehttps://topallenatori.com
+09:46:20	Warning: 	File has moved from https://topallenatori.com/?p=5097 to https://topallenatori.com/bando-corso-allehttps://topallenatori.com
 https://topallenatori.com
 09:46:20	Warning: 	Moved Permanently fohttps://topallenatori.comit/?p=5105https://topallenatori.com
 https://topallenatori.com
@@ -1052,1057 +1052,1057 @@ https://topallenatori.com
 https://topallenatori.com
 09:49:03	Warning: 	Moved Permanently fohttps://topallenatori.comit/?p=1266https://topallenatori.com
 
-09:49:03	Warning: 	File has moved from https://www.topallenatori.it/?p=1266 to https://www.topallenatori.it/come-far-nascere-uno-sportivo/
+09:49:03	Warning: 	File has moved from https://topallenatori.com/?p=1266 to https://topallenatori.com/come-far-nascere-uno-sportivo/
 
-09:49:03	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=727
+09:49:03	Warning: 	Moved Permanently for https://topallenatori.com/?p=727
 
-09:49:03	Warning: 	File has moved from https://www.topallenatori.it/?p=727 to https://www.topallenatori.it/esercitazione-di-rapidita-velocita-dribbling-cambi-di-direzione-nel-calcio/
+09:49:03	Warning: 	File has moved from https://topallenatori.com/?p=727 to https://topallenatori.com/esercitazione-di-rapidita-velocita-dribbling-cambi-di-direzione-nel-calcio/
 
-09:49:04	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=740
+09:49:04	Warning: 	Moved Permanently for https://topallenatori.com/?p=740
 
-09:49:04	Warning: 	File has moved from https://www.topallenatori.it/?p=740 to https://www.topallenatori.it/il-circuito-ludico-per-gli-schemi-di-base-nel-calcio/
+09:49:04	Warning: 	File has moved from https://topallenatori.com/?p=740 to https://topallenatori.com/il-circuito-ludico-per-gli-schemi-di-base-nel-calcio/
 
-09:49:04	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=455
+09:49:04	Warning: 	Moved Permanently for https://topallenatori.com/?p=455
 
-09:49:04	Warning: 	File has moved from https://www.topallenatori.it/?p=455 to https://www.topallenatori.it/tesina-figc-esercitazioni-per-il-contrasto-nella-scuola-calcio/
+09:49:04	Warning: 	File has moved from https://topallenatori.com/?p=455 to https://topallenatori.com/tesina-figc-esercitazioni-per-il-contrasto-nella-scuola-calcio/
 
-09:49:04	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=479
+09:49:04	Warning: 	Moved Permanently for https://topallenatori.com/?p=479
 
-09:49:04	Warning: 	File has moved from https://www.topallenatori.it/?p=479 to https://www.topallenatori.it/tesi-coni-figc-il-gesto-tecnico-calciare/
+09:49:04	Warning: 	File has moved from https://topallenatori.com/?p=479 to https://topallenatori.com/tesi-coni-figc-il-gesto-tecnico-calciare/
 
-09:49:04	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=419
+09:49:04	Warning: 	Moved Permanently for https://topallenatori.com/?p=419
 
-09:49:04	Warning: 	File has moved from https://www.topallenatori.it/?p=419 to https://www.topallenatori.it/esercizi-calcio-portieri/
+09:49:04	Warning: 	File has moved from https://topallenatori.com/?p=419 to https://topallenatori.com/esercizi-calcio-portieri/
 
-09:49:04	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=413
+09:49:04	Warning: 	Moved Permanently for https://topallenatori.com/?p=413
 
-09:49:04	Warning: 	File has moved from https://www.topallenatori.it/?p=413 to https://www.topallenatori.it/esercitazioni-calcio-portieri/
+09:49:04	Warning: 	File has moved from https://topallenatori.com/?p=413 to https://topallenatori.com/esercitazioni-calcio-portieri/
 
-09:49:04	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=410
+09:49:04	Warning: 	Moved Permanently for https://topallenatori.com/?p=410
 
-09:49:04	Warning: 	File has moved from https://www.topallenatori.it/?p=410 to https://www.topallenatori.it/riscaldamento-tecnico-portieri/
+09:49:04	Warning: 	File has moved from https://topallenatori.com/?p=410 to https://topallenatori.com/riscaldamento-tecnico-portieri/
 
-09:49:04	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=404
+09:49:04	Warning: 	Moved Permanently for https://topallenatori.com/?p=404
 
-09:49:04	Warning: 	File has moved from https://www.topallenatori.it/?p=404 to https://www.topallenatori.it/sviluppo-abilita-podaliche-nel-calcio/
+09:49:04	Warning: 	File has moved from https://topallenatori.com/?p=404 to https://topallenatori.com/sviluppo-abilita-podaliche-nel-calcio/
 
-09:49:04	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=387
+09:49:04	Warning: 	Moved Permanently for https://topallenatori.com/?p=387
 
-09:49:04	Warning: 	File has moved from https://www.topallenatori.it/?p=387 to https://www.topallenatori.it/allenamento-ai-movimenti-del-ruolo-di-portiere-nel-settore-giovanile/
+09:49:04	Warning: 	File has moved from https://topallenatori.com/?p=387 to https://topallenatori.com/allenamento-ai-movimenti-del-ruolo-di-portiere-nel-settore-giovanile/
 
-09:49:04	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=371
+09:49:04	Warning: 	Moved Permanently for https://topallenatori.com/?p=371
 
-09:49:04	Warning: 	File has moved from https://www.topallenatori.it/?p=371 to https://www.topallenatori.it/esercizio-propriocettivo-per-lo-sviluppo-dellequilibrio-del-portiere-di-calcio/
+09:49:04	Warning: 	File has moved from https://topallenatori.com/?p=371 to https://topallenatori.com/esercizio-propriocettivo-per-lo-sviluppo-dellequilibrio-del-portiere-di-calcio/
 
-09:49:04	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=4819
+09:49:04	Warning: 	Moved Permanently for https://topallenatori.com/?p=4819
 
-09:49:04	Warning: 	File has moved from https://www.topallenatori.it/?p=4819 to https://www.topallenatori.it/calcio-programma-dallenamento-sosta-forzata/
+09:49:04	Warning: 	File has moved from https://topallenatori.com/?p=4819 to https://topallenatori.com/calcio-programma-dallenamento-sosta-forzata/
 
-09:49:04	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=3770
+09:49:04	Warning: 	Moved Permanently for https://topallenatori.com/?p=3770
 
-09:49:04	Warning: 	File has moved from https://www.topallenatori.it/?p=3770 to https://www.topallenatori.it/test-di-valutazione-tecniche-nel-calcio-2/
+09:49:04	Warning: 	File has moved from https://topallenatori.com/?p=3770 to https://topallenatori.com/test-di-valutazione-tecniche-nel-calcio-2/
 
-09:49:06	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=2159
+09:49:06	Warning: 	Moved Permanently for https://topallenatori.com/?p=2159
 
-09:49:06	Warning: 	File has moved from https://www.topallenatori.it/?p=2159 to https://www.topallenatori.it/corso-speciale-allenatori-uefa-b/
+09:49:06	Warning: 	File has moved from https://topallenatori.com/?p=2159 to https://topallenatori.com/corso-speciale-allenatori-uefa-b/
 
-09:49:08	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=587
+09:49:08	Warning: 	Moved Permanently for https://topallenatori.com/?p=587
 
-09:49:08	Warning: 	File has moved from https://www.topallenatori.it/?p=587 to https://www.topallenatori.it/dolori-post-esercizio-i-d-o-m-s/
+09:49:08	Warning: 	File has moved from https://topallenatori.com/?p=587 to https://topallenatori.com/dolori-post-esercizio-i-d-o-m-s/
 
-09:49:09	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=374
+09:49:09	Warning: 	Moved Permanently for https://topallenatori.com/?p=374
 
-09:49:09	Warning: 	File has moved from https://www.topallenatori.it/?p=374 to https://www.topallenatori.it/la-massofisioterapia/
+09:49:09	Warning: 	File has moved from https://topallenatori.com/?p=374 to https://topallenatori.com/la-massofisioterapia/
 
-09:49:11	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=4468
+09:49:11	Warning: 	Moved Permanently for https://topallenatori.com/?p=4468
 
-09:49:11	Warning: 	File has moved from https://www.topallenatori.it/?p=4468 to https://www.topallenatori.it/equilibrio-muscolare-in-relazione-alla-funzione-e-alla-patologia/
+09:49:11	Warning: 	File has moved from https://topallenatori.com/?p=4468 to https://topallenatori.com/equilibrio-muscolare-in-relazione-alla-funzione-e-alla-patologia/
 
-09:49:13	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=4454
+09:49:13	Warning: 	Moved Permanently for https://topallenatori.com/?p=4454
 
-09:49:13	Warning: 	File has moved from https://www.topallenatori.it/?p=4454 to https://www.topallenatori.it/sport-e-doping/
+09:49:13	Warning: 	File has moved from https://topallenatori.com/?p=4454 to https://topallenatori.com/sport-e-doping/
 
-09:49:13	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=4408
+09:49:13	Warning: 	Moved Permanently for https://topallenatori.com/?p=4408
 
-09:49:13	Warning: 	File has moved from https://www.topallenatori.it/?p=4408 to https://www.topallenatori.it/calcio-quando-il-gioco-si-fa-duro/
+09:49:13	Warning: 	File has moved from https://topallenatori.com/?p=4408 to https://topallenatori.com/calcio-quando-il-gioco-si-fa-duro/
 
-09:49:15	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=508
+09:49:15	Warning: 	Moved Permanently for https://topallenatori.com/?p=508
 
-09:49:15	Warning: 	File has moved from https://www.topallenatori.it/?p=508 to https://www.topallenatori.it/il-test-della-navetta-di-leger/
+09:49:15	Warning: 	File has moved from https://topallenatori.com/?p=508 to https://topallenatori.com/il-test-della-navetta-di-leger/
 
-09:49:16	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=215
+09:49:16	Warning: 	Moved Permanently for https://topallenatori.com/?p=215
 
-09:49:16	Warning: 	File has moved from https://www.topallenatori.it/?p=215 to https://www.topallenatori.it/le-capacita-coordinative-nel-giovane-calciatore/
+09:49:16	Warning: 	File has moved from https://topallenatori.com/?p=215 to https://topallenatori.com/le-capacita-coordinative-nel-giovane-calciatore/
 
-09:49:22	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=4438
+09:49:22	Warning: 	Moved Permanently for https://topallenatori.com/?p=4438
 
-09:49:22	Warning: 	File has moved from https://www.topallenatori.it/?p=4438 to https://www.topallenatori.it/calciare-e-segnare-direttamente-dalla-bandierina-gol-olimpico/
+09:49:22	Warning: 	File has moved from https://topallenatori.com/?p=4438 to https://topallenatori.com/calciare-e-segnare-direttamente-dalla-bandierina-gol-olimpico/
 
-09:49:22	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=4387
+09:49:22	Warning: 	Moved Permanently for https://topallenatori.com/?p=4387
 
-09:49:22	Warning: 	File has moved from https://www.topallenatori.it/?p=4387 to https://www.topallenatori.it/la-preparazione-atletica-at-home/
+09:49:22	Warning: 	File has moved from https://topallenatori.com/?p=4387 to https://topallenatori.com/la-preparazione-atletica-at-home/
 
-09:49:24	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=4255
+09:49:24	Warning: 	Moved Permanently for https://topallenatori.com/?p=4255
 
-09:49:24	Warning: 	File has moved from https://www.topallenatori.it/?p=4255 to https://www.topallenatori.it/tesi-uefa-a/
+09:49:24	Warning: 	File has moved from https://topallenatori.com/?p=4255 to https://topallenatori.com/tesi-uefa-a/
 
-09:49:26	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=4271
+09:49:26	Warning: 	Moved Permanently for https://topallenatori.com/?p=4271
 
-09:49:26	Warning: 	File has moved from https://www.topallenatori.it/?p=4271 to https://www.topallenatori.it/lallenatore-nel-subentro/
+09:49:26	Warning: 	File has moved from https://topallenatori.com/?p=4271 to https://topallenatori.com/lallenatore-nel-subentro/
 
-09:49:26	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=3489
+09:49:26	Warning: 	Moved Permanently for https://topallenatori.com/?p=3489
 
-09:49:26	Warning: 	File has moved from https://www.topallenatori.it/?p=3489 to https://www.topallenatori.it/calcio-categoria-pulcini-si-cerca-un-istruttore/
+09:49:26	Warning: 	File has moved from https://topallenatori.com/?p=3489 to https://topallenatori.com/calcio-categoria-pulcini-si-cerca-un-istruttore/
 
-09:49:26	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=3493
+09:49:26	Warning: 	Moved Permanently for https://topallenatori.com/?p=3493
 
-09:49:26	Warning: 	File has moved from https://www.topallenatori.it/?p=3493 to https://www.topallenatori.it/squadra-juniores-cerca-allenatore/
+09:49:26	Warning: 	File has moved from https://topallenatori.com/?p=3493 to https://topallenatori.com/squadra-juniores-cerca-allenatore/
 
-09:49:26	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=3217
+09:49:26	Warning: 	Moved Permanently for https://topallenatori.com/?p=3217
 
-09:49:26	Warning: 	File has moved from https://www.topallenatori.it/?p=3217 to https://www.topallenatori.it/societa-sportiva-cerca-allenatori/
+09:49:26	Warning: 	File has moved from https://topallenatori.com/?p=3217 to https://topallenatori.com/societa-sportiva-cerca-allenatori/
 
-09:49:27	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=3246
+09:49:27	Warning: 	Moved Permanently for https://topallenatori.com/?p=3246
 
-09:49:27	Warning: 	File has moved from https://www.topallenatori.it/?p=3246 to https://www.topallenatori.it/gioco-di-calcio-per-allenare-la-creazione-e-loccupazione-di-spazi-nellarea-di-finitura/
+09:49:27	Warning: 	File has moved from https://topallenatori.com/?p=3246 to https://topallenatori.com/gioco-di-calcio-per-allenare-la-creazione-e-loccupazione-di-spazi-nellarea-di-finitura/
 
-09:49:30	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=2170
+09:49:30	Warning: 	Moved Permanently for https://topallenatori.com/?p=2170
 
-09:49:30	Warning: 	File has moved from https://www.topallenatori.it/?p=2170 to https://www.topallenatori.it/nutrition-tips-for-young-football-players/
+09:49:30	Warning: 	File has moved from https://topallenatori.com/?p=2170 to https://topallenatori.com/nutrition-tips-for-young-football-players/
 
-09:49:30	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=219
+09:49:30	Warning: 	Moved Permanently for https://topallenatori.com/?p=219
 
-09:49:30	Warning: 	File has moved from https://www.topallenatori.it/?p=219 to https://www.topallenatori.it/quando-e-cosa-mangiare-prima-di-un-allenamento-o-di-una-partita-al-fine-di-avere-unottima-prestazione-nel-calcio/
+09:49:30	Warning: 	File has moved from https://topallenatori.com/?p=219 to https://topallenatori.com/quando-e-cosa-mangiare-prima-di-un-allenamento-o-di-una-partita-al-fine-di-avere-unottima-prestazione-nel-calcio/
 
-09:49:30	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=298
+09:49:30	Warning: 	Moved Permanently for https://topallenatori.com/?p=298
 
-09:49:30	Warning: 	File has moved from https://www.topallenatori.it/?p=298 to https://www.topallenatori.it/limportanza-dellacqua-per-lo-sportivo/
+09:49:30	Warning: 	File has moved from https://topallenatori.com/?p=298 to https://topallenatori.com/limportanza-dellacqua-per-lo-sportivo/
 
-09:49:30	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=278
+09:49:30	Warning: 	Moved Permanently for https://topallenatori.com/?p=278
 
-09:49:30	Warning: 	File has moved from https://www.topallenatori.it/?p=278 to https://www.topallenatori.it/lalimentazione-dello-sportivo/
+09:49:30	Warning: 	File has moved from https://topallenatori.com/?p=278 to https://topallenatori.com/lalimentazione-dello-sportivo/
 
-09:49:36	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=275
+09:49:36	Warning: 	Moved Permanently for https://topallenatori.com/?p=275
 
-09:49:36	Warning: 	File has moved from https://www.topallenatori.it/?p=275 to https://www.topallenatori.it/consigli-per-lalimentazione-degli-atleti-di-16-anni/
+09:49:36	Warning: 	File has moved from https://topallenatori.com/?p=275 to https://topallenatori.com/consigli-per-lalimentazione-degli-atleti-di-16-anni/
 
-09:49:36	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=296
+09:49:36	Warning: 	Moved Permanently for https://topallenatori.com/?p=296
 
-09:49:36	Warning: 	File has moved from https://www.topallenatori.it/?p=296 to https://www.topallenatori.it/il-ruolo-del-nutrizionista-nelle-societa-calcistiche/
+09:49:36	Warning: 	File has moved from https://topallenatori.com/?p=296 to https://topallenatori.com/il-ruolo-del-nutrizionista-nelle-societa-calcistiche/
 
-09:49:36	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=294
+09:49:36	Warning: 	Moved Permanently for https://topallenatori.com/?p=294
 
-09:49:36	Warning: 	File has moved from https://www.topallenatori.it/?p=294 to https://www.topallenatori.it/i-10-errori-piu-comuni-che-ostacolano-le-diete/
+09:49:36	Warning: 	File has moved from https://topallenatori.com/?p=294 to https://topallenatori.com/i-10-errori-piu-comuni-che-ostacolano-le-diete/
 
-09:49:36	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=292
+09:49:36	Warning: 	Moved Permanently for https://topallenatori.com/?p=292
 
-09:49:36	Warning: 	File has moved from https://www.topallenatori.it/?p=292 to https://www.topallenatori.it/rhodiola-rosea-pianta-anti-fatica/
+09:49:36	Warning: 	File has moved from https://topallenatori.com/?p=292 to https://topallenatori.com/rhodiola-rosea-pianta-anti-fatica/
 
-09:49:36	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=1149
+09:49:36	Warning: 	Moved Permanently for https://topallenatori.com/?p=1149
 
-09:49:36	Warning: 	File has moved from https://www.topallenatori.it/?p=1149 to https://www.topallenatori.it/nutrition-for-football/
+09:49:36	Warning: 	File has moved from https://topallenatori.com/?p=1149 to https://topallenatori.com/nutrition-for-football/
 
-09:49:36	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=1001
+09:49:36	Warning: 	Moved Permanently for https://topallenatori.com/?p=1001
 
-09:49:36	Warning: 	File has moved from https://www.topallenatori.it/?p=1001 to https://www.topallenatori.it/allenare-in-primisvuol-dire-sapere-comunicare/
+09:49:36	Warning: 	File has moved from https://topallenatori.com/?p=1001 to https://topallenatori.com/allenare-in-primisvuol-dire-sapere-comunicare/
 
-09:49:36	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=4932
+09:49:36	Warning: 	Moved Permanently for https://topallenatori.com/?p=4932
 
-09:49:36	Warning: 	File has moved from https://www.topallenatori.it/?p=4932 to https://www.topallenatori.it/il-nuovo-libro-di-calcio-di-topallenatori-lindagine/
+09:49:36	Warning: 	File has moved from https://topallenatori.com/?p=4932 to https://topallenatori.com/il-nuovo-libro-di-calcio-di-topallenatori-lindagine/
 
-09:49:36	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=3172
+09:49:36	Warning: 	Moved Permanently for https://topallenatori.com/?p=3172
 
-09:49:36	Warning: 	File has moved from https://www.topallenatori.it/?p=3172 to https://www.topallenatori.it/corso-match-analyst-settore-tecnico/
+09:49:36	Warning: 	File has moved from https://topallenatori.com/?p=3172 to https://topallenatori.com/corso-match-analyst-settore-tecnico/
 
-09:49:36	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=3180
+09:49:36	Warning: 	Moved Permanently for https://topallenatori.com/?p=3180
 
-09:49:36	Warning: 	File has moved from https://www.topallenatori.it/?p=3180 to https://www.topallenatori.it/seduta-di-allenamento-completo-prima-squadra/
+09:49:36	Warning: 	File has moved from https://topallenatori.com/?p=3180 to https://topallenatori.com/seduta-di-allenamento-completo-prima-squadra/
 
-09:49:37	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=3160
+09:49:37	Warning: 	Moved Permanently for https://topallenatori.com/?p=3160
 
-09:49:37	Warning: 	File has moved from https://www.topallenatori.it/?p=3160 to https://www.topallenatori.it/partite-a-tema-calcio/
+09:49:37	Warning: 	File has moved from https://topallenatori.com/?p=3160 to https://topallenatori.com/partite-a-tema-calcio/
 
-09:49:39	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=2990
+09:49:39	Warning: 	Moved Permanently for https://topallenatori.com/?p=2990
 
-09:49:39	Warning: 	File has moved from https://www.topallenatori.it/?p=2990 to https://www.topallenatori.it/1-vs-1-duel-in-soccer-drills/
+09:49:39	Warning: 	File has moved from https://topallenatori.com/?p=2990 to https://topallenatori.com/1-vs-1-duel-in-soccer-drills/
 
-09:49:43	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=2980
+09:49:43	Warning: 	Moved Permanently for https://topallenatori.com/?p=2980
 
-09:49:43	Warning: 	File has moved from https://www.topallenatori.it/?p=2980 to https://www.topallenatori.it/individual-training-of-ball-control-and-dribbling/
+09:49:43	Warning: 	File has moved from https://topallenatori.com/?p=2980 to https://topallenatori.com/individual-training-of-ball-control-and-dribbling/
 
-09:49:43	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=2601
+09:49:43	Warning: 	Moved Permanently for https://topallenatori.com/?p=2601
 
-09:49:43	Warning: 	File has moved from https://www.topallenatori.it/?p=2601 to https://www.topallenatori.it/3v3-a-wall-pass-game/
+09:49:43	Warning: 	File has moved from https://topallenatori.com/?p=2601 to https://topallenatori.com/3v3-a-wall-pass-game/
 
-09:49:43	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=2355
+09:49:43	Warning: 	Moved Permanently for https://topallenatori.com/?p=2355
 
-09:49:43	Warning: 	File has moved from https://www.topallenatori.it/?p=2355 to https://www.topallenatori.it/football-dribbling-game/
+09:49:43	Warning: 	File has moved from https://topallenatori.com/?p=2355 to https://topallenatori.com/football-dribbling-game/
 
-09:49:43	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=2318
+09:49:43	Warning: 	Moved Permanently for https://topallenatori.com/?p=2318
 
-09:49:43	Warning: 	File has moved from https://www.topallenatori.it/?p=2318 to https://www.topallenatori.it/warm-up-drills/
+09:49:43	Warning: 	File has moved from https://topallenatori.com/?p=2318 to https://topallenatori.com/warm-up-drills/
 
-09:49:47	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=2255
+09:49:47	Warning: 	Moved Permanently for https://topallenatori.com/?p=2255
 
-09:49:47	Warning: 	File has moved from https://www.topallenatori.it/?p=2255 to https://www.topallenatori.it/shooting-game-for-individual-skills/
+09:49:47	Warning: 	File has moved from https://topallenatori.com/?p=2255 to https://topallenatori.com/shooting-game-for-individual-skills/
 
-09:49:47	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=2167
+09:49:47	Warning: 	Moved Permanently for https://topallenatori.com/?p=2167
 
-09:49:47	Warning: 	File has moved from https://www.topallenatori.it/?p=2167 to https://www.topallenatori.it/competition-with-2vs2-for-aerobic-anaerobic-training/
+09:49:47	Warning: 	File has moved from https://topallenatori.com/?p=2167 to https://topallenatori.com/competition-with-2vs2-for-aerobic-anaerobic-training/
 
-09:49:47	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=2114
+09:49:47	Warning: 	Moved Permanently for https://topallenatori.com/?p=2114
 
-09:49:47	Warning: 	File has moved from https://www.topallenatori.it/?p=2114 to https://www.topallenatori.it/3v3-midfield-play/
+09:49:47	Warning: 	File has moved from https://topallenatori.com/?p=2114 to https://topallenatori.com/3v3-midfield-play/
 
-09:49:47	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=1879
+09:49:47	Warning: 	Moved Permanently for https://topallenatori.com/?p=1879
 
-09:49:47	Warning: 	File has moved from https://www.topallenatori.it/?p=1879 to https://www.topallenatori.it/1v1-duel-receive-out-wide/
+09:49:47	Warning: 	File has moved from https://topallenatori.com/?p=1879 to https://topallenatori.com/1v1-duel-receive-out-wide/
 
-09:49:47	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=1523
+09:49:47	Warning: 	Moved Permanently for https://topallenatori.com/?p=1523
 
-09:49:47	Warning: 	File has moved from https://www.topallenatori.it/?p=1523 to https://www.topallenatori.it/warm-up-game-under-1o/
+09:49:47	Warning: 	File has moved from https://topallenatori.com/?p=1523 to https://topallenatori.com/warm-up-game-under-1o/
 
-09:49:54	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=3086
+09:49:54	Warning: 	Moved Permanently for https://topallenatori.com/?p=3086
 
-09:49:54	Warning: 	File has moved from https://www.topallenatori.it/?p=3086 to https://www.topallenatori.it/osservatore-calcistico-a-maggio-partira-un-nuovo-corso-a-coverciano/
+09:49:54	Warning: 	File has moved from https://topallenatori.com/?p=3086 to https://topallenatori.com/osservatore-calcistico-a-maggio-partira-un-nuovo-corso-a-coverciano/
 
-09:49:54	Error: 	"Not Found" (404) at link https://www.settoretecnico.figc.it/css-img/figc.gif (from https://www.topallenatori.it/osservatore-calcistico-a-maggio-partira-un-nuovo-corso-a-coverciano/)
+09:49:54	Error: 	"Not Found" (404) at link https://www.settoretecnico.figc.it/css-img/figc.gif (from https://topallenatori.com/osservatore-calcistico-a-maggio-partira-un-nuovo-corso-a-coverciano/)
 
-09:49:54	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=3107
+09:49:54	Warning: 	Moved Permanently for https://topallenatori.com/?p=3107
 
-09:49:54	Warning: 	File has moved from https://www.topallenatori.it/?p=3107 to https://www.topallenatori.it/3-contro-3-calcio/
+09:49:54	Warning: 	File has moved from https://topallenatori.com/?p=3107 to https://topallenatori.com/3-contro-3-calcio/
 
-09:49:54	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=1986
+09:49:54	Warning: 	Moved Permanently for https://topallenatori.com/?p=1986
 
-09:49:54	Warning: 	File has moved from https://www.topallenatori.it/?p=1986 to https://www.topallenatori.it/rimessa-laterale-palla-inattiva-possesso-tattica-offensiva/
+09:49:54	Warning: 	File has moved from https://topallenatori.com/?p=1986 to https://topallenatori.com/rimessa-laterale-palla-inattiva-possesso-tattica-offensiva/
 
-09:49:57	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=1168
+09:49:57	Warning: 	Moved Permanently for https://topallenatori.com/?p=1168
 
-09:49:57	Warning: 	File has moved from https://www.topallenatori.it/?p=1168 to https://www.topallenatori.it/il-riscaldamento-tecnico-coordinativo-del-west-ham-united-f-c/
+09:49:57	Warning: 	File has moved from https://topallenatori.com/?p=1168 to https://topallenatori.com/il-riscaldamento-tecnico-coordinativo-del-west-ham-united-f-c/
 
-09:49:57	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=2867
+09:49:57	Warning: 	Moved Permanently for https://topallenatori.com/?p=2867
 
-09:49:57	Warning: 	File has moved from https://www.topallenatori.it/?p=2867 to https://www.topallenatori.it/recupero-palla/
+09:49:57	Warning: 	File has moved from https://topallenatori.com/?p=2867 to https://topallenatori.com/recupero-palla/
 
-09:49:57	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=2493
+09:49:57	Warning: 	Moved Permanently for https://topallenatori.com/?p=2493
 
-09:49:57	Warning: 	File has moved from https://www.topallenatori.it/?p=2493 to https://www.topallenatori.it/situazione-di-gioco-il-2-contro-1-nel-calcio/
+09:49:57	Warning: 	File has moved from https://topallenatori.com/?p=2493 to https://topallenatori.com/situazione-di-gioco-il-2-contro-1-nel-calcio/
 
-09:49:57	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=2276
+09:49:57	Warning: 	Moved Permanently for https://topallenatori.com/?p=2276
 
-09:49:57	Warning: 	File has moved from https://www.topallenatori.it/?p=2276 to https://www.topallenatori.it/accademia-calcio-milano-stage-per-giovani-calciatori/
+09:49:57	Warning: 	File has moved from https://topallenatori.com/?p=2276 to https://topallenatori.com/accademia-calcio-milano-stage-per-giovani-calciatori/
 
-09:49:58	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=1694
+09:49:58	Warning: 	Moved Permanently for https://topallenatori.com/?p=1694
 
-09:49:58	Warning: 	File has moved from https://www.topallenatori.it/?p=1694 to https://www.topallenatori.it/cerco-allenatori-uefa-b/
+09:49:58	Warning: 	File has moved from https://topallenatori.com/?p=1694 to https://topallenatori.com/cerco-allenatori-uefa-b/
 
-09:49:58	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=1721
+09:49:58	Warning: 	Moved Permanently for https://topallenatori.com/?p=1721
 
-09:49:58	Warning: 	File has moved from https://www.topallenatori.it/?p=1721 to https://www.topallenatori.it/scuola-calcioimportante-societa-cerca-istruttore/
+09:49:58	Warning: 	File has moved from https://topallenatori.com/?p=1721 to https://topallenatori.com/scuola-calcioimportante-societa-cerca-istruttore/
 
-09:49:58	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=4993
+09:49:58	Warning: 	Moved Permanently for https://topallenatori.com/?p=4993
 
-09:49:58	Warning: 	File has moved from https://www.topallenatori.it/?p=4993 to https://www.topallenatori.it/esordienti-le-partite-a-tema/
+09:49:58	Warning: 	File has moved from https://topallenatori.com/?p=4993 to https://topallenatori.com/esordienti-le-partite-a-tema/
 
-09:49:58	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=607
+09:49:58	Warning: 	Moved Permanently for https://topallenatori.com/?p=607
 
-09:49:58	Warning: 	File has moved from https://www.topallenatori.it/?p=607 to https://www.topallenatori.it/resistenza-specifica-con-palla/
+09:49:58	Warning: 	File has moved from https://topallenatori.com/?p=607 to https://topallenatori.com/resistenza-specifica-con-palla/
 
-09:49:58	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=3617
+09:49:58	Warning: 	Moved Permanently for https://topallenatori.com/?p=3617
 
-09:49:58	Warning: 	File has moved from https://www.topallenatori.it/?p=3617 to https://www.topallenatori.it/calcio-allenamento-giovanissimi/
+09:49:58	Warning: 	File has moved from https://topallenatori.com/?p=3617 to https://topallenatori.com/calcio-allenamento-giovanissimi/
 
-09:50:00	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=715
+09:50:00	Warning: 	Moved Permanently for https://topallenatori.com/?p=715
 
-09:50:00	Warning: 	File has moved from https://www.topallenatori.it/?p=715 to https://www.topallenatori.it/preparazione-atletica-nel-calcio/
+09:50:00	Warning: 	File has moved from https://topallenatori.com/?p=715 to https://topallenatori.com/preparazione-atletica-nel-calcio/
 
-09:50:00	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=2954
+09:50:00	Warning: 	Moved Permanently for https://topallenatori.com/?p=2954
 
-09:50:00	Warning: 	File has moved from https://www.topallenatori.it/?p=2954 to https://www.topallenatori.it/preparazione-atletica-nel-calcio-2/
+09:50:00	Warning: 	File has moved from https://topallenatori.com/?p=2954 to https://topallenatori.com/preparazione-atletica-nel-calcio-2/
 
-09:50:03	Warning: 	Moved Permanently for https://www.topallenatori.it/preparazione-giovanissimi-allenamento-giovanissimi/
+09:50:03	Warning: 	Moved Permanently for https://topallenatori.com/preparazione-giovanissimi-allenamento-giovanissimi/
 
-09:50:03	Warning: 	File has moved from https://www.topallenatori.it/preparazione-giovanissimi-allenamento-giovanissimi/ to https://www.topallenatori.it
+09:50:03	Warning: 	File has moved from https://topallenatori.com/preparazione-giovanissimi-allenamento-giovanissimi/ to https://topallenatori.com
 
-09:50:03	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=4039
+09:50:03	Warning: 	Moved Permanently for https://topallenatori.com/?p=4039
 
-09:50:03	Warning: 	File has moved from https://www.topallenatori.it/?p=4039 to https://www.topallenatori.it/calciare-in-porta-esercizi-pulcini-e-esordienti/
+09:50:03	Warning: 	File has moved from https://topallenatori.com/?p=4039 to https://topallenatori.com/calciare-in-porta-esercizi-pulcini-e-esordienti/
 
-09:50:05	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=4049
+09:50:05	Warning: 	Moved Permanently for https://topallenatori.com/?p=4049
 
-09:50:05	Warning: 	File has moved from https://www.topallenatori.it/?p=4049 to https://www.topallenatori.it/calcio-dilettanti-proposta-ultimo-seduta-dallenamento-settimana-tipo/
+09:50:05	Warning: 	File has moved from https://topallenatori.com/?p=4049 to https://topallenatori.com/calcio-dilettanti-proposta-ultimo-seduta-dallenamento-settimana-tipo/
 
-09:50:05	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=3645
+09:50:05	Warning: 	Moved Permanently for https://topallenatori.com/?p=3645
 
-09:50:05	Warning: 	File has moved from https://www.topallenatori.it/?p=3645 to https://www.topallenatori.it/riscaldamento-pre-partita-esordienti/
+09:50:05	Warning: 	File has moved from https://topallenatori.com/?p=3645 to https://topallenatori.com/riscaldamento-pre-partita-esordienti/
 
-09:50:06	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=3682
+09:50:06	Warning: 	Moved Permanently for https://topallenatori.com/?p=3682
 
-09:50:06	Warning: 	File has moved from https://www.topallenatori.it/?p=3682 to https://www.topallenatori.it/scuola-calcio-esordienti-seduta-di-allenamento/
+09:50:06	Warning: 	File has moved from https://topallenatori.com/?p=3682 to https://topallenatori.com/scuola-calcio-esordienti-seduta-di-allenamento/
 
-09:50:06	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=3398
+09:50:06	Warning: 	Moved Permanently for https://topallenatori.com/?p=3398
 
-09:50:06	Warning: 	File has moved from https://www.topallenatori.it/?p=3398 to https://www.topallenatori.it/calcio-societa-cerca-istruttore/
+09:50:06	Warning: 	File has moved from https://topallenatori.com/?p=3398 to https://topallenatori.com/calcio-societa-cerca-istruttore/
 
-09:50:06	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=3196
+09:50:06	Warning: 	Moved Permanently for https://topallenatori.com/?p=3196
 
-09:50:06	Warning: 	File has moved from https://www.topallenatori.it/?p=3196 to https://www.topallenatori.it/calcio-giovanile-la-maldicenza-dei-genitori-contro-listruttore-di-calcio/
+09:50:06	Warning: 	File has moved from https://topallenatori.com/?p=3196 to https://topallenatori.com/calcio-giovanile-la-maldicenza-dei-genitori-contro-listruttore-di-calcio/
 
-09:50:06	Warning: 	Moved Permanently for https://www.topallenatori.it/5-motivi-perche-i-genitori-durante-le-partite-non-devono-fare-i-misters/
+09:50:06	Warning: 	Moved Permanently for https://topallenatori.com/5-motivi-perche-i-genitori-durante-le-partite-non-devono-fare-i-misters/
 
-09:50:06	Warning: 	File has moved from https://www.topallenatori.it/5-motivi-perche-i-genitori-durante-le-partite-non-devono-fare-i-misters/ to https://www.topallenatori.it
+09:50:06	Warning: 	File has moved from https://topallenatori.com/5-motivi-perche-i-genitori-durante-le-partite-non-devono-fare-i-misters/ to https://topallenatori.com
 
-09:50:06	Warning: 	Moved Permanently for https://www.topallenatori.it/5-motivi-perche-i-genitori-durante-le-partite-non-devono-fare-i-misters/embed/
+09:50:06	Warning: 	Moved Permanently for https://topallenatori.com/5-motivi-perche-i-genitori-durante-le-partite-non-devono-fare-i-misters/embed/
 
-09:50:06	Warning: 	File has moved from https://www.topallenatori.it/5-motivi-perche-i-genitori-durante-le-partite-non-devono-fare-i-misters/embed/ to https://www.topallenatori.it
+09:50:06	Warning: 	File has moved from https://topallenatori.com/5-motivi-perche-i-genitori-durante-le-partite-non-devono-fare-i-misters/embed/ to https://topallenatori.com
 
-09:50:11	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=376
+09:50:11	Warning: 	Moved Permanently for https://topallenatori.com/?p=376
 
-09:50:11	Warning: 	File has moved from https://www.topallenatori.it/?p=376 to https://www.topallenatori.it/riscaldamento-u-s-cremonese/
+09:50:11	Warning: 	File has moved from https://topallenatori.com/?p=376 to https://topallenatori.com/riscaldamento-u-s-cremonese/
 
-09:50:15	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=1652
+09:50:15	Warning: 	Moved Permanently for https://topallenatori.com/?p=1652
 
-09:50:15	Warning: 	File has moved from https://www.topallenatori.it/?p=1652 to https://www.topallenatori.it/riscaldamento-nel-calcio/
+09:50:15	Warning: 	File has moved from https://topallenatori.com/?p=1652 to https://topallenatori.com/riscaldamento-nel-calcio/
 
-09:50:15	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=584
+09:50:15	Warning: 	Moved Permanently for https://topallenatori.com/?p=584
 
-09:50:15	Warning: 	File has moved from https://www.topallenatori.it/?p=584 to https://www.topallenatori.it/il-riscaldamento-preventivo-per-le-riserve/
+09:50:15	Warning: 	File has moved from https://topallenatori.com/?p=584 to https://topallenatori.com/il-riscaldamento-preventivo-per-le-riserve/
 
-09:50:22	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=4513
+09:50:22	Warning: 	Moved Permanently for https://topallenatori.com/?p=4513
 
-09:50:22	Warning: 	File has moved from https://www.topallenatori.it/?p=4513 to https://www.topallenatori.it/allenamento-funzionale-prima-squadra/
+09:50:22	Warning: 	File has moved from https://topallenatori.com/?p=4513 to https://topallenatori.com/allenamento-funzionale-prima-squadra/
 
-09:50:25	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=4562
+09:50:25	Warning: 	Moved Permanently for https://topallenatori.com/?p=4562
 
-09:50:25	Warning: 	File has moved from https://www.topallenatori.it/?p=4562 to https://www.topallenatori.it/societa-cerca-2-allenatori-di-calcio/
+09:50:25	Warning: 	File has moved from https://topallenatori.com/?p=4562 to https://topallenatori.com/societa-cerca-2-allenatori-di-calcio/
 
-09:50:25	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=3358
+09:50:25	Warning: 	Moved Permanently for https://topallenatori.com/?p=3358
 
-09:50:25	Warning: 	File has moved from https://www.topallenatori.it/?p=3358 to https://www.topallenatori.it/allenatori-di-calcio-nuove-riforme-per-allenare-il-settore-giovanili/
+09:50:25	Warning: 	File has moved from https://topallenatori.com/?p=3358 to https://topallenatori.com/allenatori-di-calcio-nuove-riforme-per-allenare-il-settore-giovanili/
 
-09:52:22	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=4322
+09:52:22	Warning: 	Moved Permanently for https://topallenatori.com/?p=4322
 
-09:52:22	Warning: 	File has moved from https://www.topallenatori.it/?p=4322 to https://www.topallenatori.it/esercitazione-analitica-situazionale-pulcini-esordienti/
+09:52:22	Warning: 	File has moved from https://topallenatori.com/?p=4322 to https://topallenatori.com/esercitazione-analitica-situazionale-pulcini-esordienti/
 
-09:52:22	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=3626
+09:52:22	Warning: 	Moved Permanently for https://topallenatori.com/?p=3626
 
-09:52:22	Warning: 	File has moved from https://www.topallenatori.it/?p=3626 to https://www.topallenatori.it/ebook-pulcini-calcio-2/
+09:52:22	Warning: 	File has moved from https://topallenatori.com/?p=3626 to https://topallenatori.com/ebook-pulcini-calcio-2/
 
-09:52:25	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=551
+09:52:25	Warning: 	Moved Permanently for https://topallenatori.com/?p=551
 
-09:52:25	Warning: 	File has moved from https://www.topallenatori.it/?p=551 to https://www.topallenatori.it/intensita-proposta-nelle-partitelle/
+09:52:25	Warning: 	File has moved from https://topallenatori.com/?p=551 to https://topallenatori.com/intensita-proposta-nelle-partitelle/
 
-09:52:25	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=574
+09:52:25	Warning: 	Moved Permanently for https://topallenatori.com/?p=574
 
-09:52:25	Warning: 	File has moved from https://www.topallenatori.it/?p=574 to https://www.topallenatori.it/i-carichi-di-lavoro-nel-calcio/
+09:52:25	Warning: 	File has moved from https://topallenatori.com/?p=574 to https://topallenatori.com/i-carichi-di-lavoro-nel-calcio/
 
-09:52:25	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=280
+09:52:25	Warning: 	Moved Permanently for https://topallenatori.com/?p=280
 
-09:52:25	Warning: 	File has moved from https://www.topallenatori.it/?p=280 to https://www.topallenatori.it/sfatare-i-principali-falsi-miti-sullalimentazione/
+09:52:25	Warning: 	File has moved from https://topallenatori.com/?p=280 to https://topallenatori.com/sfatare-i-principali-falsi-miti-sullalimentazione/
 
-09:52:27	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=1798
+09:52:27	Warning: 	Moved Permanently for https://topallenatori.com/?p=1798
 
-09:52:27	Warning: 	File has moved from https://www.topallenatori.it/?p=1798 to https://www.topallenatori.it/societa-professionistica-cerca-vice-allenatore/
+09:52:27	Warning: 	File has moved from https://topallenatori.com/?p=1798 to https://topallenatori.com/societa-professionistica-cerca-vice-allenatore/
 
-09:52:28	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=1729
+09:52:28	Warning: 	Moved Permanently for https://topallenatori.com/?p=1729
 
-09:52:28	Warning: 	File has moved from https://www.topallenatori.it/?p=1729 to https://www.topallenatori.it/categoria-pulcini-societa-cerca-allenatore/
+09:52:28	Warning: 	File has moved from https://topallenatori.com/?p=1729 to https://topallenatori.com/categoria-pulcini-societa-cerca-allenatore/
 
-09:52:28	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=300
+09:52:28	Warning: 	Moved Permanently for https://topallenatori.com/?p=300
 
-09:52:28	Warning: 	File has moved from https://www.topallenatori.it/?p=300 to https://www.topallenatori.it/limportanza-della-dieta-mediterranea-nel-calcio/
+09:52:28	Warning: 	File has moved from https://topallenatori.com/?p=300 to https://topallenatori.com/limportanza-della-dieta-mediterranea-nel-calcio/
 
-09:52:31	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=3730
+09:52:31	Warning: 	Moved Permanently for https://topallenatori.com/?p=3730
 
-09:52:31	Warning: 	File has moved from https://www.topallenatori.it/?p=3730 to https://www.topallenatori.it/allena-la-tua-creativita/
+09:52:31	Warning: 	File has moved from https://topallenatori.com/?p=3730 to https://topallenatori.com/allena-la-tua-creativita/
 
-09:52:31	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=3739
+09:52:31	Warning: 	Moved Permanently for https://topallenatori.com/?p=3739
 
-09:52:31	Warning: 	File has moved from https://www.topallenatori.it/?p=3739 to https://www.topallenatori.it/allenamento-prima-squadra-calcio/
+09:52:31	Warning: 	File has moved from https://topallenatori.com/?p=3739 to https://topallenatori.com/allenamento-prima-squadra-calcio/
 
-09:52:31	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=2265
+09:52:31	Warning: 	Moved Permanently for https://topallenatori.com/?p=2265
 
-09:52:31	Warning: 	File has moved from https://www.topallenatori.it/?p=2265 to https://www.topallenatori.it/esercizio-di-rapidita-e-cambi-di-direzioni-nel-calcio/
+09:52:31	Warning: 	File has moved from https://topallenatori.com/?p=2265 to https://topallenatori.com/esercizio-di-rapidita-e-cambi-di-direzioni-nel-calcio/
 
-09:52:31	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=518
+09:52:31	Warning: 	Moved Permanently for https://topallenatori.com/?p=518
 
-09:52:31	Warning: 	File has moved from https://www.topallenatori.it/?p=518 to https://www.topallenatori.it/lo-sviluppo-della-potenza-aerobica-utilizzando-la-palla/
+09:52:31	Warning: 	File has moved from https://topallenatori.com/?p=518 to https://topallenatori.com/lo-sviluppo-della-potenza-aerobica-utilizzando-la-palla/
 
-09:52:31	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=6125
+09:52:31	Warning: 	Moved Permanently for https://topallenatori.com/?p=6125
 
-09:52:31	Warning: 	File has moved from https://www.topallenatori.it/?p=6125 to https://www.topallenatori.it/prendi-salti-e-tira-pulcini-calcio/
+09:52:31	Warning: 	File has moved from https://topallenatori.com/?p=6125 to https://topallenatori.com/prendi-salti-e-tira-pulcini-calcio/
 
-09:52:31	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=3204
+09:52:31	Warning: 	Moved Permanently for https://topallenatori.com/?p=3204
 
-09:52:31	Warning: 	File has moved from https://www.topallenatori.it/?p=3204 to https://www.topallenatori.it/seduta-di-allenamento-juniores/
+09:52:31	Warning: 	File has moved from https://topallenatori.com/?p=3204 to https://topallenatori.com/seduta-di-allenamento-juniores/
 
-09:52:34	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=1584
+09:52:34	Warning: 	Moved Permanently for https://topallenatori.com/?p=1584
 
-09:52:34	Warning: 	File has moved from https://www.topallenatori.it/?p=1584 to https://www.topallenatori.it/allenamento-esordienti-3-v-2-possesso-palla-in-superiorita-numerica/
+09:52:34	Warning: 	File has moved from https://topallenatori.com/?p=1584 to https://topallenatori.com/allenamento-esordienti-3-v-2-possesso-palla-in-superiorita-numerica/
 
-09:52:36	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=4349
+09:52:36	Warning: 	Moved Permanently for https://topallenatori.com/?p=4349
 
-09:52:36	Warning: 	File has moved from https://www.topallenatori.it/?p=4349 to https://www.topallenatori.it/calcio-esercitazione-3-vs-2/
+09:52:36	Warning: 	File has moved from https://topallenatori.com/?p=4349 to https://topallenatori.com/calcio-esercitazione-3-vs-2/
 
-09:52:36	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=5215
+09:52:36	Warning: 	Moved Permanently for https://topallenatori.com/?p=5215
 
-09:52:36	Warning: 	File has moved from https://www.topallenatori.it/?p=5215 to https://www.topallenatori.it/esercitazione-tecnica-il-passaggio-controllo-e-il-calciare/
+09:52:36	Warning: 	File has moved from https://topallenatori.com/?p=5215 to https://topallenatori.com/esercitazione-tecnica-il-passaggio-controllo-e-il-calciare/
 
-09:52:36	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=2610
+09:52:36	Warning: 	Moved Permanently for https://topallenatori.com/?p=2610
 
-09:52:36	Warning: 	File has moved from https://www.topallenatori.it/?p=2610 to https://www.topallenatori.it/esercizi-di-1-contro-1-e-2-contro-2-nel-calcio/
+09:52:36	Warning: 	File has moved from https://topallenatori.com/?p=2610 to https://topallenatori.com/esercizi-di-1-contro-1-e-2-contro-2-nel-calcio/
 
-09:52:40	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=2642
+09:52:40	Warning: 	Moved Permanently for https://topallenatori.com/?p=2642
 
-09:52:40	Warning: 	File has moved from https://www.topallenatori.it/?p=2642 to https://www.topallenatori.it/la-velocita-nel-calcio/
+09:52:40	Warning: 	File has moved from https://topallenatori.com/?p=2642 to https://topallenatori.com/la-velocita-nel-calcio/
 
-09:52:40	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=5148
+09:52:40	Warning: 	Moved Permanently for https://topallenatori.com/?p=5148
 
-09:52:40	Warning: 	File has moved from https://www.topallenatori.it/?p=5148 to https://www.topallenatori.it/societa-di-calcio-affiliata-a-c-monza-cerca-allenatore/
+09:52:40	Warning: 	File has moved from https://topallenatori.com/?p=5148 to https://topallenatori.com/societa-di-calcio-affiliata-a-c-monza-cerca-allenatore/
 
-09:52:40	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=5156
+09:52:40	Warning: 	Moved Permanently for https://topallenatori.com/?p=5156
 
-09:52:40	Warning: 	File has moved from https://www.topallenatori.it/?p=5156 to https://www.topallenatori.it/settore-tecnico-corsi-a-settembre-per-uefa-d/
+09:52:40	Warning: 	File has moved from https://topallenatori.com/?p=5156 to https://topallenatori.com/settore-tecnico-corsi-a-settembre-per-uefa-d/
 
-09:52:40	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=4013
+09:52:40	Warning: 	Moved Permanently for https://topallenatori.com/?p=4013
 
-09:52:40	Warning: 	File has moved from https://www.topallenatori.it/?p=4013 to https://www.topallenatori.it/calcio-esercizio-per-la-frequenza-gestuale-in-regime-condizionale/
+09:52:40	Warning: 	File has moved from https://topallenatori.com/?p=4013 to https://topallenatori.com/calcio-esercizio-per-la-frequenza-gestuale-in-regime-condizionale/
 
-09:52:41	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=3996
+09:52:41	Warning: 	Moved Permanently for https://topallenatori.com/?p=3996
 
-09:52:41	Warning: 	File has moved from https://www.topallenatori.it/?p=3996 to https://www.topallenatori.it/calcio-accelerazione-decelerazione-frenate/
+09:52:41	Warning: 	File has moved from https://topallenatori.com/?p=3996 to https://topallenatori.com/calcio-accelerazione-decelerazione-frenate/
 
-09:52:41	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=3648
+09:52:41	Warning: 	Moved Permanently for https://topallenatori.com/?p=3648
 
-09:52:41	Warning: 	File has moved from https://www.topallenatori.it/?p=3648 to https://www.topallenatori.it/master-online-valutazione-posturale-strumentale-e-analisi-movimento/
+09:52:41	Warning: 	File has moved from https://topallenatori.com/?p=3648 to https://topallenatori.com/master-online-valutazione-posturale-strumentale-e-analisi-movimento/
 
-09:52:41	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=614
+09:52:41	Warning: 	Moved Permanently for https://topallenatori.com/?p=614
 
-09:52:41	Warning: 	File has moved from https://www.topallenatori.it/?p=614 to https://www.topallenatori.it/test-di-valutazione-funzionale-nel-settore-giovanile/
+09:52:41	Warning: 	File has moved from https://topallenatori.com/?p=614 to https://topallenatori.com/test-di-valutazione-funzionale-nel-settore-giovanile/
 
-09:52:45	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=5338
+09:52:45	Warning: 	Moved Permanently for https://topallenatori.com/?p=5338
 
-09:52:45	Warning: 	File has moved from https://www.topallenatori.it/?p=5338 to https://www.topallenatori.it/bando-di-ammissione-al-corso-per-labilitazione-ad-allenatore-dilettante-regionale-licenza-d/
+09:52:45	Warning: 	File has moved from https://topallenatori.com/?p=5338 to https://topallenatori.com/bando-di-ammissione-al-corso-per-labilitazione-ad-allenatore-dilettante-regionale-licenza-d/
 
-09:52:53	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=4708
+09:52:53	Warning: 	Moved Permanently for https://topallenatori.com/?p=4708
 
-09:52:53	Warning: 	File has moved from https://www.topallenatori.it/?p=4708 to https://www.topallenatori.it/istruttore-pulcini/
+09:52:53	Warning: 	File has moved from https://topallenatori.com/?p=4708 to https://topallenatori.com/istruttore-pulcini/
 
-09:52:53	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=1429
+09:52:53	Warning: 	Moved Permanently for https://topallenatori.com/?p=1429
 
-09:52:53	Warning: 	File has moved from https://www.topallenatori.it/?p=1429 to https://www.topallenatori.it/calcio-il-due-contro-uno/
+09:52:53	Warning: 	File has moved from https://topallenatori.com/?p=1429 to https://topallenatori.com/calcio-il-due-contro-uno/
 
-09:52:53	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=1474
+09:52:53	Warning: 	Moved Permanently for https://topallenatori.com/?p=1474
 
-09:52:53	Warning: 	File has moved from https://www.topallenatori.it/?p=1474 to https://www.topallenatori.it/la-resistenza-alla-forza-esplosiva-intermittente/
+09:52:53	Warning: 	File has moved from https://topallenatori.com/?p=1474 to https://topallenatori.com/la-resistenza-alla-forza-esplosiva-intermittente/
 
-09:52:53	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=3608
+09:52:53	Warning: 	Moved Permanently for https://topallenatori.com/?p=3608
 
-09:52:53	Warning: 	File has moved from https://www.topallenatori.it/?p=3608 to https://www.topallenatori.it/calcio-seduta-tipo-di-potenza-aerobica/
+09:52:53	Warning: 	File has moved from https://topallenatori.com/?p=3608 to https://topallenatori.com/calcio-seduta-tipo-di-potenza-aerobica/
 
-09:52:53	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=4140
+09:52:53	Warning: 	Moved Permanently for https://topallenatori.com/?p=4140
 
-09:52:53	Warning: 	File has moved from https://www.topallenatori.it/?p=4140 to https://www.topallenatori.it/la-respirazione-come-strumento-per-migliorare-la-prestazione-sportiva/
+09:52:53	Warning: 	File has moved from https://topallenatori.com/?p=4140 to https://topallenatori.com/la-respirazione-come-strumento-per-migliorare-la-prestazione-sportiva/
 
-09:52:57	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=2402
+09:52:57	Warning: 	Moved Permanently for https://topallenatori.com/?p=2402
 
-09:52:57	Warning: 	File has moved from https://www.topallenatori.it/?p=2402 to https://www.topallenatori.it/a-s-d-citta-di-sesto-calcio-cerca-giocatori/
+09:52:57	Warning: 	File has moved from https://topallenatori.com/?p=2402 to https://topallenatori.com/a-s-d-citta-di-sesto-calcio-cerca-giocatori/
 
-09:52:57	Warning: 	Moved Permanently for https://www.topallenatori.it/?attachment_id=1942/feed/
+09:52:57	Warning: 	Moved Permanently for https://topallenatori.com/?attachment_id=1942/feed/
 
-09:52:57	Warning: 	File has moved from https://www.topallenatori.it/?attachment_id=1942/feed/ to https://www.topallenatori.it/?attachment_id=1942
+09:52:57	Warning: 	File has moved from https://topallenatori.com/?attachment_id=1942/feed/ to https://topallenatori.com/?attachment_id=1942
 
-09:52:57	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=1942
+09:52:57	Warning: 	Moved Permanently for https://topallenatori.com/?p=1942
 
-09:52:57	Warning: 	File has moved from https://www.topallenatori.it/?p=1942 to https://www.topallenatori.it
+09:52:57	Warning: 	File has moved from https://topallenatori.com/?p=1942 to https://topallenatori.com
 
-09:52:57	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=2332
+09:52:57	Warning: 	Moved Permanently for https://topallenatori.com/?p=2332
 
-09:52:57	Warning: 	File has moved from https://www.topallenatori.it/?p=2332 to https://www.topallenatori.it
+09:52:57	Warning: 	File has moved from https://topallenatori.com/?p=2332 to https://topallenatori.com
 
-09:52:57	Warning: 	Moved Permanently for https://www.topallenatori.it/?attachment_id=1222/feed/
+09:52:57	Warning: 	Moved Permanently for https://topallenatori.com/?attachment_id=1222/feed/
 
-09:52:57	Warning: 	File has moved from https://www.topallenatori.it/?attachment_id=1222/feed/ to https://www.topallenatori.it/?attachment_id=1222
+09:52:57	Warning: 	File has moved from https://topallenatori.com/?attachment_id=1222/feed/ to https://topallenatori.com/?attachment_id=1222
 
-09:52:57	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=1222
+09:52:57	Warning: 	Moved Permanently for https://topallenatori.com/?p=1222
 
-09:52:57	Warning: 	File has moved from https://www.topallenatori.it/?p=1222 to https://www.topallenatori.it
+09:52:57	Warning: 	File has moved from https://topallenatori.com/?p=1222 to https://topallenatori.com
 
-09:52:57	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=767
+09:52:57	Warning: 	Moved Permanently for https://topallenatori.com/?p=767
 
-09:52:57	Warning: 	File has moved from https://www.topallenatori.it/?p=767 to https://www.topallenatori.it
+09:52:57	Warning: 	File has moved from https://topallenatori.com/?p=767 to https://topallenatori.com
 
-09:52:59	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=3351
+09:52:59	Warning: 	Moved Permanently for https://topallenatori.com/?p=3351
 
-09:52:59	Warning: 	File has moved from https://www.topallenatori.it/?p=3351 to https://www.topallenatori.it/scuola-calcio-esercizi-giochi-categoria-pulcini/
+09:52:59	Warning: 	File has moved from https://topallenatori.com/?p=3351 to https://topallenatori.com/scuola-calcio-esercizi-giochi-categoria-pulcini/
 
-09:53:02	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=3002
+09:53:02	Warning: 	Moved Permanently for https://topallenatori.com/?p=3002
 
-09:53:02	Warning: 	File has moved from https://www.topallenatori.it/?p=3002 to https://www.topallenatori.it/luno-contro-uno-nel-calcio/
+09:53:02	Warning: 	File has moved from https://topallenatori.com/?p=3002 to https://topallenatori.com/luno-contro-uno-nel-calcio/
 
-09:53:02	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=3424
+09:53:02	Warning: 	Moved Permanently for https://topallenatori.com/?p=3424
 
-09:53:02	Warning: 	File has moved from https://www.topallenatori.it/?p=3424 to https://www.topallenatori.it/trasformare-gli-eventi-negativi-in-fonte-di-propulsiva-energia/
+09:53:02	Warning: 	File has moved from https://topallenatori.com/?p=3424 to https://topallenatori.com/trasformare-gli-eventi-negativi-in-fonte-di-propulsiva-energia/
 
-09:53:02	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=3712
+09:53:02	Warning: 	Moved Permanently for https://topallenatori.com/?p=3712
 
-09:53:02	Warning: 	File has moved from https://www.topallenatori.it/?p=3712 to https://www.topallenatori.it/diventare-allenatore-abilitato-uefa-b/
+09:53:02	Warning: 	File has moved from https://topallenatori.com/?p=3712 to https://topallenatori.com/diventare-allenatore-abilitato-uefa-b/
 
-09:53:04	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=3718
+09:53:04	Warning: 	Moved Permanently for https://topallenatori.com/?p=3718
 
-09:53:04	Warning: 	File has moved from https://www.topallenatori.it/?p=3718 to https://www.topallenatori.it/topallenatori-sito-web-per-allenatori-di-calcio/
+09:53:04	Warning: 	File has moved from https://topallenatori.com/?p=3718 to https://topallenatori.com/topallenatori-sito-web-per-allenatori-di-calcio/
 
-09:53:04	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=2270
+09:53:04	Warning: 	Moved Permanently for https://topallenatori.com/?p=2270
 
-09:53:04	Warning: 	File has moved from https://www.topallenatori.it/?p=2270 to https://www.topallenatori.it/scuola-calcio-il-gioco-di-abilita-e-acquisizione/
+09:53:04	Warning: 	File has moved from https://topallenatori.com/?p=2270 to https://topallenatori.com/scuola-calcio-il-gioco-di-abilita-e-acquisizione/
 
-09:53:05	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=3138
+09:53:05	Warning: 	Moved Permanently for https://topallenatori.com/?p=3138
 
-09:53:05	Warning: 	File has moved from https://www.topallenatori.it/?p=3138 to https://www.topallenatori.it/4-contro-4/
+09:53:05	Warning: 	File has moved from https://topallenatori.com/?p=3138 to https://topallenatori.com/4-contro-4/
 
-09:53:07	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=3077
+09:53:07	Warning: 	Moved Permanently for https://topallenatori.com/?p=3077
 
-09:53:07	Warning: 	File has moved from https://www.topallenatori.it/?p=3077 to https://www.topallenatori.it/allenamento-calcio-attivita-di-base-e-agonistica/
+09:53:07	Warning: 	File has moved from https://topallenatori.com/?p=3077 to https://topallenatori.com/allenamento-calcio-attivita-di-base-e-agonistica/
 
-09:53:07	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=2971
+09:53:07	Warning: 	Moved Permanently for https://topallenatori.com/?p=2971
 
-09:53:07	Warning: 	File has moved from https://www.topallenatori.it/?p=2971 to https://www.topallenatori.it/allenamenti-esordienti-calcio/
+09:53:07	Warning: 	File has moved from https://topallenatori.com/?p=2971 to https://topallenatori.com/allenamenti-esordienti-calcio/
 
-09:53:07	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=3633
+09:53:07	Warning: 	Moved Permanently for https://topallenatori.com/?p=3633
 
-09:53:07	Warning: 	File has moved from https://www.topallenatori.it/?p=3633 to https://www.topallenatori.it/corso-uefa-a/
+09:53:07	Warning: 	File has moved from https://topallenatori.com/?p=3633 to https://topallenatori.com/corso-uefa-a/
 
-09:53:12	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=2750
+09:53:12	Warning: 	Moved Permanently for https://topallenatori.com/?p=2750
 
-09:53:12	Warning: 	File has moved from https://www.topallenatori.it/?p=2750 to https://www.topallenatori.it/il-fartlek-nel-calcio/
+09:53:12	Warning: 	File has moved from https://topallenatori.com/?p=2750 to https://topallenatori.com/il-fartlek-nel-calcio/
 
-09:53:16	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=2031
+09:53:16	Warning: 	Moved Permanently for https://topallenatori.com/?p=2031
 
-09:53:16	Warning: 	File has moved from https://www.topallenatori.it/?p=2031 to https://www.topallenatori.it/uefa-c-a-bologna-lecco-e-venezia-3-corsi-per-diventare-allenatori/
+09:53:16	Warning: 	File has moved from https://topallenatori.com/?p=2031 to https://topallenatori.com/uefa-c-a-bologna-lecco-e-venezia-3-corsi-per-diventare-allenatori/
 
-09:53:19	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=4077
+09:53:19	Warning: 	Moved Permanently for https://topallenatori.com/?p=4077
 
-09:53:19	Warning: 	File has moved from https://www.topallenatori.it/?p=4077 to https://www.topallenatori.it/ebook-allenamento-calcio-novembre/
+09:53:19	Warning: 	File has moved from https://topallenatori.com/?p=4077 to https://topallenatori.com/ebook-allenamento-calcio-novembre/
 
-09:53:21	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=594
+09:53:21	Warning: 	Moved Permanently for https://topallenatori.com/?p=594
 
-09:53:21	Warning: 	File has moved from https://www.topallenatori.it/?p=594 to https://www.topallenatori.it/test-dei-300-metri/
+09:53:21	Warning: 	File has moved from https://topallenatori.com/?p=594 to https://topallenatori.com/test-dei-300-metri/
 
-09:53:22	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=604
+09:53:22	Warning: 	Moved Permanently for https://topallenatori.com/?p=604
 
-09:53:22	Warning: 	File has moved from https://www.topallenatori.it/?p=604 to https://www.topallenatori.it/circuit-training-sulla-forza-esplosiva-nel-calcio/
+09:53:22	Warning: 	File has moved from https://topallenatori.com/?p=604 to https://topallenatori.com/circuit-training-sulla-forza-esplosiva-nel-calcio/
 
-09:53:32	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=2590
+09:53:32	Warning: 	Moved Permanently for https://topallenatori.com/?p=2590
 
-09:53:32	Warning: 	File has moved from https://www.topallenatori.it/?p=2590 to https://www.topallenatori.it/societa-cerca-allenatore-di-calcio/
+09:53:32	Warning: 	File has moved from https://topallenatori.com/?p=2590 to https://topallenatori.com/societa-cerca-allenatore-di-calcio/
 
-09:53:40	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=3543
+09:53:40	Warning: 	Moved Permanently for https://topallenatori.com/?p=3543
 
-09:53:40	Warning: 	File has moved from https://www.topallenatori.it/?p=3543 to https://www.topallenatori.it/atleti-concussione-ed-adhd-aumentano-il-rischio-di-cambiamenti-persistenti-dellumore/
+09:53:40	Warning: 	File has moved from https://topallenatori.com/?p=3543 to https://topallenatori.com/atleti-concussione-ed-adhd-aumentano-il-rischio-di-cambiamenti-persistenti-dellumore/
 
-09:53:42	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=704
+09:53:42	Warning: 	Moved Permanently for https://topallenatori.com/?p=704
 
-09:53:42	Warning: 	File has moved from https://www.topallenatori.it/?p=704 to https://www.topallenatori.it/esercizi-di-calcio-tattica-e-sovrapposizione/
+09:53:42	Warning: 	File has moved from https://topallenatori.com/?p=704 to https://topallenatori.com/esercizi-di-calcio-tattica-e-sovrapposizione/
 
-09:53:43	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=4977
+09:53:43	Warning: 	Moved Permanently for https://topallenatori.com/?p=4977
 
-09:53:43	Warning: 	File has moved from https://www.topallenatori.it/?p=4977 to https://www.topallenatori.it/accademia-sovico-calcio-cerca-allenatori/
+09:53:43	Warning: 	File has moved from https://topallenatori.com/?p=4977 to https://topallenatori.com/accademia-sovico-calcio-cerca-allenatori/
 
-09:53:44	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=679
+09:53:44	Warning: 	Moved Permanently for https://topallenatori.com/?p=679
 
-09:53:44	Warning: 	File has moved from https://www.topallenatori.it/?p=679 to https://www.topallenatori.it/esercizi-calcio-3/
+09:53:44	Warning: 	File has moved from https://topallenatori.com/?p=679 to https://topallenatori.com/esercizi-calcio-3/
 
-09:53:45	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=3597
+09:53:45	Warning: 	Moved Permanently for https://topallenatori.com/?p=3597
 
-09:53:45	Warning: 	File has moved from https://www.topallenatori.it/?p=3597 to https://www.topallenatori.it/psicocinetica-nel-calcio-giovanile/
+09:53:45	Warning: 	File has moved from https://topallenatori.com/?p=3597 to https://topallenatori.com/psicocinetica-nel-calcio-giovanile/
 
-09:54:00	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=2211
+09:54:00	Warning: 	Moved Permanently for https://topallenatori.com/?p=2211
 
-09:54:00	Warning: 	File has moved from https://www.topallenatori.it/?p=2211 to https://www.topallenatori.it/esordienti-il-gioco-ludico-condizionale/
+09:54:00	Warning: 	File has moved from https://topallenatori.com/?p=2211 to https://topallenatori.com/esordienti-il-gioco-ludico-condizionale/
 
-09:54:02	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=4463
+09:54:02	Warning: 	Moved Permanently for https://topallenatori.com/?p=4463
 
-09:54:02	Warning: 	File has moved from https://www.topallenatori.it/?p=4463 to https://www.topallenatori.it/allenamenti-scuola-calcio-pulcini/
+09:54:02	Warning: 	File has moved from https://topallenatori.com/?p=4463 to https://topallenatori.com/allenamenti-scuola-calcio-pulcini/
 
-09:54:04	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=4330
+09:54:04	Warning: 	Moved Permanently for https://topallenatori.com/?p=4330
 
-09:54:04	Warning: 	File has moved from https://www.topallenatori.it/?p=4330 to https://www.topallenatori.it/allenamento-calcio-settore-giovanile/
+09:54:04	Warning: 	File has moved from https://topallenatori.com/?p=4330 to https://topallenatori.com/allenamento-calcio-settore-giovanile/
 
-09:54:04	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=823
+09:54:04	Warning: 	Moved Permanently for https://topallenatori.com/?p=823
 
-09:54:04	Warning: 	File has moved from https://www.topallenatori.it/?p=823 to https://www.topallenatori.it/corso-allenatore-uefa-a/
+09:54:04	Warning: 	File has moved from https://topallenatori.com/?p=823 to https://topallenatori.com/corso-allenatore-uefa-a/
 
-09:54:05	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=2141
+09:54:05	Warning: 	Moved Permanently for https://topallenatori.com/?p=2141
 
-09:54:05	Warning: 	File has moved from https://www.topallenatori.it/?p=2141 to https://www.topallenatori.it/bando-ammissione-allenatori-di-giovani-calciatori-uefa-c/
+09:54:05	Warning: 	File has moved from https://topallenatori.com/?p=2141 to https://topallenatori.com/bando-ammissione-allenatori-di-giovani-calciatori-uefa-c/
 
-09:54:05	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=2053
+09:54:05	Warning: 	Moved Permanently for https://topallenatori.com/?p=2053
 
-09:54:05	Warning: 	File has moved from https://www.topallenatori.it/?p=2053 to https://www.topallenatori.it/corso-uefa-b-il-piu-giovane-allenatore-abilitato/
+09:54:05	Warning: 	File has moved from https://topallenatori.com/?p=2053 to https://topallenatori.com/corso-uefa-b-il-piu-giovane-allenatore-abilitato/
 
-09:54:05	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=2073
+09:54:05	Warning: 	Moved Permanently for https://topallenatori.com/?p=2073
 
-09:54:05	Warning: 	File has moved from https://www.topallenatori.it/?p=2073 to https://www.topallenatori.it/bandi-scuola-allenatori-corso-per-direttore-sportivo/
+09:54:05	Warning: 	File has moved from https://topallenatori.com/?p=2073 to https://topallenatori.com/bandi-scuola-allenatori-corso-per-direttore-sportivo/
 
-09:54:05	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=4233
+09:54:05	Warning: 	Moved Permanently for https://topallenatori.com/?p=4233
 
-09:54:05	Warning: 	File has moved from https://www.topallenatori.it/?p=4233 to https://www.topallenatori.it/esercizio-psicocinetico-a-stimolo-sonoro/
+09:54:05	Warning: 	File has moved from https://topallenatori.com/?p=4233 to https://topallenatori.com/esercizio-psicocinetico-a-stimolo-sonoro/
 
-09:54:08	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=4223
+09:54:08	Warning: 	Moved Permanently for https://topallenatori.com/?p=4223
 
-09:54:08	Warning: 	File has moved from https://www.topallenatori.it/?p=4223 to https://www.topallenatori.it/tesi-corso-uefa-c/
+09:54:08	Warning: 	File has moved from https://topallenatori.com/?p=4223 to https://topallenatori.com/tesi-corso-uefa-c/
 
-09:54:08	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=4110
+09:54:08	Warning: 	Moved Permanently for https://topallenatori.com/?p=4110
 
-09:54:08	Warning: 	File has moved from https://www.topallenatori.it/?p=4110 to https://www.topallenatori.it/neuroni-specchio-per-il-miglioramento-della-prestazione-sportiva/
+09:54:08	Warning: 	File has moved from https://topallenatori.com/?p=4110 to https://topallenatori.com/neuroni-specchio-per-il-miglioramento-della-prestazione-sportiva/
 
-09:54:08	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=3123
+09:54:08	Warning: 	Moved Permanently for https://topallenatori.com/?p=3123
 
-09:54:08	Warning: 	File has moved from https://www.topallenatori.it/?p=3123 to https://www.topallenatori.it/3-contro-3-small-sided-game/
+09:54:08	Warning: 	File has moved from https://topallenatori.com/?p=3123 to https://topallenatori.com/3-contro-3-small-sided-game/
 
-09:54:08	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=1887
+09:54:08	Warning: 	Moved Permanently for https://topallenatori.com/?p=1887
 
-09:54:08	Warning: 	File has moved from https://www.topallenatori.it/?p=1887 to https://www.topallenatori.it/corso-master-uefa-pro-il-giorno-della-partita/
+09:54:08	Warning: 	File has moved from https://topallenatori.com/?p=1887 to https://topallenatori.com/corso-master-uefa-pro-il-giorno-della-partita/
 
-09:54:08	Warning: 	Moved Permanently for https://www.topallenatori.it/la-regola-delle-tre-ore-non-si-corre-a-pancia-piena/
+09:54:08	Warning: 	Moved Permanently for https://topallenatori.com/la-regola-delle-tre-ore-non-si-corre-a-pancia-piena/
 
-09:54:08	Warning: 	File has moved from https://www.topallenatori.it/la-regola-delle-tre-ore-non-si-corre-a-pancia-piena/ to https://www.topallenatori.it
+09:54:08	Warning: 	File has moved from https://topallenatori.com/la-regola-delle-tre-ore-non-si-corre-a-pancia-piena/ to https://topallenatori.com
 
-09:54:08	Warning: 	Moved Permanently for https://www.topallenatori.it/la-regola-delle-tre-ore-non-si-corre-a-pancia-piena/embed/
+09:54:08	Warning: 	Moved Permanently for https://topallenatori.com/la-regola-delle-tre-ore-non-si-corre-a-pancia-piena/embed/
 
-09:54:08	Warning: 	File has moved from https://www.topallenatori.it/la-regola-delle-tre-ore-non-si-corre-a-pancia-piena/embed/ to https://www.topallenatori.it
+09:54:08	Warning: 	File has moved from https://topallenatori.com/la-regola-delle-tre-ore-non-si-corre-a-pancia-piena/embed/ to https://topallenatori.com
 
-09:54:11	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=1930
+09:54:11	Warning: 	Moved Permanently for https://topallenatori.com/?p=1930
 
-09:54:11	Warning: 	File has moved from https://www.topallenatori.it/?p=1930 to https://www.topallenatori.it/tiro-in-porta/
+09:54:11	Warning: 	File has moved from https://topallenatori.com/?p=1930 to https://topallenatori.com/tiro-in-porta/
 
-09:54:11	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=4064
+09:54:11	Warning: 	Moved Permanently for https://topallenatori.com/?p=4064
 
-09:54:11	Warning: 	File has moved from https://www.topallenatori.it/?p=4064 to https://www.topallenatori.it/corsi-formativi-informativi-grassroots-livello-e/
+09:54:11	Warning: 	File has moved from https://topallenatori.com/?p=4064 to https://topallenatori.com/corsi-formativi-informativi-grassroots-livello-e/
 
-09:54:11	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=3747
+09:54:11	Warning: 	Moved Permanently for https://topallenatori.com/?p=3747
 
-09:54:11	Warning: 	File has moved from https://www.topallenatori.it/?p=3747 to https://www.topallenatori.it/topallenatori-trova-mister-una-nuova-collaborazione/
+09:54:11	Warning: 	File has moved from https://topallenatori.com/?p=3747 to https://topallenatori.com/topallenatori-trova-mister-una-nuova-collaborazione/
 
-09:54:14	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=3055
+09:54:14	Warning: 	Moved Permanently for https://topallenatori.com/?p=3055
 
-09:54:14	Warning: 	File has moved from https://www.topallenatori.it/?p=3055 to https://www.topallenatori.it/esercizio-tecnico-tattico-nel-calcio/
+09:54:14	Warning: 	File has moved from https://topallenatori.com/?p=3055 to https://topallenatori.com/esercizio-tecnico-tattico-nel-calcio/
 
-09:54:18	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=302
+09:54:18	Warning: 	Moved Permanently for https://topallenatori.com/?p=302
 
-09:54:18	Warning: 	File has moved from https://www.topallenatori.it/?p=302 to https://www.topallenatori.it/everton-f-c-esercitazione-pulcini/
+09:54:18	Warning: 	File has moved from https://topallenatori.com/?p=302 to https://topallenatori.com/everton-f-c-esercitazione-pulcini/
 
-09:54:18	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=1131
+09:54:18	Warning: 	Moved Permanently for https://topallenatori.com/?p=1131
 
-09:54:18	Warning: 	File has moved from https://www.topallenatori.it/?p=1131 to https://www.topallenatori.it/lesercizio-di-guus-hiddink/
+09:54:18	Warning: 	File has moved from https://topallenatori.com/?p=1131 to https://topallenatori.com/lesercizio-di-guus-hiddink/
 
-09:54:21	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=657
+09:54:21	Warning: 	Moved Permanently for https://topallenatori.com/?p=657
 
-09:54:21	Warning: 	File has moved from https://www.topallenatori.it/?p=657 to https://www.topallenatori.it/i-tempi-di-gioconella-fase-di-possesso/
+09:54:21	Warning: 	File has moved from https://topallenatori.com/?p=657 to https://topallenatori.com/i-tempi-di-gioconella-fase-di-possesso/
 
-09:54:23	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=5138
+09:54:23	Warning: 	Moved Permanently for https://topallenatori.com/?p=5138
 
-09:54:23	Warning: 	File has moved from https://www.topallenatori.it/?p=5138 to https://www.topallenatori.it/obbligatorieta-dei-tecnici-dalla-serie-a-alla-conduzione-settore-giovanili/
+09:54:23	Warning: 	File has moved from https://topallenatori.com/?p=5138 to https://topallenatori.com/obbligatorieta-dei-tecnici-dalla-serie-a-alla-conduzione-settore-giovanili/
 
-09:54:25	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=4210
+09:54:25	Warning: 	Moved Permanently for https://topallenatori.com/?p=4210
 
-09:54:25	Warning: 	File has moved from https://www.topallenatori.it/?p=4210 to https://www.topallenatori.it/cercasi-trainer-per-palestra/
+09:54:25	Warning: 	File has moved from https://topallenatori.com/?p=4210 to https://topallenatori.com/cercasi-trainer-per-palestra/
 
-09:54:25	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=3693
+09:54:25	Warning: 	Moved Permanently for https://topallenatori.com/?p=3693
 
-09:54:25	Warning: 	File has moved from https://www.topallenatori.it/?p=3693 to https://www.topallenatori.it/famiglia-inglese-cerca-allenatore-privato-per-i-propri-figli-stipendio-85000-sterline/
+09:54:25	Warning: 	File has moved from https://topallenatori.com/?p=3693 to https://topallenatori.com/famiglia-inglese-cerca-allenatore-privato-per-i-propri-figli-stipendio-85000-sterline/
 
-09:54:26	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=3706
+09:54:26	Warning: 	Moved Permanently for https://topallenatori.com/?p=3706
 
-09:54:26	Warning: 	File has moved from https://www.topallenatori.it/?p=3706 to https://www.topallenatori.it/1-c-1-nel-calcio/
+09:54:26	Warning: 	File has moved from https://topallenatori.com/?p=3706 to https://topallenatori.com/1-c-1-nel-calcio/
 
-09:54:26	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=3577
+09:54:26	Warning: 	Moved Permanently for https://topallenatori.com/?p=3577
 
-09:54:26	Warning: 	File has moved from https://www.topallenatori.it/?p=3577 to https://www.topallenatori.it/corsi-allenatori-uefa-b-da-gennaio-2019/
+09:54:26	Warning: 	File has moved from https://topallenatori.com/?p=3577 to https://topallenatori.com/corsi-allenatori-uefa-b-da-gennaio-2019/
 
-09:54:28	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=3838
+09:54:28	Warning: 	Moved Permanently for https://topallenatori.com/?p=3838
 
-09:54:28	Warning: 	File has moved from https://www.topallenatori.it/?p=3838 to https://www.topallenatori.it/calcio-esercitazioni-specifiche-per-ruoli/
+09:54:28	Warning: 	File has moved from https://topallenatori.com/?p=3838 to https://topallenatori.com/calcio-esercitazioni-specifiche-per-ruoli/
 
-09:54:28	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=3893
+09:54:28	Warning: 	Moved Permanently for https://topallenatori.com/?p=3893
 
-09:54:28	Warning: 	File has moved from https://www.topallenatori.it/?p=3893 to https://www.topallenatori.it/esercitazioni-partita-a-tema-principio-tattico/
+09:54:28	Warning: 	File has moved from https://topallenatori.com/?p=3893 to https://topallenatori.com/esercitazioni-partita-a-tema-principio-tattico/
 
-09:54:29	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=1683
+09:54:29	Warning: 	Moved Permanently for https://topallenatori.com/?p=1683
 
-09:54:29	Warning: 	File has moved from https://www.topallenatori.it/?p=1683 to https://www.topallenatori.it/partita-a-tema-addestrare-il-dai-e-vai/
+09:54:29	Warning: 	File has moved from https://topallenatori.com/?p=1683 to https://topallenatori.com/partita-a-tema-addestrare-il-dai-e-vai/
 
-09:54:29	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=3421
+09:54:29	Warning: 	Moved Permanently for https://topallenatori.com/?p=3421
 
-09:54:29	Warning: 	File has moved from https://www.topallenatori.it/?p=3421 to https://www.topallenatori.it/societa-calcio-cerca-allenatori/
+09:54:29	Warning: 	File has moved from https://topallenatori.com/?p=3421 to https://topallenatori.com/societa-calcio-cerca-allenatori/
 
-09:54:29	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=2362
+09:54:29	Warning: 	Moved Permanently for https://topallenatori.com/?p=2362
 
-09:54:29	Warning: 	File has moved from https://www.topallenatori.it/?p=2362 to https://www.topallenatori.it/dalla-tattica-individuale-alla-tattica-collettiva-nella-scuola-calcio/
+09:54:29	Warning: 	File has moved from https://topallenatori.com/?p=2362 to https://topallenatori.com/dalla-tattica-individuale-alla-tattica-collettiva-nella-scuola-calcio/
 
-09:54:31	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=2379
+09:54:31	Warning: 	Moved Permanently for https://topallenatori.com/?p=2379
 
-09:54:31	Warning: 	File has moved from https://www.topallenatori.it/?p=2379 to https://www.topallenatori.it/allounited-i-genitori-firmano-il-contratto-di-buone-abitudini-sugli-spalti/
+09:54:31	Warning: 	File has moved from https://topallenatori.com/?p=2379 to https://topallenatori.com/allounited-i-genitori-firmano-il-contratto-di-buone-abitudini-sugli-spalti/
 
-09:54:31	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=2340
+09:54:31	Warning: 	Moved Permanently for https://topallenatori.com/?p=2340
 
-09:54:31	Warning: 	File has moved from https://www.topallenatori.it/?p=2340 to https://www.topallenatori.it/uefa-a-nuovo-corso-a-coverciano-a-giugno-per-allenatori/
+09:54:31	Warning: 	File has moved from https://topallenatori.com/?p=2340 to https://topallenatori.com/uefa-a-nuovo-corso-a-coverciano-a-giugno-per-allenatori/
 
-09:54:31	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=448
+09:54:31	Warning: 	Moved Permanently for https://topallenatori.com/?p=448
 
-09:54:31	Warning: 	File has moved from https://www.topallenatori.it/?p=448 to https://www.topallenatori.it/proposte-di-allenamento-per-preparare-una-partita-in-cui-si-parte-sfavoriti/
+09:54:31	Warning: 	File has moved from https://topallenatori.com/?p=448 to https://topallenatori.com/proposte-di-allenamento-per-preparare-una-partita-in-cui-si-parte-sfavoriti/
 
-09:54:31	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=3903
+09:54:31	Warning: 	Moved Permanently for https://topallenatori.com/?p=3903
 
-09:54:31	Warning: 	File has moved from https://www.topallenatori.it/?p=3903 to https://www.topallenatori.it/accademia-internazionale-calcio/
+09:54:31	Warning: 	File has moved from https://topallenatori.com/?p=3903 to https://topallenatori.com/accademia-internazionale-calcio/
 
-09:54:31	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=2025
+09:54:31	Warning: 	Moved Permanently for https://topallenatori.com/?p=2025
 
-09:54:31	Warning: 	File has moved from https://www.topallenatori.it/?p=2025 to https://www.topallenatori.it/esercitazioni-per-la-potenza-aerobico-con-i-movimenti-della-difesa-a-3-in-giro-palla/
+09:54:31	Warning: 	File has moved from https://topallenatori.com/?p=2025 to https://topallenatori.com/esercitazioni-per-la-potenza-aerobico-con-i-movimenti-della-difesa-a-3-in-giro-palla/
 
-09:54:31	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=5324
+09:54:31	Warning: 	Moved Permanently for https://topallenatori.com/?p=5324
 
-09:54:31	Warning: 	File has moved from https://www.topallenatori.it/?p=5324 to https://www.topallenatori.it/calcio-dilettante-eccellenza-seduta-del-martedi/
+09:54:31	Warning: 	File has moved from https://topallenatori.com/?p=5324 to https://topallenatori.com/calcio-dilettante-eccellenza-seduta-del-martedi/
 
-09:54:33	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=2335
+09:54:33	Warning: 	Moved Permanently for https://topallenatori.com/?p=2335
 
-09:54:33	Warning: 	File has moved from https://www.topallenatori.it/?p=2335 to https://www.topallenatori.it/modulo-4-4-2-video-presentazione/
+09:54:33	Warning: 	File has moved from https://topallenatori.com/?p=2335 to https://topallenatori.com/modulo-4-4-2-video-presentazione/
 
-09:54:34	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=5204
+09:54:34	Warning: 	Moved Permanently for https://topallenatori.com/?p=5204
 
-09:54:34	Warning: 	File has moved from https://www.topallenatori.it/?p=5204 to https://www.topallenatori.it/calcio-la-seduta-dallenamento-del-martedi/
+09:54:34	Warning: 	File has moved from https://topallenatori.com/?p=5204 to https://topallenatori.com/calcio-la-seduta-dallenamento-del-martedi/
 
-09:54:34	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=548
+09:54:34	Warning: 	Moved Permanently for https://topallenatori.com/?p=548
 
-09:54:34	Warning: 	File has moved from https://www.topallenatori.it/?p=548 to https://www.topallenatori.it/allenare-le-capacita-condizionali-con-la-partita/
+09:54:34	Warning: 	File has moved from https://topallenatori.com/?p=548 to https://topallenatori.com/allenare-le-capacita-condizionali-con-la-partita/
 
-09:54:34	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=530
+09:54:34	Warning: 	Moved Permanently for https://topallenatori.com/?p=530
 
-09:54:34	Warning: 	File has moved from https://www.topallenatori.it/?p=530 to https://www.topallenatori.it/esercitazione-rapidita-nella-seduta-del-venerdi/
+09:54:34	Warning: 	File has moved from https://topallenatori.com/?p=530 to https://topallenatori.com/esercitazione-rapidita-nella-seduta-del-venerdi/
 
-09:54:34	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=515
+09:54:34	Warning: 	Moved Permanently for https://topallenatori.com/?p=515
 
-09:54:34	Warning: 	File has moved from https://www.topallenatori.it/?p=515 to https://www.topallenatori.it/lallenatore-sotto-lombrellone/
+09:54:34	Warning: 	File has moved from https://topallenatori.com/?p=515 to https://topallenatori.com/lallenatore-sotto-lombrellone/
 
-09:54:36	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=2076
+09:54:36	Warning: 	Moved Permanently for https://topallenatori.com/?p=2076
 
-09:54:36	Warning: 	File has moved from https://www.topallenatori.it/?p=2076 to https://www.topallenatori.it/bandi-scuola-allenatori-corso-per-preparatore-atletico/
+09:54:36	Warning: 	File has moved from https://topallenatori.com/?p=2076 to https://topallenatori.com/bandi-scuola-allenatori-corso-per-preparatore-atletico/
 
-09:54:36	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=1122
+09:54:36	Warning: 	Moved Permanently for https://topallenatori.com/?p=1122
 
-09:54:36	Warning: 	File has moved from https://www.topallenatori.it/?p=1122 to https://www.topallenatori.it/resistenza-anaerobica-con-il-quattro-contro-quattro/
+09:54:36	Warning: 	File has moved from https://topallenatori.com/?p=1122 to https://topallenatori.com/resistenza-anaerobica-con-il-quattro-contro-quattro/
 
-09:54:36	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=2129
+09:54:36	Warning: 	Moved Permanently for https://topallenatori.com/?p=2129
 
-09:54:36	Warning: 	File has moved from https://www.topallenatori.it/?p=2129 to https://www.topallenatori.it/due-aggiornamenti-per-allenatori-di-calcio-giovanile-a-desio/
+09:54:36	Warning: 	File has moved from https://topallenatori.com/?p=2129 to https://topallenatori.com/due-aggiornamenti-per-allenatori-di-calcio-giovanile-a-desio/
 
-09:54:36	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=1978
+09:54:36	Warning: 	Moved Permanently for https://topallenatori.com/?p=1978
 
-09:54:36	Warning: 	File has moved from https://www.topallenatori.it/?p=1978 to https://www.topallenatori.it/1v1dominio-palla-dribbling-tecnica-e-tattica-individuale/
+09:54:36	Warning: 	File has moved from https://topallenatori.com/?p=1978 to https://topallenatori.com/1v1dominio-palla-dribbling-tecnica-e-tattica-individuale/
 
-09:54:36	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=3798
+09:54:36	Warning: 	Moved Permanently for https://topallenatori.com/?p=3798
 
-09:54:36	Warning: 	File has moved from https://www.topallenatori.it/?p=3798 to https://www.topallenatori.it/addestrare-e-motivare-una-squadra/
+09:54:36	Warning: 	File has moved from https://topallenatori.com/?p=3798 to https://topallenatori.com/addestrare-e-motivare-una-squadra/
 
-09:54:39	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=4599
+09:54:39	Warning: 	Moved Permanently for https://topallenatori.com/?p=4599
 
-09:54:39	Warning: 	File has moved from https://www.topallenatori.it/?p=4599 to https://www.topallenatori.it/scuola-calcio-cerca-istruttori-2/
+09:54:39	Warning: 	File has moved from https://topallenatori.com/?p=4599 to https://topallenatori.com/scuola-calcio-cerca-istruttori-2/
 
-09:54:39	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=4626
+09:54:39	Warning: 	Moved Permanently for https://topallenatori.com/?p=4626
 
-09:54:39	Warning: 	File has moved from https://www.topallenatori.it/?p=4626 to https://www.topallenatori.it/allenatori-patentati-societa-calcio-cerca/
+09:54:39	Warning: 	File has moved from https://topallenatori.com/?p=4626 to https://topallenatori.com/allenatori-patentati-societa-calcio-cerca/
 
-09:54:39	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=4499
+09:54:39	Warning: 	Moved Permanently for https://topallenatori.com/?p=4499
 
-09:54:39	Warning: 	File has moved from https://www.topallenatori.it/?p=4499 to https://www.topallenatori.it/club-cerca-istruttori-di-calcio/
+09:54:39	Warning: 	File has moved from https://topallenatori.com/?p=4499 to https://topallenatori.com/club-cerca-istruttori-di-calcio/
 
-09:54:39	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=4506
+09:54:39	Warning: 	Moved Permanently for https://topallenatori.com/?p=4506
 
-09:54:39	Warning: 	File has moved from https://www.topallenatori.it/?p=4506 to https://www.topallenatori.it/la-salute-mentale-al-tempo-del-sars-cov-2-e-aspettando-godot-ripercussioni-generali-e-nello-sport/
+09:54:39	Warning: 	File has moved from https://topallenatori.com/?p=4506 to https://topallenatori.com/la-salute-mentale-al-tempo-del-sars-cov-2-e-aspettando-godot-ripercussioni-generali-e-nello-sport/
 
-09:54:39	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=3167
+09:54:39	Warning: 	Moved Permanently for https://topallenatori.com/?p=3167
 
-09:54:39	Warning: 	File has moved from https://www.topallenatori.it/?p=3167 to https://www.topallenatori.it/1-contro-1-e-tiro-in-porta/
+09:54:39	Warning: 	File has moved from https://topallenatori.com/?p=3167 to https://topallenatori.com/1-contro-1-e-tiro-in-porta/
 
-09:54:39	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=4002
+09:54:39	Warning: 	Moved Permanently for https://topallenatori.com/?p=4002
 
-09:54:39	Warning: 	File has moved from https://www.topallenatori.it/?p=4002 to https://www.topallenatori.it/esordienti-e-pulcini-mini-sfide-per-il-2-vs-2/
+09:54:39	Warning: 	File has moved from https://topallenatori.com/?p=4002 to https://topallenatori.com/esordienti-e-pulcini-mini-sfide-per-il-2-vs-2/
 
-09:54:42	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=504
+09:54:42	Warning: 	Moved Permanently for https://topallenatori.com/?p=504
 
-09:54:42	Warning: 	File has moved from https://www.topallenatori.it/?p=504 to https://www.topallenatori.it/educare-attreverso-il-gioco/
+09:54:42	Warning: 	File has moved from https://topallenatori.com/?p=504 to https://topallenatori.com/educare-attreverso-il-gioco/
 
-09:54:42	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=501
+09:54:42	Warning: 	Moved Permanently for https://topallenatori.com/?p=501
 
-09:54:42	Warning: 	File has moved from https://www.topallenatori.it/?p=501 to https://www.topallenatori.it/esercizi-pulcini/
+09:54:42	Warning: 	File has moved from https://topallenatori.com/?p=501 to https://topallenatori.com/esercizi-pulcini/
 
-09:54:42	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=495
+09:54:42	Warning: 	Moved Permanently for https://topallenatori.com/?p=495
 
-09:54:42	Warning: 	File has moved from https://www.topallenatori.it/?p=495 to https://www.topallenatori.it/proposta-attivazione-pre-gara-per-la-scuola-calcio/
+09:54:42	Warning: 	File has moved from https://topallenatori.com/?p=495 to https://topallenatori.com/proposta-attivazione-pre-gara-per-la-scuola-calcio/
 
-09:54:43	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=490
+09:54:43	Warning: 	Moved Permanently for https://topallenatori.com/?p=490
 
-09:54:43	Warning: 	File has moved from https://www.topallenatori.it/?p=490 to https://www.topallenatori.it/mamma-e-papa-vanno-tenuti-lontani-dai-campi/
+09:54:43	Warning: 	File has moved from https://topallenatori.com/?p=490 to https://topallenatori.com/mamma-e-papa-vanno-tenuti-lontani-dai-campi/
 
-09:54:43	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=486
+09:54:43	Warning: 	Moved Permanently for https://topallenatori.com/?p=486
 
-09:54:43	Warning: 	File has moved from https://www.topallenatori.it/?p=486 to https://www.topallenatori.it/attivita-motoria-0-6-anni/
+09:54:43	Warning: 	File has moved from https://topallenatori.com/?p=486 to https://topallenatori.com/attivita-motoria-0-6-anni/
 
-09:54:48	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=2156
+09:54:48	Warning: 	Moved Permanently for https://topallenatori.com/?p=2156
 
-09:54:48	Warning: 	File has moved from https://www.topallenatori.it/?p=2156 to https://www.topallenatori.it/allenamento-aerobico-e-anaerobico-con-il-2v2/
+09:54:48	Warning: 	File has moved from https://topallenatori.com/?p=2156 to https://topallenatori.com/allenamento-aerobico-e-anaerobico-con-il-2v2/
 
-09:54:48	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=590
+09:54:48	Warning: 	Moved Permanently for https://topallenatori.com/?p=590
 
-09:54:48	Warning: 	File has moved from https://www.topallenatori.it/?p=590 to https://www.topallenatori.it/test-a-navetta-10-metri-x-4/
+09:54:48	Warning: 	File has moved from https://topallenatori.com/?p=590 to https://topallenatori.com/test-a-navetta-10-metri-x-4/
 
-09:54:49	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=4251
+09:54:49	Warning: 	Moved Permanently for https://topallenatori.com/?p=4251
 
-09:54:49	Warning: 	File has moved from https://www.topallenatori.it/?p=4251 to https://www.topallenatori.it/la-comunicazione-verbale-puo-migliorare-la-prestazione-di-una-squadra-di-calcio/
+09:54:49	Warning: 	File has moved from https://topallenatori.com/?p=4251 to https://topallenatori.com/la-comunicazione-verbale-puo-migliorare-la-prestazione-di-una-squadra-di-calcio/
 
-09:54:49	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=4452
+09:54:49	Warning: 	Moved Permanently for https://topallenatori.com/?p=4452
 
-09:54:49	Warning: 	File has moved from https://www.topallenatori.it/?p=4452 to https://www.topallenatori.it/calcio-giovanili-campionati-definitivamente-sospesi/
+09:54:49	Warning: 	File has moved from https://topallenatori.com/?p=4452 to https://topallenatori.com/calcio-giovanili-campionati-definitivamente-sospesi/
 
-09:54:49	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=511
+09:54:49	Warning: 	Moved Permanently for https://topallenatori.com/?p=511
 
-09:54:49	Warning: 	File has moved from https://www.topallenatori.it/?p=511 to https://www.topallenatori.it/il-core-training-nel-calcio/
+09:54:49	Warning: 	File has moved from https://topallenatori.com/?p=511 to https://topallenatori.com/il-core-training-nel-calcio/
 
-09:54:49	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=527
+09:54:49	Warning: 	Moved Permanently for https://topallenatori.com/?p=527
 
-09:54:49	Warning: 	File has moved from https://www.topallenatori.it/?p=527 to https://www.topallenatori.it/esercizi-di-mobilita-articolare-nel-calcio/
+09:54:49	Warning: 	File has moved from https://topallenatori.com/?p=527 to https://topallenatori.com/esercizi-di-mobilita-articolare-nel-calcio/
 
-09:54:49	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=581
+09:54:49	Warning: 	Moved Permanently for https://topallenatori.com/?p=581
 
-09:54:49	Warning: 	File has moved from https://www.topallenatori.it/?p=581 to https://www.topallenatori.it/test-multi-direzionale-per-il-calcio/
+09:54:49	Warning: 	File has moved from https://topallenatori.com/?p=581 to https://topallenatori.com/test-multi-direzionale-per-il-calcio/
 
-09:54:49	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=3131
+09:54:49	Warning: 	Moved Permanently for https://topallenatori.com/?p=3131
 
-09:54:49	Warning: 	File has moved from https://www.topallenatori.it/?p=3131 to https://www.topallenatori.it/la-core-stability-calcio/
+09:54:49	Warning: 	File has moved from https://topallenatori.com/?p=3131 to https://topallenatori.com/la-core-stability-calcio/
 
-09:54:49	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=2174
+09:54:49	Warning: 	Moved Permanently for https://topallenatori.com/?p=2174
 
-09:54:49	Warning: 	File has moved from https://www.topallenatori.it/?p=2174 to https://www.topallenatori.it/fa-cup-la-coppa-che-ti-sorprende-sutton-united/
+09:54:49	Warning: 	File has moved from https://topallenatori.com/?p=2174 to https://topallenatori.com/fa-cup-la-coppa-che-ti-sorprende-sutton-united/
 
-09:54:49	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=289
+09:54:49	Warning: 	Moved Permanently for https://topallenatori.com/?p=289
 
-09:54:49	Warning: 	File has moved from https://www.topallenatori.it/?p=289 to https://www.topallenatori.it/limportanza-dei-sali-minerali-nel-calcio/
+09:54:49	Warning: 	File has moved from https://topallenatori.com/?p=289 to https://topallenatori.com/limportanza-dei-sali-minerali-nel-calcio/
 
-09:54:49	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=287
+09:54:49	Warning: 	Moved Permanently for https://topallenatori.com/?p=287
 
-09:54:49	Warning: 	File has moved from https://www.topallenatori.it/?p=287 to https://www.topallenatori.it/e-primavera-tempo-di-diete/
+09:54:49	Warning: 	File has moved from https://topallenatori.com/?p=287 to https://topallenatori.com/e-primavera-tempo-di-diete/
 
-09:54:49	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=285
+09:54:49	Warning: 	Moved Permanently for https://topallenatori.com/?p=285
 
-09:54:49	Warning: 	File has moved from https://www.topallenatori.it/?p=285 to https://www.topallenatori.it/dieta-per-il-rientro-dopo-le-vacanze/
+09:54:49	Warning: 	File has moved from https://topallenatori.com/?p=285 to https://topallenatori.com/dieta-per-il-rientro-dopo-le-vacanze/
 
-09:54:49	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=2996
+09:54:49	Warning: 	Moved Permanently for https://topallenatori.com/?p=2996
 
-09:54:49	Warning: 	File has moved from https://www.topallenatori.it/?p=2996 to https://www.topallenatori.it/giovanissimi/
+09:54:49	Warning: 	File has moved from https://topallenatori.com/?p=2996 to https://topallenatori.com/giovanissimi/
 
-09:54:49	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=2948
+09:54:49	Warning: 	Moved Permanently for https://topallenatori.com/?p=2948
 
-09:54:49	Warning: 	File has moved from https://www.topallenatori.it/?p=2948 to https://www.topallenatori.it/esordienti-pulcini/
+09:54:49	Warning: 	File has moved from https://topallenatori.com/?p=2948 to https://topallenatori.com/esordienti-pulcini/
 
-09:54:49	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=2228
+09:54:49	Warning: 	Moved Permanently for https://topallenatori.com/?p=2228
 
-09:54:49	Warning: 	File has moved from https://www.topallenatori.it/?p=2228 to https://www.topallenatori.it/accelerazioni-forza-veloce-e-cambi-di-direzioni-acceleration-speed-strength-and-change-of-directions/
+09:54:49	Warning: 	File has moved from https://topallenatori.com/?p=2228 to https://topallenatori.com/accelerazioni-forza-veloce-e-cambi-di-direzioni-acceleration-speed-strength-and-change-of-directions/
 
-09:54:53	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=3083
+09:54:53	Warning: 	Moved Permanently for https://topallenatori.com/?p=3083
 
-09:54:53	Warning: 	File has moved from https://www.topallenatori.it/?p=3083 to https://www.topallenatori.it/practice-shooting-combination-and-1-v-2-situation/
+09:54:53	Warning: 	File has moved from https://topallenatori.com/?p=3083 to https://topallenatori.com/practice-shooting-combination-and-1-v-2-situation/
 
-09:54:53	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=1154
+09:54:53	Warning: 	Moved Permanently for https://topallenatori.com/?p=1154
 
-09:54:53	Warning: 	File has moved from https://www.topallenatori.it/?p=1154 to https://www.topallenatori.it/addestramento-passaggio-corto-lungo-in-doppia-triangolazione/
+09:54:53	Warning: 	File has moved from https://topallenatori.com/?p=1154 to https://topallenatori.com/addestramento-passaggio-corto-lungo-in-doppia-triangolazione/
 
-09:54:53	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=3600
+09:54:53	Warning: 	Moved Permanently for https://topallenatori.com/?p=3600
 
-09:54:53	Warning: 	File has moved from https://www.topallenatori.it/?p=3600 to https://www.topallenatori.it/psicologia-dello-sport-fantasia-o-realta/
+09:54:53	Warning: 	File has moved from https://topallenatori.com/?p=3600 to https://topallenatori.com/psicologia-dello-sport-fantasia-o-realta/
 
-09:54:53	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=541
+09:54:53	Warning: 	Moved Permanently for https://topallenatori.com/?p=541
 
-09:54:53	Warning: 	File has moved from https://www.topallenatori.it/?p=541 to https://www.topallenatori.it/allenare-la-forza-veloce/
+09:54:53	Warning: 	File has moved from https://topallenatori.com/?p=541 to https://topallenatori.com/allenare-la-forza-veloce/
 
-09:54:53	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=4062
+09:54:53	Warning: 	Moved Permanently for https://topallenatori.com/?p=4062
 
-09:54:53	Warning: 	File has moved from https://www.topallenatori.it/?p=4062 to https://www.topallenatori.it/scuola-calcio-cerca-istruttori/
+09:54:53	Warning: 	File has moved from https://topallenatori.com/?p=4062 to https://topallenatori.com/scuola-calcio-cerca-istruttori/
 
-09:54:56	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=4636
+09:54:56	Warning: 	Moved Permanently for https://topallenatori.com/?p=4636
 
-09:54:56	Warning: 	File has moved from https://www.topallenatori.it/?p=4636 to https://www.topallenatori.it/allenare-la-performance-sportiva/
+09:54:56	Warning: 	File has moved from https://topallenatori.com/?p=4636 to https://topallenatori.com/allenare-la-performance-sportiva/
 
-09:54:56	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=1611
+09:54:56	Warning: 	Moved Permanently for https://topallenatori.com/?p=1611
 
-09:54:56	Warning: 	File has moved from https://www.topallenatori.it/?p=1611 to https://www.topallenatori.it/allenamento-calcio-nozioni-generali-per-stilare-una-seduta-con-la-scuola-calcio/
+09:54:56	Warning: 	File has moved from https://topallenatori.com/?p=1611 to https://topallenatori.com/allenamento-calcio-nozioni-generali-per-stilare-una-seduta-con-la-scuola-calcio/
 
-09:54:59	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=647
+09:54:59	Warning: 	Moved Permanently for https://topallenatori.com/?p=647
 
-09:54:59	Warning: 	File has moved from https://www.topallenatori.it/?p=647 to https://www.topallenatori.it/dal-calciare-al-tiro/
+09:54:59	Warning: 	File has moved from https://topallenatori.com/?p=647 to https://topallenatori.com/dal-calciare-al-tiro/
 
-09:54:59	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=4571
+09:54:59	Warning: 	Moved Permanently for https://topallenatori.com/?p=4571
 
-09:54:59	Warning: 	File has moved from https://www.topallenatori.it/?p=4571 to https://www.topallenatori.it/club-lombarda-ricerca-preparatore-atletico/
+09:54:59	Warning: 	File has moved from https://topallenatori.com/?p=4571 to https://topallenatori.com/club-lombarda-ricerca-preparatore-atletico/
 
-09:55:01	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=1812
+09:55:01	Warning: 	Moved Permanently for https://topallenatori.com/?p=1812
 
-09:55:01	Warning: 	File has moved from https://www.topallenatori.it/?p=1812 to https://www.topallenatori.it/cerco-allenatore-apprendista/
+09:55:01	Warning: 	File has moved from https://topallenatori.com/?p=1812 to https://topallenatori.com/cerco-allenatore-apprendista/
 
-09:55:01	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=3725
+09:55:01	Warning: 	Moved Permanently for https://topallenatori.com/?p=3725
 
-09:55:01	Warning: 	File has moved from https://www.topallenatori.it/?p=3725 to https://www.topallenatori.it/esercitazione-situazionale-nel-calcio/
+09:55:01	Warning: 	File has moved from https://topallenatori.com/?p=3725 to https://topallenatori.com/esercitazione-situazionale-nel-calcio/
 
-09:55:01	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=1592
+09:55:01	Warning: 	Moved Permanently for https://topallenatori.com/?p=1592
 
-09:55:01	Warning: 	File has moved from https://www.topallenatori.it/?p=1592 to https://www.topallenatori.it/esercizi-pulcini-guida-palla-e-tiro-in-competizione/
+09:55:01	Warning: 	File has moved from https://topallenatori.com/?p=1592 to https://topallenatori.com/esercizi-pulcini-guida-palla-e-tiro-in-competizione/
 
-09:55:01	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=4345
+09:55:01	Warning: 	Moved Permanently for https://topallenatori.com/?p=4345
 
-09:55:01	Warning: 	File has moved from https://www.topallenatori.it/?p=4345 to https://www.topallenatori.it/corona-virus-rinviate-40-partite-di-calcio/
+09:55:01	Warning: 	File has moved from https://topallenatori.com/?p=4345 to https://topallenatori.com/corona-virus-rinviate-40-partite-di-calcio/
 
-09:55:01	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=2661
+09:55:01	Warning: 	Moved Permanently for https://topallenatori.com/?p=2661
 
-09:55:01	Warning: 	File has moved from https://www.topallenatori.it/?p=2661 to https://www.topallenatori.it/allenamento-scuola-calcio/
+09:55:01	Warning: 	File has moved from https://topallenatori.com/?p=2661 to https://topallenatori.com/allenamento-scuola-calcio/
 
-09:55:01	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=611
+09:55:01	Warning: 	Moved Permanently for https://topallenatori.com/?p=611
 
-09:55:01	Warning: 	File has moved from https://www.topallenatori.it/?p=611 to https://www.topallenatori.it/test-forza-esplosiva/
+09:55:01	Warning: 	File has moved from https://topallenatori.com/?p=611 to https://topallenatori.com/test-forza-esplosiva/
 
-09:55:06	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=4685
+09:55:06	Warning: 	Moved Permanently for https://topallenatori.com/?p=4685
 
-09:55:06	Warning: 	File has moved from https://www.topallenatori.it/?p=4685 to https://www.topallenatori.it/rimessa-laterale-schemi-e-soluzioni-tattiche-nel-calcio/
+09:55:06	Warning: 	File has moved from https://topallenatori.com/?p=4685 to https://topallenatori.com/rimessa-laterale-schemi-e-soluzioni-tattiche-nel-calcio/
 
-09:55:08	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=2393
+09:55:08	Warning: 	Moved Permanently for https://topallenatori.com/?p=2393
 
-09:55:08	Warning: 	File has moved from https://www.topallenatori.it/?p=2393 to https://www.topallenatori.it/come-allenare-il-4-4-2-nella-fase-offensiva/
+09:55:08	Warning: 	File has moved from https://topallenatori.com/?p=2393 to https://topallenatori.com/come-allenare-il-4-4-2-nella-fase-offensiva/
 
-09:55:09	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=3024
+09:55:09	Warning: 	Moved Permanently for https://topallenatori.com/?p=3024
 
-09:55:09	Warning: 	File has moved from https://www.topallenatori.it/?p=3024 to https://www.topallenatori.it/scuola-calcio-listruttore-v-a-t-c/
+09:55:09	Warning: 	File has moved from https://topallenatori.com/?p=3024 to https://topallenatori.com/scuola-calcio-listruttore-v-a-t-c/
 
-09:55:09	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=3722
+09:55:09	Warning: 	Moved Permanently for https://topallenatori.com/?p=3722
 
-09:55:09	Warning: 	File has moved from https://www.topallenatori.it/?p=3722 to https://www.topallenatori.it/esercizi-piccoli-amici-scuola-calcio/
+09:55:09	Warning: 	File has moved from https://topallenatori.com/?p=3722 to https://topallenatori.com/esercizi-piccoli-amici-scuola-calcio/
 
-09:55:09	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=3073
+09:55:09	Warning: 	Moved Permanently for https://topallenatori.com/?p=3073
 
-09:55:09	Warning: 	File has moved from https://www.topallenatori.it/?p=3073 to https://www.topallenatori.it/bacheca-allenatori-calcio/
+09:55:09	Warning: 	File has moved from https://topallenatori.com/?p=3073 to https://topallenatori.com/bacheca-allenatori-calcio/
 
-09:55:09	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=2747
+09:55:09	Warning: 	Moved Permanently for https://topallenatori.com/?p=2747
 
-09:55:09	Warning: 	File has moved from https://www.topallenatori.it/?p=2747 to https://www.topallenatori.it/scuola-calcio-il-gioco-iniziale/
+09:55:09	Warning: 	File has moved from https://topallenatori.com/?p=2747 to https://topallenatori.com/scuola-calcio-il-gioco-iniziale/
 
-09:55:09	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=2038
+09:55:09	Warning: 	Moved Permanently for https://topallenatori.com/?p=2038
 
-09:55:09	Warning: 	File has moved from https://www.topallenatori.it/?p=2038 to https://www.topallenatori.it/topallenatori-bacheca-trovo-allenatori/
+09:55:09	Warning: 	File has moved from https://topallenatori.com/?p=2038 to https://topallenatori.com/topallenatori-bacheca-trovo-allenatori/
 
-09:55:09	Warning: 	Moved Permanently for https://www.topallenatori.it/bacheca-allenatori/
+09:55:09	Warning: 	Moved Permanently for https://topallenatori.com/bacheca-allenatori/
 
-09:55:09	Warning: 	File has moved from https://www.topallenatori.it/bacheca-allenatori/ to https://www.topallenatori.it
+09:55:09	Warning: 	File has moved from https://topallenatori.com/bacheca-allenatori/ to https://topallenatori.com
 
-09:55:09	Warning: 	Moved Permanently for https://www.topallenatori.it/bacheca-allenatori/embed/
+09:55:09	Warning: 	Moved Permanently for https://topallenatori.com/bacheca-allenatori/embed/
 
-09:55:09	Warning: 	File has moved from https://www.topallenatori.it/bacheca-allenatori/embed/ to https://www.topallenatori.it
+09:55:09	Warning: 	File has moved from https://topallenatori.com/bacheca-allenatori/embed/ to https://topallenatori.com
 
-09:55:19	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=3548
+09:55:19	Warning: 	Moved Permanently for https://topallenatori.com/?p=3548
 
-09:55:19	Warning: 	File has moved from https://www.topallenatori.it/?p=3548 to https://www.topallenatori.it/le-re-injury-del-legamento-crociato-anteriore/
+09:55:19	Warning: 	File has moved from https://topallenatori.com/?p=3548 to https://topallenatori.com/le-re-injury-del-legamento-crociato-anteriore/
 
-09:55:19	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=2199
+09:55:19	Warning: 	Moved Permanently for https://topallenatori.com/?p=2199
 
-09:55:19	Warning: 	File has moved from https://www.topallenatori.it/?p=2199 to https://www.topallenatori.it/le-combinazioni-di-gioco-laterali-nel-sistema-4-4-2/
+09:55:19	Warning: 	File has moved from https://topallenatori.com/?p=2199 to https://topallenatori.com/le-combinazioni-di-gioco-laterali-nel-sistema-4-4-2/
 
-09:55:19	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=2224
+09:55:19	Warning: 	Moved Permanently for https://topallenatori.com/?p=2224
 
-09:55:19	Warning: 	File has moved from https://www.topallenatori.it/?p=2224 to https://www.topallenatori.it/u13-the-conditional-chasing-30-meters-runs/
+09:55:19	Warning: 	File has moved from https://topallenatori.com/?p=2224 to https://topallenatori.com/u13-the-conditional-chasing-30-meters-runs/
 
-09:55:19	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=4492
+09:55:19	Warning: 	Moved Permanently for https://topallenatori.com/?p=4492
 
-09:55:19	Warning: 	File has moved from https://www.topallenatori.it/?p=4492 to https://www.topallenatori.it/corsi-di-aggiornamento-per-licenze-uefa-b/
+09:55:19	Warning: 	File has moved from https://topallenatori.com/?p=4492 to https://topallenatori.com/corsi-di-aggiornamento-per-licenze-uefa-b/
 
-09:55:19	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=4338
+09:55:19	Warning: 	Moved Permanently for https://topallenatori.com/?p=4338
 
-09:55:19	Warning: 	File has moved from https://www.topallenatori.it/?p=4338 to https://www.topallenatori.it/bando-uefa-c/
+09:55:19	Warning: 	File has moved from https://topallenatori.com/?p=4338 to https://topallenatori.com/bando-uefa-c/
 
-09:55:22	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=2237
+09:55:22	Warning: 	Moved Permanently for https://topallenatori.com/?p=2237
 
-09:55:22	Warning: 	File has moved from https://www.topallenatori.it/?p=2237 to https://www.topallenatori.it/scuola-calcio-5-motivi-perche-i-genitori-durante-le-partite-non-devono-fare-i-misters/
+09:55:22	Warning: 	File has moved from https://topallenatori.com/?p=2237 to https://topallenatori.com/scuola-calcio-5-motivi-perche-i-genitori-durante-le-partite-non-devono-fare-i-misters/
 
-09:55:22	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=1970
+09:55:22	Warning: 	Moved Permanently for https://topallenatori.com/?p=1970
 
-09:55:22	Warning: 	File has moved from https://www.topallenatori.it/?p=1970 to https://www.topallenatori.it/esercizio-di-forza-specifica-nel-calcio/
+09:55:22	Warning: 	File has moved from https://topallenatori.com/?p=1970 to https://topallenatori.com/esercizio-di-forza-specifica-nel-calcio/
 
-09:55:22	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=3069
+09:55:22	Warning: 	Moved Permanently for https://topallenatori.com/?p=3069
 
-09:55:22	Warning: 	File has moved from https://www.topallenatori.it/?p=3069 to https://www.topallenatori.it/bando-di-ammissione-al-corso-uefa-a/
+09:55:22	Warning: 	File has moved from https://topallenatori.com/?p=3069 to https://topallenatori.com/bando-di-ammissione-al-corso-uefa-a/
 
-09:55:22	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=2195
+09:55:22	Warning: 	Moved Permanently for https://topallenatori.com/?p=2195
 
-09:55:22	Warning: 	File has moved from https://www.topallenatori.it/?p=2195 to https://www.topallenatori.it/3-v-2-tattica-nelle-due-fasi-3-v-2-tactics/
+09:55:22	Warning: 	File has moved from https://topallenatori.com/?p=2195 to https://topallenatori.com/3-v-2-tattica-nelle-due-fasi-3-v-2-tactics/
 
-09:55:22	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=652
+09:55:22	Warning: 	Moved Permanently for https://topallenatori.com/?p=652
 
-09:55:22	Warning: 	File has moved from https://www.topallenatori.it/?p=652 to https://www.topallenatori.it/esercizi-calcio-partita-a-tema-allenamento/
+09:55:22	Warning: 	File has moved from https://topallenatori.com/?p=652 to https://topallenatori.com/esercizi-calcio-partita-a-tema-allenamento/
 
-09:55:22	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=2183
+09:55:22	Warning: 	Moved Permanently for https://topallenatori.com/?p=2183
 
-09:55:22	Warning: 	File has moved from https://www.topallenatori.it/?p=2183 to https://www.topallenatori.it/il-4-4-2-addestramento-e-pratica-con-il-5-v-3/
+09:55:22	Warning: 	File has moved from https://topallenatori.com/?p=2183 to https://topallenatori.com/il-4-4-2-addestramento-e-pratica-con-il-5-v-3/
 
-09:55:22	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=4213
+09:55:22	Warning: 	Moved Permanently for https://topallenatori.com/?p=4213
 
-09:55:22	Warning: 	File has moved from https://www.topallenatori.it/?p=4213 to https://www.topallenatori.it/societa-di-calcio-cerca-istruttore/
+09:55:22	Warning: 	File has moved from https://topallenatori.com/?p=4213 to https://topallenatori.com/societa-di-calcio-cerca-istruttore/
 
-09:55:22	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=3823
+09:55:22	Warning: 	Moved Permanently for https://topallenatori.com/?p=3823
 
-09:55:22	Warning: 	File has moved from https://www.topallenatori.it/?p=3823 to https://www.topallenatori.it/ipnosi-nello-sport/
+09:55:22	Warning: 	File has moved from https://topallenatori.com/?p=3823 to https://topallenatori.com/ipnosi-nello-sport/
 
-09:55:22	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=2386
+09:55:22	Warning: 	Moved Permanently for https://topallenatori.com/?p=2386
 
-09:55:22	Warning: 	File has moved from https://www.topallenatori.it/?p=2386 to https://www.topallenatori.it/la-societa-citta-di-sesto-cerca-allenatori/
+09:55:22	Warning: 	File has moved from https://topallenatori.com/?p=2386 to https://topallenatori.com/la-societa-citta-di-sesto-cerca-allenatori/
 
-09:55:22	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=4576
+09:55:22	Warning: 	Moved Permanently for https://topallenatori.com/?p=4576
 
-09:55:22	Warning: 	File has moved from https://www.topallenatori.it/?p=4576 to https://www.topallenatori.it/niente-iscrizione-per-le-societa-che-non-pagano-gli-allenatori/
+09:55:22	Warning: 	File has moved from https://topallenatori.com/?p=4576 to https://topallenatori.com/niente-iscrizione-per-le-societa-che-non-pagano-gli-allenatori/
 
-09:55:25	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=4580
+09:55:25	Warning: 	Moved Permanently for https://topallenatori.com/?p=4580
 
-09:55:25	Warning: 	File has moved from https://www.topallenatori.it/?p=4580 to https://www.topallenatori.it/arese-calcio-cerca-allenatori/
+09:55:25	Warning: 	File has moved from https://topallenatori.com/?p=4580 to https://topallenatori.com/arese-calcio-cerca-allenatori/
 
-09:55:26	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=628
+09:55:26	Warning: 	Moved Permanently for https://topallenatori.com/?p=628
 
-09:55:26	Warning: 	File has moved from https://www.topallenatori.it/?p=628 to https://www.topallenatori.it/esercizi-calcio-allenamento-pulcini/
+09:55:26	Warning: 	File has moved from https://topallenatori.com/?p=628 to https://topallenatori.com/esercizi-calcio-allenamento-pulcini/
 
-09:55:26	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=636
+09:55:26	Warning: 	Moved Permanently for https://topallenatori.com/?p=636
 
-09:55:26	Warning: 	File has moved from https://www.topallenatori.it/?p=636 to https://www.topallenatori.it/esercizi-calcio-scuola-calcio/
+09:55:26	Warning: 	File has moved from https://topallenatori.com/?p=636 to https://topallenatori.com/esercizi-calcio-scuola-calcio/
 
-09:55:26	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=633
+09:55:26	Warning: 	Moved Permanently for https://topallenatori.com/?p=633
 
-09:55:26	Warning: 	File has moved from https://www.topallenatori.it/?p=633 to https://www.topallenatori.it/esercizi-calcio-allenamento/
+09:55:26	Warning: 	File has moved from https://topallenatori.com/?p=633 to https://topallenatori.com/esercizi-calcio-allenamento/
 
-09:55:34	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=4656
+09:55:34	Warning: 	Moved Permanently for https://topallenatori.com/?p=4656
 
-09:55:34	Warning: 	File has moved from https://www.topallenatori.it/?p=4656 to https://www.topallenatori.it/scuola-allenatori-nuovo-bando-uefa-a/
+09:55:34	Warning: 	File has moved from https://topallenatori.com/?p=4656 to https://topallenatori.com/scuola-allenatori-nuovo-bando-uefa-a/
 
-09:55:39	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=4679
+09:55:39	Warning: 	Moved Permanently for https://topallenatori.com/?p=4679
 
-09:55:39	Warning: 	File has moved from https://www.topallenatori.it/?p=4679 to https://www.topallenatori.it/esperia-lomazzo-calcio-cerca-allenatori/
+09:55:39	Warning: 	File has moved from https://topallenatori.com/?p=4679 to https://topallenatori.com/esperia-lomazzo-calcio-cerca-allenatori/
 
-09:55:39	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=2390
+09:55:39	Warning: 	Moved Permanently for https://topallenatori.com/?p=2390
 
-09:55:39	Warning: 	File has moved from https://www.topallenatori.it/?p=2390 to https://www.topallenatori.it/osal-novate-calcio-cerca-istruttore/
+09:55:39	Warning: 	File has moved from https://topallenatori.com/?p=2390 to https://topallenatori.com/osal-novate-calcio-cerca-istruttore/
 
-09:55:39	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=4215
+09:55:39	Warning: 	Moved Permanently for https://topallenatori.com/?p=4215
 
-09:55:39	Warning: 	File has moved from https://www.topallenatori.it/?p=4215 to https://www.topallenatori.it/scuola-calcio-elite-ricerca-istruttori/
+09:55:39	Warning: 	File has moved from https://topallenatori.com/?p=4215 to https://topallenatori.com/scuola-calcio-elite-ricerca-istruttori/
 
-09:55:47	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=4660
+09:55:47	Warning: 	Moved Permanently for https://topallenatori.com/?p=4660
 
-09:55:47	Warning: 	File has moved from https://www.topallenatori.it/?p=4660 to https://www.topallenatori.it/corsi-ad-invito-per-ottenere-la-licenza-uefa-c/
+09:55:47	Warning: 	File has moved from https://topallenatori.com/?p=4660 to https://topallenatori.com/corsi-ad-invito-per-ottenere-la-licenza-uefa-c/
 
-09:55:49	Warning: 	Moved Permanently for https://www.topallenatori.it/?p=4676
+09:55:49	Warning: 	Moved Permanently for https://topallenatori.com/?p=4676
 
-09:55:49	Warning: 	File has moved from https://www.topallenatori.it/?p=4676 to https://www.topallenatori.it/calcio-si-cerca-patentato-istruttore/
+09:55:49	Warning: 	File has moved from https://topallenatori.com/?p=4676 to https://topallenatori.com/calcio-si-cerca-patentato-istruttore/
 
 
 
